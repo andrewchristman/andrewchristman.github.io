@@ -36,13 +36,14 @@ defaults:
       author_profile: false
       share: false
       toc: true
+      toc_label: "On this page"
+      toc_sticky: true
       classes: wide
 
-# Minimal Mistakes author block
 author:
   name: "Andrew Christman"
-  bio: "Technical writing | Help Center & Enablement"
-  location: "Phoenix, AZ • Open to relocate"
+  bio: "Technical Writing | Help Center & Enablement"
+  location: "Phoenix, AZ"
   links:
     - label: "Portfolio"
       icon: "fas fa-link"
