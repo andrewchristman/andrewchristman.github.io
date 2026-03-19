@@ -10,13 +10,6 @@ $border-radius: 6px;
 .site-title {
   font-size: 2.4rem;
   font-weight: 700;
-  line-height: 1.1;
-}
-
-@media (max-width: 768px) {
-  .site-title {
-    font-size: 1.6rem;
-  }
 }
 
 .layout--splash .page__inner-wrap {
