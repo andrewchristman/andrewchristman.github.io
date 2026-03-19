@@ -17,7 +17,7 @@ include:
 collections:
   portfolio:
     output: true
-    permalink: /portfolio/:path/
+    permalink: /_portfolio/:path/
 
 defaults:
   - scope:
