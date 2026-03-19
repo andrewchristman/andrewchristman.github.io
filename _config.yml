@@ -1,0 +1,12 @@
+title: Andrew Christman
+description: Personal website
+url: "https://YOUR-USERNAME.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+
+plugins:
+  - jekyll-include-cache
+
+include:
+  - _pages
