@@ -30,7 +30,9 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-# Technical Writing Portfolio
+# Andrew Christman
+
+## Technical Writing Portfolio
 
 Clear, organized documentation for end users and internal enablement.
 
