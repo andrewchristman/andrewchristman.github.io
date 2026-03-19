@@ -17,7 +17,7 @@ feature_row:
     alt: "Getting Started With Markdown in 15 Minutes"
     title: "Getting Started With Markdown in 15 Minutes"
     excerpt: "Beginner onboarding tutorial with examples and guided practice."
-    url: /portfolio/markdown
+    url: /portfolio/markdown/
     btn_label: "Read Sample"
     btn_class: "btn--primary"
 
