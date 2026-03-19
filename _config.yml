@@ -53,7 +53,7 @@ author:
       url: "https://www.linkedin.com/in/andrew-christman/"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/YOUR_USERNAME"
+      url: "https://github.com/andrewchristman"
 
 footer:
   links:
@@ -62,7 +62,7 @@ footer:
       url: "https://www.linkedin.com/in/andrew-christman/"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/YOUR_USERNAME"
+      url: "https://github.com/andrewchristman"
 
 atom_feed:
   hide: true
