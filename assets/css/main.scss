@@ -7,24 +7,3 @@ $border-radius: 6px;
 
 @import "minimal-mistakes";
 
-/* Home page spacing */
-.layout--splash .page__title {
-  margin-top: 0;
-  margin-bottom: 0.5rem;
-}
-
-.layout--splash .page__content {
-  padding-top: 1rem;
-}
-
-.layout--splash .page__content > p {
-  margin-bottom: 1rem;
-}
-
-.layout--splash .feature__wrapper {
-  margin-top: 1.5rem;
-}
-
-.layout--splash .archive__item-teaser {
-  margin-bottom: 0.75rem;
-}
