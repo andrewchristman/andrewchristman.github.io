@@ -12,6 +12,11 @@ $border-radius: 6px;
   color: #000 !important;
 }
 
+.masthead__menu-item a:hover,
+.site-title:hover {
+  color: #000 !important;
+}
+
 .site-title {
   font-size: 2.4rem;
   font-weight: 700;
