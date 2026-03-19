@@ -17,7 +17,7 @@ feature_row:
     alt: "Getting Started With Markdown in 15 Minutes"
     title: "Getting Started With Markdown in 15 Minutes"
     excerpt: "Beginner onboarding tutorial with examples and guided practice."
-    url: /portfolio/markdown
+    url: /portfolio/markdown.md
     btn_label: "Read Sample"
     btn_class: "btn--primary"
 
@@ -25,7 +25,7 @@ feature_row:
     alt: "Version Control & Git: A Guide for Non-Technical Users"
     title: "Version Control & Git: A Guide for Non-Technical Users"
     excerpt: "Conceptual explainer"
-    url: /portfolio/version control and git
+    url: /portfolio/version control and git.md
     btn_label: "Read Sample"
     btn_class: "btn--primary"
 ---
