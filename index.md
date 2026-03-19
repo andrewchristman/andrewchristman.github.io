@@ -31,8 +31,7 @@ feature_row:
 ---
 
 # Technical Writing Portfolio
-
-I'm a technical writing candidate with a background in philosophy and teaching. I create clear, structured documentation that helps users complete tasks with less friction. 
+ 
 
 [View Portfolio](/portfolio/){: .btn .btn--primary}
 [View Resume](/resume/){: .btn .btn--primary}
