@@ -4,8 +4,6 @@ title: "Portfolio"
 permalink: /portfolio/
 ---
 
-# Portfolio
-
 Under development.
 
 ## Writing Samples
