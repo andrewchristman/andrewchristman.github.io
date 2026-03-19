@@ -1,14 +1,8 @@
 ---
 layout: splash
-title: "Technical Writing Portfolio"
+title: ""
 permalink: /
-header:
-  overlay_color: "#f8f9fa"
-  actions:
-    - label: "View Portfolio"
-      url: "/portfolio/"
-    - label: "View Resume"
-      url: "/resume/"
+author_profile: false
 intro:
   - excerpt: "Technical writing focused on help-center and enablement: procedural guides, onboarding content, troubleshooting, and conceptual explainers for non-technical users."
 feature_row:
@@ -35,8 +29,14 @@ feature_row:
     url: "/portfolio/version-control-git/"
     btn_label: "Read Sample"
     btn_class: "btn--primary"
-author_profile: false
 ---
+
+# Technical Writing Portfolio
+
+Technical writing focused on help-center and enablement: procedural guides, onboarding content, troubleshooting, and conceptual explainers for non-technical users.
+
+[View Portfolio](/portfolio/){: .btn .btn--primary}
+[View Resume](/resume/){: .btn .btn--primary}
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
