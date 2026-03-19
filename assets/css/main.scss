@@ -7,6 +7,14 @@ $border-radius: 6px;
 
 @import "minimal-mistakes";
 
+.layout--splash .page__inner-wrap {
+  padding-top: 2rem;
+}
+
+.layout--splash .page__title {
+  margin-top: 0.5rem;
+}
+
 /* Home page spacing */
 .layout--splash .page__title {
   margin-top: 0;
