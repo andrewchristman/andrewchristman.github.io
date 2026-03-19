@@ -4,8 +4,6 @@ title: ""
 permalink: /
 author_profile: false
 
-intro:
-  - excerpt: "Technical writing focused on help-center and enablement: procedural guides, onboarding content, troubleshooting, and conceptual explainers for non-technical users."
 
 feature_row:
   - image_path: /assets/images/portfolio/paperscorer/cover.png
