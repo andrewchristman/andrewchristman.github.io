@@ -1,12 +1,70 @@
 title: Andrew Christman
-description: Personal website
-url: "https://YOUR-USERNAME.github.io"
+name: Andrew Christman
+description: Technical writing portfolio focused on help-center and enablement
+url: "https://andrewchristman.com"
 baseurl: ""
+repository: "andrewchristman/andrewchristman.github.io"
+locale: "en-US"
 
-remote_theme: "mmistakes/minimal-mistakes@4.28.0"
-minimal_mistakes_skin: "contrast"
+remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
   - jekyll-include-cache
 
 include:
   - _pages
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      share: false
+
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      toc: true
+      classes: wide
+
+# Minimal Mistakes author block
+author:
+  name: "Andrew Christman"
+  bio: "Technical writing | Help Center & Enablement"
+  location: "Phoenix, AZ • Open to relocate"
+  links:
+    - label: "Portfolio"
+      icon: "fas fa-link"
+      url: "https://andrewchristman.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/andrew-christman/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/YOUR_USERNAME"
+
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/andrew-christman/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/YOUR_USERNAME"
+
+atom_feed:
+  hide: true
+
+search: false
+breadcrumbs: false
