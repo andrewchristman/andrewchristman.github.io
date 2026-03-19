@@ -25,7 +25,7 @@ feature_row:
     alt: "Version Control & Git: A Guide for Non-Technical Users"
     title: "Version Control & Git: A Guide for Non-Technical Users"
     excerpt: "Conceptual explainer"
-    url: /portfolio/version control and git
+    url: /portfolio/version-control-and-git
     btn_label: "Read Sample"
     btn_class: "btn--primary"
 ---
