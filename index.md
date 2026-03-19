@@ -6,26 +6,26 @@ author_profile: false
 
 feature_row:
   - image_path: /assets/images/portfolio/paperscorer/cover.png
-    alt: "PaperScorer sample"
-    title: "PaperScorer"
+    alt: "PaperScorer How-To Guide: Scanning and Uploading Student Answer Sheets"
+    title: "PaperScorer How-To Guide: Scanning and Uploading Student Answer Sheets"
     excerpt: "Workflow guide with troubleshooting and escalation guidance."
-    url: /portfolio/paperscorer/
+    url: /portfolio/paperscorer.md
     btn_label: "Read Sample"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/portfolio/markdown/cover.png
-    alt: "Markdown quick start"
-    title: "Markdown Quick Start"
+    alt: "Getting Started With Markdown in 15 Minutes"
+    title: "Getting Started With Markdown in 15 Minutes"
     excerpt: "Beginner onboarding tutorial with examples and guided practice."
-    url: /portfolio/markdown-quick-start/
+    url: /portfolio/markdown
     btn_label: "Read Sample"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/portfolio/git/cover.png
-    alt: "Git explainer"
-    title: "Version Control & Git"
-    excerpt: "Conceptual explainer for non-technical users."
-    url: /portfolio/version-control-git/
+    alt: "Version Control & Git: A Guide for Non-Technical Users"
+    title: "Version Control & Git: A Guide for Non-Technical Users"
+    excerpt: "Conceptual explainer"
+    url: /portfolio/version control and git
     btn_label: "Read Sample"
     btn_class: "btn--primary"
 ---
