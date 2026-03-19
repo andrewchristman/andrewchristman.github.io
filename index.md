@@ -9,7 +9,7 @@ feature_row:
     alt: "PaperScorer How-To Guide: Scanning and Uploading Student Answer Sheets"
     title: "PaperScorer How-To Guide: Scanning and Uploading Student Answer Sheets"
     excerpt: "Workflow guide with troubleshooting and escalation guidance."
-    url: /portfolio/paperscorer.md
+    url: /portfolio/paperscorer
     btn_label: "Read Sample"
     btn_class: "btn--primary"
 
@@ -17,7 +17,7 @@ feature_row:
     alt: "Getting Started With Markdown in 15 Minutes"
     title: "Getting Started With Markdown in 15 Minutes"
     excerpt: "Beginner onboarding tutorial with examples and guided practice."
-    url: /portfolio/markdown.md
+    url: /portfolio/markdown
     btn_label: "Read Sample"
     btn_class: "btn--primary"
 
@@ -25,7 +25,7 @@ feature_row:
     alt: "Version Control & Git: A Guide for Non-Technical Users"
     title: "Version Control & Git: A Guide for Non-Technical Users"
     excerpt: "Conceptual explainer"
-    url: /portfolio/version control and git.md
+    url: /portfolio/version control and git
     btn_label: "Read Sample"
     btn_class: "btn--primary"
 ---
