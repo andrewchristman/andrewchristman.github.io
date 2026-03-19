@@ -4,7 +4,6 @@ title: ""
 permalink: /
 author_profile: false
 
-
 feature_row:
   - image_path: /assets/images/portfolio/paperscorer/cover.png
     alt: "PaperScorer sample"
@@ -38,5 +37,4 @@ Clear, organized documentation for end users and internal enablement.
 [View Portfolio](/portfolio/){: .btn .btn--primary}
 [View Resume](/resume/){: .btn .btn--primary}
 
-{% include feature_row id="intro" type="center" %}
 {% include feature_row %}
