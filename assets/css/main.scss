@@ -7,6 +7,11 @@ $border-radius: 6px;
 
 @import "minimal-mistakes";
 
+.masthead__menu-item a,
+.site-title {
+  color: #000 !important;
+}
+
 .site-title {
   font-size: 2.4rem;
   font-weight: 700;
