@@ -21,7 +21,7 @@ feature_row:
 
   - image_path: /assets/images/portfolio/git/cover.png
     title: "Version Control & Git: A Guide for Non-Technical Users"
-    excerpt: "Conceptual explainer"
+    excerpt: "Conceptual explainer."
     url: /portfolio/version-control-and-git/
     btn_label: "View Portfolio Piece"
     btn_class: "btn--primary"
