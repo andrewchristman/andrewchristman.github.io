@@ -7,16 +7,17 @@ title: "Version Control & Git: A Guide for Non-Technical Users"
 
 {: .notice--primary}
 **Project Brief**
-* Audience: Teachers using PaperScorer for grading (spec work).
-* User Goal: To scan and upload student answer sheets to the PaperScorer application.   
-* Problem: The procedure is complex, and there are many failure points. 
-* Scope: This guide covers a recommended method for scanning and uploading batches of sheets in detail and briefly mentions alternatives. 
+* Audience: Non-technical users (spec work).
+* User Goal: To understand the big picture of version control and Git without getting lost in the technical details.    
+* Problem: Version control and Git need to be explained, but Git can be intimidating for non-technical audiences.  
+ 
+* Scope: This conceptual guide explains version control and Git without covering implementation details.   
 * Key Considerations:  
-    *  Guide is scoped to scanning and uploading assessments, not creating assessments, to avoid overwhelming the user.  
-    *  Alternative methods for scanning and uploading are mentioned but not described in detail to avoid overwhelming the user. 
-    * Error states are discussed in detail to account for variance in how students complete sheets and problems in transitioning from a physical medium to a digital medium. 
-* Success Criteria: Teachers can scan and upload sheets to PaperScorer in less than 20 minutes while correcting all errors.  
-* Next Iteration: After evaluating user feedback, revise until 100% of pilot teachers meet the success criteria.
+    *  Everyday examples such as emailing to yourself are used to help de-mystify version control and Git for the intended audience.
+    *  Implementation details such as CLI are omitted to avoid overwhelming the intended audience.
+    * The value of using Git is explained so that the audience can grasp the practical significance of using Git in addition to understanding what it is. 
+* Success Criteria: The user can define commit, repo, branch, merge and explain the difference between Git and GitHub & GitLab.
+* Next Iteration: After evaluating user feedback, revise until 100% of pilot non-technical readers meet the success criteria.
 
 ---
 
