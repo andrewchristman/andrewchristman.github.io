@@ -55,20 +55,24 @@ This scanning method involves using a scanner/copier to create a PDF of the shee
 #### USB Drive Version
 1. Insert the USB drive into the scanner/copier.
 2. Place the sheets in the feeder on top of the scanner/copier.
+
    **Tip:** Sheets do not need to be sorted by section. You can enter all class sections as a single stack and the application will sort by section   later.
    {: .notice--info}
+   
 3. Select **Scan to USB** in the scanner/copier's user interface. The exact wording and procedure may vary by model. Use the scanner/copier settings mentioned above.
 4. The scanner/copier will process the sheets and save the file to the USB drive.  
 5. Once the file is saved to the USB drive, you are ready to upload the file to PaperScorer. See the **Uploading** section below for instructions.  
 
 #### Email to Yourself Version
 1. Place the sheets in the feeder on top of the scanner/copier.
+
    **Tip:** Sheets do not need to be sorted by section. You can enter all class sections as a single stack and the application will sort by section later.
    {: .notice--info}
-2. Select **Email** in the scanner/copier's user interface. Enter your own email address as the recipient email address. The exact wording and procedure may vary by model. Use the scanner/copier settings described above. 
-3. The scanner/copier will process the sheets and email the file to your email address. 
-4. Once you receive the PDF by email, save the file to a location on your computer.  
-5. You are now ready to upload the file to PaperScorer. See the **Uploading** section below for instructions. 
+   
+3. Select **Email** in the scanner/copier's user interface. Enter your own email address as the recipient email address. The exact wording and procedure may vary by model. Use the scanner/copier settings described above. 
+4. The scanner/copier will process the sheets and email the file to your email address. 
+5. Once you receive the PDF by email, save the file to a location on your computer.  
+6. You are now ready to upload the file to PaperScorer. See the **Uploading** section below for instructions. 
 
 ### Alternatives (Summary Only)
 
