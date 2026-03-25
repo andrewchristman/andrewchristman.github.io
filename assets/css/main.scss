@@ -79,10 +79,13 @@ blockquote.notice--danger * {
   margin-bottom: 0.75rem;
 }
 
+/* Remove italics from all blockquotes and their contents */
 blockquote,
 blockquote p,
 blockquote li,
 blockquote ul,
-blockquote ol {
+blockquote ol,
+blockquote strong,
+blockquote em {
   font-style: normal !important;
 }
