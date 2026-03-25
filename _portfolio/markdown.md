@@ -35,6 +35,7 @@ You can format headings using hashes `#`. For example:
 will show as
 
 {% capture rendered_heading %}
+
 # Heading
 {% endcapture %}
 <div class="demo-output"> {{ rendered_heading | markdownify }} </div> ```
