@@ -35,8 +35,6 @@ I create clear, structured documentation that helps users complete tasks with le
 
 <img width="468" height="109" alt="image" src="https://github.com/user-attachments/assets/d6f32820-8a2d-4072-9051-87c9603b9650" />
 
-
-[View Portfolio](/portfolio/){: .btn .btn--primary}
 [View Resume](/resume/){: .btn .btn--primary}
 
 {% include feature_row %}
