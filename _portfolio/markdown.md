@@ -117,8 +117,12 @@ To insert an image, add an exclamation mark followed by alt text in brackets and
 ```
 
 will show as
->
-> ![View from the South Rim of the Grand Canyon](https://upload.wikimedia.org/wikipedia/commons/f/f0/Grand_Canyon_National_Park_-_HCP_-_September_29%2C_2022_-_058_-_Southern_Rim.jpg)
+
+{% capture rendered_image %}
+![View from the South Rim of the Grand Canyon](https://upload.wikimedia.org/wikipedia/commons/f/f0/Grand_Canyon_National_Park_-_HCP_-_September_29%2C_2022_-_058_-_Southern_Rim.jpg)
+{% endcapture %}
+
+<div class="demo-output"> {{ rendered_image | markdownify }} </div>
 
 Alt text describes the image for screen readers and other assistive devices. While you cannot see the alt text visually, it is still present. 
 
@@ -129,31 +133,49 @@ Insert an image using the URL above and your own alt text.
 ## Ordered and Unordered Lists 
 There are two types of lists: ordered and unordered. Ordered lists have a sequential order (such as 1, 2, 3...), while unordered lists do not. Markdown displays ordered lists using numbers. To make an ordered list, use a number followed by a period before each list item. For example:   
 
-> ```
-> 1. List Item 1  
-> 2. List Item 2  
-> ``` 
-> Will show as
-> 1. List Item 1
-> 2. List Item 2
+```markdown
+1. List Item 1  
+2. List Item 2  
+``` 
+
+will show as
+
+{% capture rendered_orderedlist %}
+1. List Item 1
+2. List Item 2
+{% endcapture %}
+
+<div class="demo-output"> {{ rendered_orderedlist | markdownify }} </div>
 
 Markdown uses bullet points to display an unordered list. To make an unordered list, use an asterisk or hyphen before each list item.  For example:
 
-> ```
-> * List Item 1
-> * List Item 2
-> ```
-> Will show as
-> * List Item 1
-> * List Item 2
+```markdown
+* List Item 1
+* List Item 2
+```
 
-> ```
-> - List Item 1
-> - List Item 2
-> ```
-> Will show as
-> - List Item 1
-> - List Item 2
+will show as
+
+{% capture rendered_unorderedlistbullets %}
+* List Item 1
+* List Item 2
+{% endcapture %}
+
+<div class="demo-output"> {{ rendered_unorderedlistbullets | markdownify }} </div>
+
+```markdown
+- List Item 1
+- List Item 2
+```
+
+will show as
+
+{% capture rendered_unorderedlisthyphens %}
+- List Item 1
+- List Item 2
+{% endcapture %}
+
+<div class="demo-output"> {{ rendered_unorderedlisthyphens | markdownify }} </div>
 
 **Optional Practice:** 
 Make an ordered list with three items and two unordered lists with three items, one with asterisks and one with hyphens.
@@ -163,25 +185,35 @@ Make an ordered list with three items and two unordered lists with three items, 
 
 To display text as inline code, use a single backtick `` ` `` before and after the text. For example:
 
-> ``` 
-> `Code` 
-> ```
-> Will show as
->     
-> `Code`
+```markdown
+`Code` 
+```
+
+will show as
+
+{% capture rendered_code %}
+`Code`
+{% endcapture %}
+
+<div class="demo-output"> {{ rendered_code | markdownify }} </div>
 
 To display text in a code block, place triple backticks before and after the text. For example:
 
->````
->``` 
-> Code 
->```
->````
-> Will show as
->     
->``` 
-> Code 
->```
+````markdown
+``` 
+Code 
+```
+````
+
+will show as
+
+{% capture rendered_codeblock %}
+``` 
+Code 
+```
+{% endcapture %}
+
+<div class="demo-output"> {{ rendered_codeblock | markdownify }} </div>
 
 **Optional Practice:** 
 Write a code sample, real or invented, and enclose it in single backticks for inline code and triple backticks for a code block. 
@@ -191,13 +223,19 @@ Write a code sample, real or invented, and enclose it in single backticks for in
 
 To separate text as a block quote, use a right angle bracket `>` before the text. For example:
 
-> Preceding Text  
-> `> Block Quote`  
-> 
-> Will show as  
->
-> Preceding Text  
-> > Block Quote
+```markdown
+Preceding Text  
+`> Block Quote`
+```  
+
+will show as  
+
+{% capture rendered_blockquote %}
+Preceding Text  
+> Block Quote
+{% endcapture %}
+
+<div class="demo-output"> {{ rendered_blockquote | markdownify }} </div>
 
 **Optional Practice:** 
 Choose a favorite quote, write some commentary on it, and then insert the quote as a blockquote.
