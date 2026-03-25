@@ -117,7 +117,8 @@ To correct errors, follow these steps:
 * If the website page appears stuck, wait 1–2 minutes and **refresh the page**. 
 * If the issue persists, switch to a **different browser** or use **incognito/private mode**. 
 
-### Common Issues 
+### Common Issues
+
 | What You See | Likely Cause | What to Do |
 |---|---|---|
 | **File upload rejected** | Wrong file format, file too large, internet connection issues | Make sure file is **PDF** (not JPEG, PNG, etc.), **250 MB or smaller**, and the **internet connection is fast enough and stable** (use a speed-check website to check). | 
