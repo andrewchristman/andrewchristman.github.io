@@ -21,9 +21,6 @@ title: "PaperScorer How-To Guide: Scanning and Uploading Student Answer Sheets"
 ---
 
 # PaperScorer How-To Guide: Scanning and Uploading Student Answer Sheets
-...
-
-# PaperScorer How-To Guide: Scanning and Uploading Student Answer Sheets
 
 This how-to guide explains how to scan and upload student answer sheets to PaperScorer. Meant for non-technical users, this guide shows how to accomplish this task quickly and efficiently, leaving more time for grading.   
 
