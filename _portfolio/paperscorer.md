@@ -20,8 +20,6 @@ title: "PaperScorer How-To Guide: Scanning and Uploading Student Answer Sheets"
 
 ---
 
-## Sample
-
 # PaperScorer How-To Guide: Scanning and Uploading Student Answer Sheets
 ...
 
