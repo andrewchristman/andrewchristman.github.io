@@ -90,14 +90,9 @@ Sheets do not need to be sorted by section. You can enter all class sections as 
 #### Direct Email: 
 Scan the sheets as described above, but instead of using a USB drive or emailing to yourself, email the PDF directly to `scan@paperscorer.com`. PaperScorer will then process the PDF automatically.
 
-{% capture tip_box %}
 **Caution:** 
 With direct emails, failed pages are not easy to identify in PaperScorer. For large batches, use another method.     
-{% endcapture %}
-
-<div class="notice--warning">
-  {{ tip_box | markdownify }}
-</div> 
+{: .notice--warning}
 
 #### Mobile App:
 Open the PaperScorer mobile app and center a single sheet in the camera viewfinder. The app will then automatically take a photo of the sheet and upload it to PaperScorer.   
