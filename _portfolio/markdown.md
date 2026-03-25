@@ -66,8 +66,17 @@ will show as
 
 To make text italic, use an underscore `_` before and after the text. For example:
 
-> `_Italic_` will show as  
-> _Italic_
+```markdown
+_Italic_
+```
+
+will show as  
+
+{% capture rendered_italic %}
+_Italic_
+{% endcapture %}
+
+<div class="demo-output"> {{ rendered_italic | markdownify }} </div>
 
 > **Note:** Asterisks can often, but not always, be used instead of underscores. For example, `*Italic*` will often show as *Italic*. 
 
