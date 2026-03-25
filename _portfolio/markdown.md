@@ -43,7 +43,9 @@ will show as
 
 There are six heading levels. Use one hash for the largest size and six hashes for the smallest size (for example, `# Heading`markdown and `###### Heading`).
 
-> **Optional Practice:** Make a series of headings from one hash to six. 
+**Optional Practice:** 
+Make a series of headings from one hash to six.
+{: .notice--primary}
 
 ## Bold and Italic Text
 
