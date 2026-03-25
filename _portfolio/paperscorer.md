@@ -120,7 +120,11 @@ To correct errors, follow these steps:
 5. Once you have found the failed sheets, note the names of the affected students.
 ![Note identifiers of affected students image](assets/images/portfolio/8-student-name.png) 
 6. Pull out the relevant paper sheets from the stack. These paper sheets must be re-scanned.   
-> **Tip:** For a small number of affected sheets, using the PaperScorer mobile app is quick and easy.
+
+**Tip:** 
+For a small number of affected sheets, using the PaperScorer mobile app is quick and easy.
+{: .notice--info}
+
 7. If the affected sheets re-scan without issue, you are ready to begin grading. If sheets continue to fail, proceed to troubleshooting in the following section.   
 
 ## Troubleshooting
