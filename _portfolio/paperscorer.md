@@ -56,7 +56,8 @@ This scanning method involves using a scanner/copier to create a PDF of the shee
 1. Insert the USB drive into the scanner/copier.
 2. Place the sheets in the feeder on top of the scanner/copier.
 
-   **Tip:** Sheets do not need to be sorted by section. You can enter all class sections as a single stack and the application will sort by section   later.
+   **Tip:** 
+   Sheets do not need to be sorted by section. You can enter all class sections as a single stack and the application will sort by section   later.
    {: .notice--info}
    
 3. Select **Scan to USB** in the scanner/copier's user interface. The exact wording and procedure may vary by model. Use the scanner/copier settings mentioned above.
