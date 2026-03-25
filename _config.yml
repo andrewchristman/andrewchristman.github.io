@@ -35,9 +35,7 @@ defaults:
       layout: single
       author_profile: false
       share: false
-      toc: true
-      toc_label: "On this page"
-      toc_sticky: true
+      toc: false
       classes: wide
 
 author:
