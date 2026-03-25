@@ -34,7 +34,10 @@ You can format headings using hashes `#`. For example:
 ```
 will show as
 
+{% capture rendered_heading %}
 # Heading
+{% endcapture %}
+<div class="demo-output"> {{ rendered_heading | markdownify }} </div> ```
 
 There are six heading levels. Use one hash for the largest size and six hashes for the smallest size (for example, `# Heading` and `###### Heading`).
 
