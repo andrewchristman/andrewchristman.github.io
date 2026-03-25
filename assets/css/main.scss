@@ -101,3 +101,15 @@ blockquote em {
 .demo-output > :last-child {
   margin-bottom: 0;
 }
+
+.markdown-guide .page__content pre,
+.markdown-guide .page__content .highlight pre {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.markdown-guide .page__content pre code,
+.markdown-guide .page__content .highlight pre code {
+  white-space: inherit;
+}
