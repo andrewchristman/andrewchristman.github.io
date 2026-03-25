@@ -41,7 +41,7 @@ will show as
 
 <div class="demo-output"> {{ rendered_heading | markdownify }} </div> 
 
-There are six heading levels. Use one hash for the largest size and six hashes for the smallest size (for example, `# Heading` and `###### Heading`).
+There are six heading levels. Use one hash for the largest size and six hashes for the smallest size (for example, `# Heading`markdown and `###### Heading`).
 
 > **Optional Practice:** Make a series of headings from one hash to six. 
 
