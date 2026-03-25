@@ -38,7 +38,8 @@ will show as
 
 # Heading
 {% endcapture %}
-<div class="demo-output"> {{ rendered_heading | markdownify }} </div> ```
+
+<div class="demo-output"> {{ rendered_heading | markdownify }} </div> 
 
 There are six heading levels. Use one hash for the largest size and six hashes for the smallest size (for example, `# Heading` and `###### Heading`).
 
