@@ -6,6 +6,33 @@ $muted-text-color: #4b5563;
 $border-radius: 6px;
 
 @import "minimal-mistakes";
+/* Remove italics from notice/callout boxes */
+.notice,
+.notice--primary,
+.notice--info,
+.notice--warning,
+.notice--success,
+.notice--danger,
+blockquote.notice,
+blockquote.notice--primary,
+blockquote.notice--info,
+blockquote.notice--warning,
+blockquote.notice--success,
+blockquote.notice--danger,
+.notice *,
+.notice--primary *,
+.notice--info *,
+.notice--warning *,
+.notice--success *,
+.notice--danger *,
+blockquote.notice *,
+blockquote.notice--primary *,
+blockquote.notice--info *,
+blockquote.notice--warning *,
+blockquote.notice--success *,
+blockquote.notice--danger * {
+  font-style: normal !important;
+}
 
 .masthead__menu-item a,
 .site-title {
@@ -52,32 +79,3 @@ $border-radius: 6px;
   margin-bottom: 0.75rem;
 }
 
-.notice,
-.notice--primary,
-.notice--info,
-.notice--warning,
-.notice--success,
-.notice--danger,
-blockquote.notice,
-blockquote.notice--primary,
-blockquote.notice--info,
-blockquote.notice--warning,
-blockquote.notice--success,
-blockquote.notice--danger {
-  font-style: normal;
-}
-
-.notice p,
-.notice--primary p,
-.notice--info p,
-.notice--warning p,
-.notice--success p,
-.notice--danger p,
-blockquote.notice p,
-blockquote.notice--primary p,
-blockquote.notice--info p,
-blockquote.notice--warning p,
-blockquote.notice--success p,
-blockquote.notice--danger p {
-  font-style: normal;
-}
