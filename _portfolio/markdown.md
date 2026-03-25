@@ -48,7 +48,7 @@ There are six heading levels. Use one hash for the largest size and six hashes f
 
 **Optional Practice:** 
 Make a series of headings from one hash to six.
-{: .notice--success}
+{: .notice}
 
 ## Bold and Italic Text
 
