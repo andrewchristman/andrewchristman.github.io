@@ -4,7 +4,6 @@ permalink: /resume/
 layout: single
 author_profile: false
 ---
-# Resume
 
 You can download my resume here:
 
