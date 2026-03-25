@@ -29,8 +29,11 @@ Markdown is a simple way to format text for display on the web and related appli
 ## Headings
 You can format headings using hashes `#`. For example:
 
-> `# Heading` will show as
-> # Heading
+`# Heading` will show as
+```markdown
+# Heading
+```
+# Heading
 
 There are six heading levels. Use one hash for the largest size and six hashes for the smallest size (for example, `# Heading` and `###### Heading`).
 
