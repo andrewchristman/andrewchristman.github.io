@@ -8,9 +8,9 @@ author_profile: false
 
 You can get in contact with me here:
 
-LinkedIn:
+LinkedIn: linkedin.com/in/andrew-christman
 
-GitHub:
+GitHub: https://github.com/andrewchristman
 
 Resume: 
 
