@@ -5,7 +5,6 @@ title: "Getting Started With Markdown in 15 Minutes"
 
 (in progress)
 
-
 > **Project Brief**
 > * Audience: Non-technical users (spec work).
 > * User Goal: To get started using basic Markdown. 
@@ -38,7 +37,6 @@ You can format headings using hashes `#`. For example:
 will show as
 
 {% capture rendered_heading %}
-
 # Heading
 {% endcapture %}
 
@@ -54,8 +52,17 @@ Make a series of headings from one hash to six.
 
 To make text bold, use two asterisks `**` before and after the text. For example:
 
-> `**Bold**` will show as  
-> **Bold**
+```markdown
+**Bold**
+```
+
+will show as
+
+{% capture rendered_bold %}
+**Bold**
+{% endcapture %}
+
+<div class="demo-output"> {{ rendered_bold | markdownify }} </div> 
 
 To make text italic, use an underscore `_` before and after the text. For example:
 
