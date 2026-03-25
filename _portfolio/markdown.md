@@ -26,7 +26,7 @@ Markdown is a simple way to format text for display on the web and related appli
 
 **Note:** 
 Markdown is best thought of as a family of related formatting languages. Different versions of Markdown are called different **flavors**. There is also **Markdown-like formatting** that shares many features with Markdown but departs from it more substantially. This quick start guide will provide a solid foundation for both Markdown proper and Markdown-like formatting.
-{: .notice--info}
+{: .notice--primary}
 
 ## Headings
 You can format headings using hashes `#`. For example:
