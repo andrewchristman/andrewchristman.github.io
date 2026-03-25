@@ -78,33 +78,53 @@ _Italic_
 
 <div class="demo-output"> {{ rendered_italic | markdownify }} </div>
 
-> **Note:** Asterisks can often, but not always, be used instead of underscores. For example, `*Italic*` will often show as *Italic*. 
+**Note:** 
+Asterisks can often, but not always, be used instead of underscores. For example, `*Italic*` will often show as *Italic*.
+{: .notice}
 
-> **Optional Practice:** Write a sentence with one **bold** word and one _italic_ word. 
+**Optional Practice:** 
+Write a sentence with one **bold** word and one _italic_ word.
+{: .notice}
 
 ## Inline Links
 
 Inline links place the link directly in the line of text (hence the name). To insert an inline link, place the desired link text in brackets and the link URL in parentheses immediately following the brackets. For example:
 
-> `[CommonMark](https://spec.commonmark.org/) is a widely accepted formal specification for Markdown.` will show as  
-> 
-> [CommonMark](https://spec.commonmark.org/) is a widely accepted formal specification for Markdown. 
+```markdown
+[CommonMark](https://spec.commonmark.org/) is a widely accepted formal specification for Markdown.
+```
+
+will show as 
+
+{% capture rendered_inlinelink %}
+[CommonMark](https://spec.commonmark.org/) is a widely accepted formal specification for Markdown.
+{% endcapture %}
+
+<div class="demo-output"> {{ rendered_inlinelink | markdownify }} </div>
 
 Best practice is to use descriptive text such as `CommonMark` as opposed to `Click Here` when formatting link text. 
 
-> **Optional Practice:** Make an inline link with descriptive link text and a URL to a Wikipedia page. 
+**Optional Practice:** 
+Make an inline link with descriptive link text and a URL to a Wikipedia page. 
+{: .notice}
 
 ## Images
 
 To insert an image, add an exclamation mark followed by alt text in brackets and then the URL in parentheses. For example:
 
-> `![View from the South Rim of the Grand Canyon](https://upload.wikimedia.org/wikipedia/commons/f/f0/Grand_Canyon_National_Park_-_HCP_-_September_29%2C_2022_-_058_-_Southern_Rim.jpg)` will show as
+```markdown
+![View from the South Rim of the Grand Canyon](https://upload.wikimedia.org/wikipedia/commons/f/f0/Grand_Canyon_National_Park_-_HCP_-_September_29%2C_2022_-_058_-_Southern_Rim.jpg)
+```
+
+will show as
 >
 > ![View from the South Rim of the Grand Canyon](https://upload.wikimedia.org/wikipedia/commons/f/f0/Grand_Canyon_National_Park_-_HCP_-_September_29%2C_2022_-_058_-_Southern_Rim.jpg)
 
 Alt text describes the image for screen readers and other assistive devices. While you cannot see the alt text visually, it is still present. 
 
-> **Optional Practice:** Insert an image using the URL above and your own alt text. 
+**Optional Practice:** 
+Insert an image using the URL above and your own alt text.
+{: .notice}
 
 ## Ordered and Unordered Lists 
 There are two types of lists: ordered and unordered. Ordered lists have a sequential order (such as 1, 2, 3...), while unordered lists do not. Markdown displays ordered lists using numbers. To make an ordered list, use a number followed by a period before each list item. For example:   
@@ -135,7 +155,9 @@ Markdown uses bullet points to display an unordered list. To make an unordered l
 > - List Item 1
 > - List Item 2
 
-> **Optional Practice:** Make an ordered list with three items and two unordered lists with three items, one with asterisks and one with hyphens.  
+**Optional Practice:** 
+Make an ordered list with three items and two unordered lists with three items, one with asterisks and one with hyphens.
+{: .notice}
 
 ## Code
 
@@ -161,7 +183,9 @@ To display text in a code block, place triple backticks before and after the tex
 > Code 
 >```
 
-> **Optional Practice:** Write a code sample, real or invented, and enclose it in single backticks for inline code and triple backticks for a code block. 
+**Optional Practice:** 
+Write a code sample, real or invented, and enclose it in single backticks for inline code and triple backticks for a code block. 
+{: .notice}
 
 ## Blockquotes
 
@@ -175,7 +199,9 @@ To separate text as a block quote, use a right angle bracket `>` before the text
 > Preceding Text  
 > > Block Quote
 
-> **Optional Practice:** Choose a favorite quote, write some commentary on it, and then insert the quote as a blockquote.
+**Optional Practice:** 
+Choose a favorite quote, write some commentary on it, and then insert the quote as a blockquote.
+{: .notice}
 
 ## Applications
 Here are some ways Markdown can be used:
@@ -203,7 +229,7 @@ Here are some ways Markdown can be used:
 
 ## Example
 
-Here is an example of text formatted with Markdown. Copy-paste this text into your editor of choice to see the rendered result. A free editor you can use online is [Dillinger](https://dillinger.io/).  
+Here is an example of text formatted with Markdown and the rendered result:  
 
 ```
 # Weekly Project Meeting Notes
@@ -233,6 +259,40 @@ Here is an example of text formatted with Markdown. Copy-paste this text into yo
 
 * Sarah will check with the dev team and report to the product manager. 
 ```
+{% capture rendered_example %}
+# Weekly Project Meeting Notes
+
+## Agenda
+
+1. Status updates
+2. Decisions required
+3. Risks / blockers
+4. Next steps
+
+## Status
+
+* **Installation Guide:** 90% complete
+* **Troubleshooting Guide:** Draft ready for review
+* **Open Question:** Who should make the quick start? 
+
+## Decisions
+
+* Sarah will draft the quick start starting next week. 
+
+## Risks / Blockers
+
+* Some members of the dev team are on vacation, so some details on the quick start may need to wait.
+
+## Next Steps
+
+* Sarah will check with the dev team and report to the product manager.
+{% endcapture %}
+
+<div class="demo-output"> {{ rendered_example | markdownify }} </div>
+
+**Optional Practice:**
+Copy-paste this text into your editor of choice to see the rendered result. A free editor you can use online is [Dillinger](https://dillinger.io/).
+{: .notice}
 
 ## Recommended Resources
 
