@@ -17,7 +17,6 @@ title: "Getting Started With Markdown in 15 Minutes"
 >    * An example of a document featuring multiple different Markdown formatting elements is provided so users can see Markdown applied in practice. 
 > * Success Criteria: The user can demonstrate marking up a document with each specified syntax element. 
 > * Next Iteration: After evaluating user feedback, revise until 100% of pilot non-technical readers meet the success criteria. 
-
 {: .notice}
 ---
 
