@@ -71,7 +71,15 @@ Sheets do not need to be sorted by section. You can enter all class sections as 
 
 #### Email to Yourself Version
 1. Place the sheets in the feeder on top of the scanner/copier.
-> **Tip:** Sheets do not need to be sorted by section. You can enter all class sections as a single stack and the application will sort by section later. 
+
+{% capture tip_box %}
+**Tip:** Sheets do not need to be sorted by section. You can enter all class sections as a single stack and the application will sort by section later.
+{% endcapture %}
+
+<div class="notice--info">
+  {{ tip_box | markdownify }}
+</div> 
+
 2. Select **Email** in the scanner/copier's user interface. Enter your own email address as the recipient email address. The exact wording and procedure may vary by model. Use the scanner/copier settings described above. 
 3. The scanner/copier will process the sheets and email the file to your email address. 
 4. Once you receive the PDF by email, save the file to a location on your computer.  
