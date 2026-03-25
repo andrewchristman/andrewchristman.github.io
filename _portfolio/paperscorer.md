@@ -87,7 +87,10 @@ With direct emails, failed pages are not easy to identify in PaperScorer. For la
 
 #### Mobile App:
 Open the PaperScorer mobile app and center a single sheet in the camera viewfinder. The app will then automatically take a photo of the sheet and upload it to PaperScorer.   
-> **Caution:** This method requires processing sheets individually. For large batches, use another method. 
+
+**Caution:** 
+This method requires processing sheets individually. For large batches, use another method. 
+{: .notice--warning}
 
 ## Uploading
 To upload the PDF to PaperScorer, follow these steps:  
