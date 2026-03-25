@@ -55,10 +55,18 @@ This scanning method involves using a scanner/copier to create a PDF of the shee
 #### USB Drive Version
 1. Insert the USB drive into the scanner/copier.
 2. Place the sheets in the feeder on top of the scanner/copier.
-> **Tip:** Sheets do not need to be sorted by section. You can enter all class sections as a single stack and the application will sort by section later. 
-3. Select **Scan to USB** in the scanner/copier's user interface. The exact wording and procedure may vary by model. Use the scanner/copier settings mentioned above.
-4. The scanner/copier will process the sheets and save the file to the USB drive.  
-5. Once the file is saved to the USB drive, you are ready to upload the file to PaperScorer. See the **Uploading** section below for instructions.  
+{% capture tip_box %}
+**Tip:**
+Sheets do not need to be sorted by section. You can enter all class sections as a single stack and the application will sort by section later.
+{% endcapture %}
+
+<div class="notice--info">
+  {{ tip_box | markdownify }}
+</div> 
+
+4. Select **Scan to USB** in the scanner/copier's user interface. The exact wording and procedure may vary by model. Use the scanner/copier settings mentioned above.
+5. The scanner/copier will process the sheets and save the file to the USB drive.  
+6. Once the file is saved to the USB drive, you are ready to upload the file to PaperScorer. See the **Uploading** section below for instructions.  
 
 #### Email to Yourself Version
 1. Place the sheets in the feeder on top of the scanner/copier.
