@@ -79,3 +79,10 @@ blockquote.notice--danger * {
   margin-bottom: 0.75rem;
 }
 
+blockquote,
+blockquote p,
+blockquote li,
+blockquote ul,
+blockquote ol {
+  font-style: normal !important;
+}
