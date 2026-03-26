@@ -113,3 +113,21 @@ blockquote em {
 .markdown-guide .page__content .highlight pre code {
   white-space: inherit;
 }
+
+.page__content img.doc-shot {
+  display: block;
+  width: 100%;
+  max-width: 780px;
+  margin: 1rem auto 1.5rem auto;
+  border: 1px solid #d8d8d8;
+  border-radius: 8px;
+}
+
+.page__content img.doc-shot--detail {
+  display: block;
+  width: 100%;
+  max-width: 620px;
+  margin: 1rem auto 1.5rem auto;
+  border: 1px solid #d8d8d8;
+  border-radius: 8px;
+}
