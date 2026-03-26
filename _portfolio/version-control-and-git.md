@@ -5,20 +5,18 @@ title: "Version Control & Git: A Guide for Non-Technical Users"
 
 (in progress)
 
-{: .notice--primary}
-**Project Brief**
-* Audience: Non-technical users (spec work).
-* User Goal: To understand the big picture of version control and Git without getting lost in the technical details.    
-* Problem: Version control and Git need to be explained, but Git can be intimidating for non-technical audiences.  
- 
-* Scope: This conceptual guide explains version control and Git without covering implementation details.   
-* Key Considerations:  
-    *  Everyday examples such as emailing to yourself are used to help de-mystify version control and Git for the intended audience.
-    *  Implementation details such as CLI are omitted to avoid overwhelming the intended audience.
-    * The value of using Git is explained so that the audience can grasp the practical significance of using Git in addition to understanding what it is. 
-* Success Criteria: The user can define commit, repo, branch, merge and explain the difference between Git and GitHub & GitLab.
-* Next Iteration: After evaluating user feedback, revise until 100% of pilot non-technical readers meet the success criteria.
-
+> **Project Brief**
+> * Audience: Non-technical users (spec work).
+> * User Goal: To understand the big picture of version control and Git without getting lost in the technical details.    
+> * Problem: Version control and Git need to be explained, but Git can be intimidating for non-technical audiences.   
+> * Scope: This conceptual guide explains version control and Git without covering implementation details.   
+> * Key Considerations:  
+>     *  Everyday examples such as emailing to yourself are used to help de-mystify version control and Git for the intended audience.
+>     *  Implementation details such as CLI are omitted to avoid overwhelming the intended audience.
+>     * The value of using Git is explained so that the audience can grasp the practical significance of using Git in addition to understanding what it is. 
+> * Success Criteria: The user can define commit, repo, branch, merge and explain the difference between Git and GitHub & GitLab.
+> * Next Iteration: After evaluating user feedback, revise until 100% of pilot non-technical readers meet the success criteria.
+{: .notice}
 ---
 
 ## Sample
