@@ -18,11 +18,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-    order:
-      - paperscorer.md
-      - version-control-and-git.md
-      - markdown.md
-    
 
 defaults:
   - scope:
