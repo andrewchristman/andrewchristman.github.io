@@ -13,5 +13,5 @@ My academic training in analytic philosophy honed my skills in careful reading, 
 
 My teaching experience added another layer—audience awareness. Working with students anywhere from 6th grade to college taught me how to adopt perspectives very different from my own and make information accessible to them. 
 
-This portfolio includes a how-to guide with troubleshooting for PaperScorer, a quick-start guide for Markdown, and a non-technical conceptual explainer for version control and Git. I’m currently seeking technical writing roles and would welcome the opportunity to [connect](https://www.andrewchristman.com/contact/). 
+This portfolio includes a how-to guide with troubleshooting for PaperScorer, a quick-start guide for Markdown, and a non-technical conceptual explainer for version control and Git. I’m currently seeking technical writing roles, and I would welcome the opportunity to [connect](https://www.andrewchristman.com/contact/). 
 
