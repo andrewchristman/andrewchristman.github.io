@@ -115,11 +115,6 @@ To upload the PDF to PaperScorer, follow these steps:
 5. Select the file in the file picker.
 6. Click **Upload**.
 7. After you click **Upload**, you will see **Processing**. Processing may take 5–10 minutes depending on file size.
-
-<img src="/assets/images/4-processing.png"
-     alt="Processing message"
-     class="doc-shot--detail">
-
 9. When processing is complete, you will see either **Completed with errors** or **Success**.
 
 <img src="/assets/images/success-failure.png"
