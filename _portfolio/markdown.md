@@ -26,9 +26,6 @@ sequence: 3
   </ul>
 </div>
 
-
-
-
 > **Project Brief**
 > * Audience: Non-technical users (spec work).
 > * User Goal: To get started using basic Markdown. 
