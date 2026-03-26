@@ -1,8 +1,7 @@
 ---
 layout: single
 title: "Getting Started With Markdown in 15 Minutes"
-classes:
-  - markdown-guide
+sequence: 3
 ---
 
 (in progress)
