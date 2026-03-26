@@ -122,17 +122,25 @@ To correct errors, follow these steps:
 3. Click **View scanned pages**.
 ![View scanned pages button image](/assets/images/6-view-scanned-pages.png)
 4. You will see a breakdown of how many sheets were scanned successfully and how many failed.
-5. To correct the errors, you must find the sheets that failed. Scroll down in the window and find the scans that have a red status bar. 
-![Red status bar image](/assets/images/7-failed-scans.png)
-6. Once you have found the failed sheets, note the names of the affected students.
-![Note identifiers of affected students image](/assets/images/8-student-name.png) 
-7. Pull out the relevant paper sheets from the stack. These paper sheets must be re-scanned.   
+5. To correct the errors, you must find the sheets that failed. Scroll down in the window and find the scans that have a red status bar.
+
+<img src="/assets/images/7-failed-scans.png"
+     alt="Red status bar image"
+     class="doc-shot">
+   
+7. Once you have found the failed sheets, note the names of the affected students.
+
+<img src="/assets/images/8-student-name.png"
+     alt="Note identifiers of affected students image"
+     class="doc-shot">
+
+8. Pull out the relevant paper sheets from the stack. These paper sheets must be re-scanned.   
 
      **Tip:** 
      For a small number of affected sheets, using the PaperScorer mobile app is quick and easy.
      {: .notice}
 
-8. If the affected sheets re-scan without issue, you are ready to begin grading. If sheets continue to fail, proceed to troubleshooting in the following section.   
+9. If the affected sheets re-scan without issue, you are ready to begin grading. If sheets continue to fail, proceed to troubleshooting in the following section.   
 
 ## Troubleshooting
 
