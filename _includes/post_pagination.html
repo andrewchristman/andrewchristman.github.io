@@ -12,14 +12,11 @@
   {% endfor %}
 
   {% if current_index != nil %}
-    {% assign prev_index = current_index | minus: 1 %}
-    {% assign next_index = current_index | plus: 1 %}
-
-    {% assign prev_doc = docs[prev_index] %}
-    {% assign next_doc = docs[next_index] %}
-
     <nav class="pagination" aria-label="Portfolio pagination">
-      {% if prev_doc %}
+
+      {% if current_index > 0 %}
+        {% assign prev_index = current_index | minus: 1 %}
+        {% assign prev_doc = docs[prev_index] %}
         <a href="{{ prev_doc.url | relative_url }}"
            class="pagination--pager"
            title="{{ prev_doc.title | markdownify | strip_html | strip }}">
@@ -31,7 +28,10 @@
         </a>
       {% endif %}
 
-      {% if next_doc %}
+      {% assign last_index = docs.size | minus: 1 %}
+      {% if current_index < last_index %}
+        {% assign next_index = current_index | plus: 1 %}
+        {% assign next_doc = docs[next_index] %}
         <a href="{{ next_doc.url | relative_url }}"
            class="pagination--pager"
            title="{{ next_doc.title | markdownify | strip_html | strip }}">
@@ -42,6 +42,7 @@
           Next Sample
         </a>
       {% endif %}
+
     </nav>
   {% endif %}
 
