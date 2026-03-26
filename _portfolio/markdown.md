@@ -195,13 +195,19 @@ To display text as inline code, use a single backtick `` ` `` before and after t
 
 will show as
 
+<div class="demo-output"><code>Code</code></div>
+
 {% capture rendered_code %}
 `Code`
 {% endcapture %}
 
 <div class="demo-output"> {{ rendered_code | markdownify }} </div>
 
-To display text in a code block, place triple backticks above and below the text. For example:
+To display text in a code block, place triple backticks on the line above and the line below the text. For example:
+
+<div class="demo-output"> <pre><code>Code</code></pre> </div>
+
+
 
 ````markdown
 ``` 
