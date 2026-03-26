@@ -5,7 +5,7 @@ title: "PaperScorer How-To Guide: Scanning and Uploading Student Answer Sheets"
 
 (in progress)
 
-{: .notice--primary}
+{: .notice}
 **Project Brief**
 * Audience: Teachers using PaperScorer for grading (spec work).
 * User Goal: To scan and upload student answer sheets to the PaperScorer application.   
