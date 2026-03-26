@@ -4,7 +4,7 @@ layout: collection
 permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
-classes: wide
+sort_by: sequence
 ---
 
 My portfolio samples are available below.
