@@ -229,7 +229,7 @@ To separate text as a block quote, use a right angle bracket `>` before the text
 
 ```markdown
 Preceding Text  
-`> Block Quote`
+> Block Quote
 ```  
 
 will show as  
