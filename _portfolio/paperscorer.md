@@ -5,19 +5,18 @@ title: "PaperScorer How-To Guide: Scanning and Uploading Student Answer Sheets"
 
 (in progress)
 
+> **Project Brief**
+> * Audience: Teachers using PaperScorer for grading (spec work).
+> * User Goal: To scan and upload student answer sheets to the PaperScorer application.   
+> * Problem: The procedure is complex, and there are many failure points. 
+> * Scope: This guide covers a recommended method for scanning and uploading batches of sheets in detail and briefly mentions alternatives. 
+> * Key Considerations:  
+>    *  Guide is scoped to scanning and uploading assessments, not creating assessments, to avoid overwhelming the user.  
+>    *  Alternative methods for scanning and uploading are mentioned but not described in detail to avoid overwhelming the user. 
+>    * Error states are discussed in detail to account for variance in how students complete sheets and problems in transitioning from a physical medium to a digital medium. 
+> * Success Criteria: Teachers can scan and upload sheets to PaperScorer in less than 20 minutes while correcting all errors.  
+> * Next Iteration: After evaluating user feedback, revise until 100% of pilot teachers meet the success criteria.
 {: .notice}
-**Project Brief**
-* Audience: Teachers using PaperScorer for grading (spec work).
-* User Goal: To scan and upload student answer sheets to the PaperScorer application.   
-* Problem: The procedure is complex, and there are many failure points. 
-* Scope: This guide covers a recommended method for scanning and uploading batches of sheets in detail and briefly mentions alternatives. 
-* Key Considerations:  
-    *  Guide is scoped to scanning and uploading assessments, not creating assessments, to avoid overwhelming the user.  
-    *  Alternative methods for scanning and uploading are mentioned but not described in detail to avoid overwhelming the user. 
-    * Error states are discussed in detail to account for variance in how students complete sheets and problems in transitioning from a physical medium to a digital medium. 
-* Success Criteria: Teachers can scan and upload sheets to PaperScorer in less than 20 minutes while correcting all errors.  
-* Next Iteration: After evaluating user feedback, revise until 100% of pilot teachers meet the success criteria.
-
 ---
 
 ## Sample
