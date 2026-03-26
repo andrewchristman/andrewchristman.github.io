@@ -335,7 +335,7 @@ Here is an example of text formatted with Markdown and the rendered result:
 <div class="demo-output"> {{ rendered_example | markdownify }} </div>
 
 **Optional Practice:**
-Copy-paste this text into your editor of choice to see the rendered result. A free editor you can use online is [Dillinger](https://dillinger.io/).
+Copy-paste the Markdown text into your editor of choice to see the rendered result. A free editor you can use online is [Dillinger](https://dillinger.io/).
 {: .notice}
 
 ## Recommended Resources
