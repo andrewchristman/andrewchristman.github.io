@@ -6,7 +6,7 @@ author_profile: false
 ---
 (in progress)
 
-You can connect with me here:
+You can contact me here:
 
 [LinkedIn](https://linkedin.com/in/andrew-christman)
 
