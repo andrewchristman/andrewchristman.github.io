@@ -94,22 +94,39 @@ This method requires processing sheets individually. For large batches, use anot
 ## Uploading
 To upload the PDF to PaperScorer, follow these steps:  
 
-1. Navigate to `https://www.paperscorer.com` in your browser and click **Log In**. ![PaperScorer Login Page](/assets/images/1-log-in.png) 
-2. Click **Upload & Score**.
+1. Navigate to `https://www.paperscorer.com` in your browser and click **Log In**.
+
+<img src="/assets/images/1-log-in.png"
+     alt="PaperScorer Login Page"
+     class="doc-shot">
+  
+5. Click **Upload & Score**.
 
 <img src="/assets/images/2-upload-and-score.png"
      alt="PaperScorer Upload and Score button"
      class="doc-shot">
   
 3. Click **Browse files**.
-![Browse files button](/assets/images/3-browse-files.png) 
-4. Select the file in the file picker.
-5. Click **Upload**.
-6. After you click **Upload**, you will see **Processing**. Processing may take 5–10 minutes depending on file size.
-![Processing message](/assets/images/4-processing.png) 
-7. When processing is complete, you will see either **Completed with errors** or **Success**.
-![Success and completed with errors message](/assets/images/success-failure.png)
-8. If the result is **Completed with errors**, you must correct the errors as described in the following section. Once corrected, you are ready to grade the sheets. If the result is **Success**, you are ready to grade the sheets immediately.   
+
+<img src="/assets/images/3-browse-files.png"
+     alt="Browse files button"
+     class="doc-shot--detail">
+     
+5. Select the file in the file picker.
+6. Click **Upload**.
+7. After you click **Upload**, you will see **Processing**. Processing may take 5–10 minutes depending on file size.
+
+<img src="/assets/images/4-processing.png"
+     alt="Processing message"
+     class="doc-shot--detail">
+
+9. When processing is complete, you will see either **Completed with errors** or **Success**.
+
+<img src="/assets/images/success-failure.png"
+     alt="Success and completed with errors message"
+     class="doc-shot--detail">
+
+10. If the result is **Completed with errors**, you must correct the errors as described in the following section. Once corrected, you are ready to grade the sheets. If the result is **Success**, you are ready to grade the sheets immediately.   
 
 ## Correcting Errors
 To correct errors, follow these steps:
@@ -120,9 +137,13 @@ To correct errors, follow these steps:
      class="doc-shot--detail">
    
 3. Click **View scanned pages**.
-![View scanned pages button image](/assets/images/6-view-scanned-pages.png)
-4. You will see a breakdown of how many sheets were scanned successfully and how many failed.
-5. To correct the errors, you must find the sheets that failed. Scroll down in the window and find the scans that have a red status bar.
+
+<img src="/assets/images/6-view-scanned-pages.png"
+     alt="View scanned pages button image"
+     class="doc-shot--detail">
+
+5. You will see a breakdown of how many sheets were scanned successfully and how many failed.
+6. To correct the errors, you must find the sheets that failed. Scroll down in the window and find the scans that have a red status bar.
 
 <img src="/assets/images/7-failed-scans.png"
      alt="Red status bar image"
