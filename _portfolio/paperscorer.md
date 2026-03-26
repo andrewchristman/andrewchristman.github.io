@@ -16,7 +16,7 @@ title: "PaperScorer How-To Guide: Scanning and Uploading Student Answer Sheets"
 >     * Error states are discussed in detail to account for variance in how students complete sheets and problems in transitioning from a physical medium to a digital medium. 
 > * Success Criteria: Teachers can scan and upload sheets to PaperScorer in less than 20 minutes while correcting all errors.  
 > * Next Iteration: After evaluating user feedback, revise until 100% of pilot teachers meet the success criteria.
-{: .notice}
+{: .notice--primary}
 ---
 
 ## Sample
@@ -94,30 +94,30 @@ This method requires processing sheets individually. For large batches, use anot
 ## Uploading
 To upload the PDF to PaperScorer, follow these steps:  
 
-1. Navigate to `https://www.paperscorer.com` in your browser and click **Log In**. ![PaperScorer Login Page](assets/images/portfolio/1-log-in.png) 
+1. Navigate to `https://www.paperscorer.com` in your browser and click **Log In**. ![PaperScorer Login Page](assets/images/1-log-in.png) 
 2. Click **Upload & Score**.   
-![Upload & Score button on PaperScorer](assets/images/portfolio/2-upload-and-score.png) 
+![Upload & Score button on PaperScorer](assets/images/2-upload-and-score.png) 
 3. Click **Browse files**.
-![Browse files button](assets/images/portfolio/3-browse-files.png) 
+![Browse files button](assets/images/3-browse-files.png) 
 4. Select the file in the file picker.
 5. Click **Upload**.
 6. After you click **Upload**, you will see **Processing**. Processing may take 5–10 minutes depending on file size.
-![Processing message](assets/images/portfolio/4-processing.png) 
+![Processing message](assets/images/4-processing.png) 
 7. When processing is complete, you will see either **Completed with errors** or **Success**.
-![Success and completed with errors message](assets/images/portfolio/success-failure.png)
+![Success and completed with errors message](assets/images/success-failure.png)
 8. If the result is **Completed with errors**, you must correct the errors as described in the following section. Once corrected, you are ready to grade the sheets. If the result is **Success**, you are ready to grade the sheets immediately.   
 
 ## Correcting Errors
 To correct errors, follow these steps:
 1. Click the three-dot menu to the right of the status bar. 
-![Three dot menu to right of status bar image](assets/images/portfolio/three-dots-image.png)
+![Three dot menu to right of status bar image](assets/images/three-dots-image.png)
 2. Click **View scanned pages**.
-![View scanned pages button image](assets/images/portfolio/6-view-scanned-pages.png)
+![View scanned pages button image](assets/images/6-view-scanned-pages.png)
 3. You will see a breakdown of how many sheets were scanned successfully and how many failed.
 4. To correct the errors, you must find the sheets that failed. Scroll down in the window and find the scans that have a red status bar. 
-![Red status bar image](assets/images/portfolio/7-failed-scans.png)
+![Red status bar image](assets/images/7-failed-scans.png)
 5. Once you have found the failed sheets, note the names of the affected students.
-![Note identifiers of affected students image](assets/images/portfolio/8-student-name.png) 
+![Note identifiers of affected students image](assets/images/8-student-name.png) 
 6. Pull out the relevant paper sheets from the stack. These paper sheets must be re-scanned.   
 
 **Tip:** 
