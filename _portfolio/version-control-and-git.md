@@ -16,7 +16,7 @@ title: "Version Control & Git: A Guide for Non-Technical Users"
 >     * The value of using Git is explained so that the audience can grasp the practical significance of using Git in addition to understanding what it is. 
 > * Success Criteria: The user can define commit, repo, branch, merge and explain the difference between Git and GitHub & GitLab.
 > * Next Iteration: After evaluating user feedback, revise until 100% of pilot non-technical readers meet the success criteria.
-{: .notice}
+{: .notice--primary}
 ---
 
 ## Sample
