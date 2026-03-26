@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "PaperScorer How-To Guide: Scanning and Uploading Student Answer Sheets"
+sequence: 1
 ---
 
 (in progress)
