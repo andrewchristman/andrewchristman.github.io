@@ -323,7 +323,7 @@ Here is an example of text formatted with Markdown and the rendered result:
 * Sarah will check with the dev team and report to the product manager. 
 ```
 
-The rendered result:
+will show as:
 
 {% capture rendered_example %}
 # Weekly Project Meeting Notes
