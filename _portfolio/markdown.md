@@ -201,7 +201,7 @@ will show as
 
 <div class="demo-output"> {{ rendered_code | markdownify }} </div>
 
-To display text in a code block, place triple backticks before and after the text. For example:
+To display text in a code block, place triple backticks above and below the text. For example:
 
 ````markdown
 ``` 
