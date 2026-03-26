@@ -165,6 +165,8 @@ will show as
 
 <div class="demo-output"> {{ rendered_unorderedlistbullets | markdownify }} </div>
 
+and
+
 ```markdown
 - List Item 1
 - List Item 2
