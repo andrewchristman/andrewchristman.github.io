@@ -8,6 +8,21 @@ sequence: 3
 
 (in progress)
 
+
+<div class="notice">
+  <p><strong>Project Brief</strong></p>
+  <ul>
+    <li><strong>Document type:</strong> Quick-start guide</li>
+    <li><strong>Audience:</strong> Non-technical users</li>
+    <li><strong>Goal:</strong> Help beginners get started with core Markdown syntax quickly</li>
+    <li><strong>Scope:</strong> Covers a focused set of common formatting elements</li>
+    <li><strong>Key design decisions:</strong> Uses a visual source-and-output pattern, avoids unnecessary jargon, and excludes more advanced syntax such as reference-style links</li>
+  </ul>
+</div>
+
+
+
+
 > **Project Brief**
 > * Audience: Non-technical users (spec work).
 > * User Goal: To get started using basic Markdown. 
