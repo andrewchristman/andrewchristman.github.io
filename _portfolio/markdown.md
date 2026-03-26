@@ -8,15 +8,21 @@ sequence: 3
 
 (in progress)
 
-
 <div class="notice">
   <p><strong>Project Brief</strong></p>
   <ul>
-    <li><strong>Document type:</strong> Quick-start guide</li>
-    <li><strong>Audience:</strong> Non-technical users</li>
-    <li><strong>Goal:</strong> Help beginners get started with core Markdown syntax quickly</li>
-    <li><strong>Scope:</strong> Covers a focused set of common formatting elements</li>
-    <li><strong>Key design decisions:</strong> Uses a visual source-and-output pattern, avoids unnecessary jargon, and excludes more advanced syntax such as reference-style links</li>
+    <li><strong>Audience:</strong> Non-technical users (spec work).</li>
+    <li><strong>User Goal:</strong> To get started using basic Markdown.</li>
+    <li><strong>Problem:</strong> Markdown is simple enough to be useful for non-technical users, but the jargon surrounding it can be intimidating.</li>
+    <li><strong>Scope:</strong> This guide covers a selection of core Markdown syntax.</li>
+    <li><strong>Key Considerations:</strong></li>
+      <ul>
+        <li>A visual approach to showing how syntax is rendered aids user comprehension by avoiding jargon and showing results directly.</li>
+        <li>Reference-style links are excluded as being too complex for the user goal.</li>
+        <li>An example of a document featuring multiple different Markdown formatting elements is provided so users can see Markdown applied in practice.</li>
+      </ul>
+    <li><strong>Success Criteria:</strong> The user can demonstrate marking up a document with each specified syntax element.</li>
+    <li><strong>Next Iteration:</strong> After evaluating user feedback, revise until 100% of pilot non-technical readers meet the success criteria.</li>
   </ul>
 </div>
 
