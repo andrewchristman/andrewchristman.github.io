@@ -57,7 +57,7 @@ This scanning method involves using a scanner/copier to create a PDF of the shee
 
 **Tip:** 
 Sheets do not need to be sorted by section. You can enter all class sections as a single stack and the application will sort by section   later.
-{: .notice--info}
+{: .notice}
    
 3. Select **Scan to USB** in the scanner/copier's user interface. The exact wording and procedure may vary by model. Use the scanner/copier settings mentioned above.
 4. The scanner/copier will process the sheets and save the file to the USB drive.  
@@ -68,7 +68,7 @@ Sheets do not need to be sorted by section. You can enter all class sections as 
 
 **Tip:**
 Sheets do not need to be sorted by section. You can enter all class sections as a single stack and the application will sort by section later.
-{: .notice--info}
+{: .notice}
    
 3. Select **Email** in the scanner/copier's user interface. Enter your own email address as the recipient email address. The exact wording and procedure may vary by model. Use the scanner/copier settings described above. 
 4. The scanner/copier will process the sheets and email the file to your email address. 
@@ -122,7 +122,7 @@ To correct errors, follow these steps:
 
 **Tip:** 
 For a small number of affected sheets, using the PaperScorer mobile app is quick and easy.
-{: .notice--info}
+{: .notice}
 
 7. If the affected sheets re-scan without issue, you are ready to begin grading. If sheets continue to fail, proceed to troubleshooting in the following section.   
 
@@ -156,7 +156,7 @@ Consider escalating if:
     * [PaperScorer Help Center](https://help.paperscorer.com/)
     * [Contact Us](https://www.paperscorer.com/support)
 * For connection issues or internal IT issues, contact the IT help line at `(000) 000-0000`. 
-* For larger work issues resulting from PaperScorer or internal IT issues, contact the Dean of Academics at `(000) 000-0000 Ext. 3` or `deanofacademics@example.com`. 
+* For larger work issues resulting from PaperScorer or internal IT issues, contact the Dean of Academics at `(000) 000-0000 Ext. 0` or `deanofacademics@example.com`. 
 
 ## Tips
 * Have students use No. 2 pencils when completing student answer sheets. No. 2 pencils minimize the risk of scanning issues. Consider distributing pencils to ensure the correct type is used. 
