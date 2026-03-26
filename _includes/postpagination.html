@@ -23,11 +23,11 @@
         <a href="{{ prev_doc.url | relative_url }}"
            class="pagination--pager"
            title="{{ prev_doc.title | markdownify | strip_html | strip }}">
-          {{ site.data.ui-text[locale].pagination_previous | default: "Previous" }}
+          Previous Sample
         </a>
       {% else %}
-        <a href="#" class="pagination--pager disabled">
-          {{ site.data.ui-text[locale].pagination_previous | default: "Previous" }}
+        <a href="#" class="pagination--pager disabled" aria-disabled="true">
+          Previous Sample
         </a>
       {% endif %}
 
@@ -35,11 +35,11 @@
         <a href="{{ next_doc.url | relative_url }}"
            class="pagination--pager"
            title="{{ next_doc.title | markdownify | strip_html | strip }}">
-          {{ site.data.ui-text[locale].pagination_next | default: "Next" }}
+          Next Sample
         </a>
       {% else %}
-        <a href="#" class="pagination--pager disabled">
-          {{ site.data.ui-text[locale].pagination_next | default: "Next" }}
+        <a href="#" class="pagination--pager disabled" aria-disabled="true">
+          Next Sample
         </a>
       {% endif %}
     </nav>
@@ -51,11 +51,11 @@
       <a href="{{ page.previous.url | relative_url }}"
          class="pagination--pager"
          title="{{ page.previous.title | markdownify | strip_html | strip }}">
-        {{ site.data.ui-text[locale].pagination_previous | default: "Previous" }}
+        Previous
       </a>
     {% else %}
-      <a href="#" class="pagination--pager disabled">
-        {{ site.data.ui-text[locale].pagination_previous | default: "Previous" }}
+      <a href="#" class="pagination--pager disabled" aria-disabled="true">
+        Previous
       </a>
     {% endif %}
 
@@ -63,11 +63,11 @@
       <a href="{{ page.next.url | relative_url }}"
          class="pagination--pager"
          title="{{ page.next.title | markdownify | strip_html | strip }}">
-        {{ site.data.ui-text[locale].pagination_next | default: "Next" }}
+        Next
       </a>
     {% else %}
-      <a href="#" class="pagination--pager disabled">
-        {{ site.data.ui-text[locale].pagination_next | default: "Next" }}
+      <a href="#" class="pagination--pager disabled" aria-disabled="true">
+        Next
       </a>
     {% endif %}
   </nav>
