@@ -131,3 +131,18 @@ blockquote em {
   border: 1px solid #d8d8d8;
   border-radius: 8px;
 }
+
+.pagination {
+  display: flex;
+  gap: 0;
+}
+
+.pagination--pager {
+  flex: 1 1 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 5rem;
+  white-space: nowrap;
+}
