@@ -18,7 +18,7 @@ feature_row:
     btn_class: "btn--primary"
 
   - title: "Getting Started With Markdown in 15 Minutes"
-    excerpt: "Beginner quick start tutorial with examples and guided practice."
+    excerpt: "Beginner quick-start tutorial with examples and guided practice."
     url: /portfolio/markdown/
     btn_label: "Read Sample"
     btn_class: "btn--primary"
