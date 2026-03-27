@@ -14,6 +14,6 @@ You can contact me here:
 
 [GitHub](https://github.com/andrewchristman)
 
-[Resume](/assets/files/Test.pdf) 
+[Resume](/assets/files/resume.pdf) 
 
 
