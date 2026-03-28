@@ -137,13 +137,13 @@ To upload the PDF to PaperScorer, follow these steps:
 5. Select the file in the file picker.
 6. Click **Upload**.
 7. After you click **Upload**, you will see **Processing**. Processing may take 5–10 minutes depending on file size.
-9. When processing is complete, you will see either **Completed with errors** or **Success**.
+9. When processing is complete, you will see either **Success** or **Completed with errors**.
 
 <img src="/assets/images/success-failure.png"
      alt="Success and completed with errors message"
      class="doc-shot--detail">
 
-10. If the result is **Completed with errors**, you must correct the errors as described in the following section. Once corrected, you are ready to grade the sheets. If the result is **Success**, you are ready to grade the sheets immediately.   
+10. If the result is **Success**, you are ready to grade the sheets immediately. If the result is **Completed with errors**, ou must correct the errors as described in the following section. Once corrected, you are ready to grade the sheets. 
 
 ## Correcting Errors
 To correct errors, follow these steps:
