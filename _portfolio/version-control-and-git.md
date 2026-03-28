@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Version Control & Git: A Guide for Non-Technical Users"
+title: "Version Control and Git: A Guide for Non-Technical Users"
 sequence: 2
 ---
 
