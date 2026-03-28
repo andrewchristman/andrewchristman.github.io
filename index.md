@@ -11,7 +11,7 @@ feature_row:
     btn_label: "Read Sample"
     btn_class: "btn--primary"
 
-  - title: "Version Control & Git: A Guide for Non-Technical Users"
+  - title: "Version Control and Git: A Guide for Non-Technical Users"
     excerpt: "Conceptual explainer for non-technical users."
     url: /portfolio/version-control-and-git/
     btn_label: "Read Sample"
