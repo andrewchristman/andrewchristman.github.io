@@ -118,7 +118,7 @@ To upload the PDF to PaperScorer, follow these steps:
 
 1. Navigate to `https://www.paperscorer.com` in your browser and click **Log In**.
 
-<img src="/assets/images/1-log-in.png"
+<img src="/assets/images/01-Login_Page.png"
      alt="PaperScorer Login Page"
      class="doc-shot">
   
