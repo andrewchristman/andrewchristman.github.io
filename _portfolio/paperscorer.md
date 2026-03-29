@@ -102,67 +102,67 @@ To upload the PDF to PaperScorer, follow these steps:
 
 1. Navigate to `https://www.paperscorer.com` in your browser and click **Log In**.
 
-    <img src="/assets/images/01_login_page.png"
+ <img src="/assets/images/01_login_page.png"
      alt="PaperScorer Login Page"
      class="doc-shot">
   
-5. Click **Upload & Score**.
+2. Click **Upload & Score**.
 
-    <img src="/assets/images/02_upload_score.png"
+ <img src="/assets/images/02_upload_score.png"
      alt="PaperScorer Upload and Score button"
      class="doc-shot--detail">
   
 3. Click **Browse files**.
 
-    <img src="/assets/images/03_browse_files.png"
+ <img src="/assets/images/03_browse_files.png"
      alt="Browse files button"
      class="doc-shot--detail">
      
-5. Select the file in the file picker.
-6. Click **Upload**.
-7. After you click **Upload**, you will see **Processing**. Processing may take 5–10 minutes depending on file size.
-9. When processing is complete, you will see either **Success** or **Completed with errors**.
+4. Select the file in the file picker.
+5. Click **Upload**.
+6. After you click **Upload**, you will see **Processing**. Processing may take 5–10 minutes depending on file size.
+7. When processing is complete, you will see either **Success** or **Completed with errors**.
 
-    <img src="/assets/images/success-failure.png"
+ <img src="/assets/images/success-failure.png"
      alt="Success and completed with errors message"
      class="doc-shot--detail">
 
-10. If the result is **Success**, you are ready to grade the sheets immediately. If the result is **Completed with errors**, ou must correct the errors as described in the following section. Once corrected, you are ready to grade the sheets. 
+8. If the result is **Success**, you are ready to grade the sheets immediately. If the result is **Completed with errors**, ou must correct the errors as described in the following section. Once corrected, you are ready to grade the sheets. 
 
 ## Correcting Errors
 To correct errors, follow these steps:
 1. Click the three-dot menu to the right of the status bar.
    
-    <img src="/assets/images/three-dots-image.png"
+ <img src="/assets/images/three-dots-image.png"
      alt="Three-dot menu next to the status bar"
      class="doc-shot--detail">
    
-3. Click **View scanned pages**.
+2. Click **View scanned pages**.
 
-    <img src="/assets/images/6-view-scanned-pages.png"
+ <img src="/assets/images/6-view-scanned-pages.png"
      alt="View scanned pages button image"
      class="doc-shot--detail">
 
-5. You will see a breakdown of how many sheets were scanned successfully and how many failed.
-6. To correct the errors, you must find the sheets that failed. Scroll down in the window and find the scans that have a red status bar.
+3. You will see a breakdown of how many sheets were scanned successfully and how many failed.
+4. To correct the errors, you must find the sheets that failed. Scroll down in the window and find the scans that have a red status bar.
 
-    <img src="/assets/images/7-failed-scans.png"
+ <img src="/assets/images/7-failed-scans.png"
      alt="Red status bar image"
      class="doc-shot">
    
-7. Once you have found the failed sheets, note the names of the affected students.
+5. Once you have found the failed sheets, note the names of the affected students.
 
-    <img src="/assets/images/8-student-name.png"
+ <img src="/assets/images/8-student-name.png"
      alt="Note identifiers of affected students image"
      class="doc-shot">
 
-8. Pull out the relevant paper sheets from the stack. These paper sheets must be re-scanned.   
+6. Pull out the relevant paper sheets from the stack. These paper sheets must be re-scanned.   
 
      **Tip:** 
      For a small number of affected sheets, using the PaperScorer mobile app is quick and easy.
      {: .notice}
 
-9. If the affected sheets re-scan without issue, you are ready to begin grading. If sheets continue to fail, proceed to troubleshooting in the following section.   
+7. If the affected sheets re-scan without issue, you are ready to begin grading. If sheets continue to fail, proceed to troubleshooting in the following section.   
 
 ## Troubleshooting
 
