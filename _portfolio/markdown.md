@@ -4,7 +4,7 @@ title: "Getting Started With Markdown in 15 Minutes"
 classes:
   - markdown-guide
 sequence: 3
-
+---
 (in progress)
 
 <div class="notice">
@@ -24,7 +24,6 @@ sequence: 3
     <li><strong>Next Iteration:</strong> After evaluating user feedback, revise until 100% of pilot non-technical readers meet the success criteria.</li>
   </ul>
 </div>
----
 
 ## Sample
 
