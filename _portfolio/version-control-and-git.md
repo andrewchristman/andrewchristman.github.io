@@ -52,7 +52,9 @@ Git is not the only type of version control, but it has four key advantages:
 
 * Git **works quickly**. Git operates on a local computer, so there is no need to wait for data to be retrieved over the internet. In work environments, this translates to efficiency gains.
 * Git **does not require an internet connection** to make commits. This means you can store snapshots of the entire project state while on an airplane or while the internet is down. In work environments, this translates to flexibility and resilience in the face of unexpected disruptions.   
-> **Tip:** While Git does not require an internet connection to make commits, an internet connection is eventually required in a typical workflow to sync local work with the central repository. However, a user can still continue local work without an internet connection temporarily. 
+**Tip:**
+While Git does not require an internet connection to make commits, an internet connection is eventually required in a typical workflow to sync local work with the central repository. However, a user can still continue local work without an internet connection temporarily.
+{: .notice}
 * Git is **distributed**. Other forms of version control often synchronize different computers with a single location to store data without storing a full copy on the local computer. With Git, however, each computer using Git has a full local copy of the central repository. This means that if the central repository on a site like GitHub/GitLab is compromised, any computer that has an up-to-date sync with the central repository can be used as a backup. 
 * Git **handles branching and merging well**. This means Git does more than just version control—it also makes version control in collaborative environments practical. While in some cases Git cannot merge different branches and requires a human to intervene, even then, Git provides a way for humans to resolve the conflict. 
 
