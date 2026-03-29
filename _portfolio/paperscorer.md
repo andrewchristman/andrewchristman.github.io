@@ -23,7 +23,6 @@ sequence: 1
     <li><strong>Next Iteration:</strong> After evaluating user feedback, revise until 100% of pilot teachers meet the success criteria.</li>
   </ul>
 </div>
----
 
 ## Sample
 
