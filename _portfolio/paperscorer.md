@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "PaperScorer How-To Guide: Scanning and Uploading Student Answer Sheets"
+og_image: /assets/images/og-paperscorer.png
 sequence: 1
 ---
 
