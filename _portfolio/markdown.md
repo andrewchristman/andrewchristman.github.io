@@ -25,19 +25,6 @@ sequence: 3
     <li><strong>Next Iteration:</strong> After evaluating user feedback, revise until 100% of pilot non-technical readers meet the success criteria.</li>
   </ul>
 </div>
-
-> **Project Brief**
-> * Audience: Non-technical users (spec work).
-> * User Goal: To get started using basic Markdown. 
-> * Problem: Markdown is simple enough to be useful for non-technical users, but the jargon surrounding it can be intimidating.
-> * Scope: This guide covers a selection of core Markdown syntax.
-> * Key Considerations:
->    * A visual approach to showing how syntax is rendered aids user comprehension by avoiding jargon and showing results directly. 
->    * Reference-style links are excluded as being too complex for the user goal. 
->    * An example of a document featuring multiple different Markdown formatting elements is provided so users can see Markdown applied in practice. 
-> * Success Criteria: The user can demonstrate marking up a document with each specified syntax element. 
-> * Next Iteration: After evaluating user feedback, revise until 100% of pilot non-technical readers meet the success criteria. 
-{: .notice--info}
 ---
 
 ## Sample
