@@ -61,9 +61,9 @@ This scanning method involves using a scanner/copier to create a PDF of the shee
 1. Insert the USB drive into the scanner/copier.
 2. Place the sheets in the feeder on top of the scanner/copier.
 
-**Tip:** 
-Sheets do not need to be sorted by section. You can enter all class sections as a single stack and the application will sort by section   later.
-{: .notice}
+    **Tip:** 
+    Sheets do not need to be sorted by section. You can enter all class sections as a single stack and the application will sort by section   later.
+    {: .notice}
    
 3. Select **Scan to USB** in the scanner/copier's user interface. The exact wording and procedure may vary by model. Use the scanner/copier settings mentioned above.
 4. The scanner/copier will process the sheets and save the file to the USB drive.  
@@ -72,9 +72,9 @@ Sheets do not need to be sorted by section. You can enter all class sections as 
 #### Email to Yourself Version
 1. Place the sheets in the feeder on top of the scanner/copier.
 
-**Tip:**
-Sheets do not need to be sorted by section. You can enter all class sections as a single stack and the application will sort by section later.
-{: .notice}
+    **Tip:**
+    Sheets do not need to be sorted by section. You can enter all class sections as a single stack and the application will sort by section later.
+    {: .notice}
    
 3. Select **Email** in the scanner/copier's user interface. Enter your own email address as the recipient email address. The exact wording and procedure may vary by model. Use the scanner/copier settings described above. 
 4. The scanner/copier will process the sheets and email the file to your email address. 
@@ -158,9 +158,9 @@ To correct errors, follow these steps:
 
 6. Pull out the relevant paper sheets from the stack. These paper sheets must be re-scanned.   
 
-     **Tip:** 
-     For a small number of affected sheets, using the PaperScorer mobile app is quick and easy.
-     {: .notice}
+   **Tip:** 
+   For a small number of affected sheets, using the PaperScorer mobile app is quick and easy.
+   {: .notice}
 
 7. If the affected sheets re-scan without issue, you are ready to begin grading. If sheets continue to fail, proceed to troubleshooting in the following section.   
 
