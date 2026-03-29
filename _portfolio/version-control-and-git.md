@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Version Control and Git: A Guide for Non-Technical Users"
+og_image: /assets/images/version-control-and-git.png
 sequence: 2
 ---
 
