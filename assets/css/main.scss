@@ -169,3 +169,11 @@ blockquote strong,
   margin-top: 0;
 }
 
+.demo-rendered {
+  margin: 1rem 0 1.5rem;
+}
+
+.demo-rendered > :last-child {
+  margin-bottom: 0;
+}
+
