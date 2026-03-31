@@ -123,7 +123,7 @@ To upload the PDF to PaperScorer, follow these steps:
 6. After you click **Upload**, you will see **Processing**. Processing may take 5–10 minutes depending on file size.
 7. When processing is complete, you will see either **Success** or **Completed with errors**.
 
-   <img src="/assets/images/04-success-error-messages.png"
+   <img src="/assets/images/04-success-errors-messages.png"
      alt="Success and completed with errors messages image"
      class="doc-shot--detail">
 
@@ -144,10 +144,10 @@ To correct errors, follow these steps:
      class="doc-shot--detail">
 
 3. You will see a breakdown of how many sheets were scanned successfully and how many failed.
-4. To correct the errors, you must find the sheets that failed. Scroll down in the window and find the scans that have a red status bar.
+4. To correct the errors, you must find the sheets that failed. Scroll down in the window and find the scans that have a red status bar. Click the page number you want to view. 
 
    <img src="/assets/images/07-red-status-bar.png"
-     alt="Red status bar image"
+     alt="Red status bar and page number link image"
      class="doc-shot">
    
 5. Once you have found the failed sheets, note the names of the affected students.
