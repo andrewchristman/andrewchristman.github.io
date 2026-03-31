@@ -251,7 +251,7 @@ Preceding Text
 </div>
 
 **Optional Practice:** 
-Choose a favorite quote, write some comments about it, and then insert the quote as a blockquote in the comments.
+Choose a favorite quote, write some commentary about it, and then insert the quote as a blockquote in the commentary.
 {: .notice}
 
 ## Applications
