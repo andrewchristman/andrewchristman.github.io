@@ -250,18 +250,8 @@ Preceding Text
 
 <div class="demo-output"> {{ rendered_blockquote | markdownify }} </div>
 
-{% capture rendered_blockquote %}
-
-Preceding Text  
-> Block Quote
-{% endcapture %}
-
-<div class="demo-rendered">
-  {{ rendered_blockquote | markdownify }}
-</div>
-
 **Note:**
-The exact appearance of a blockquote can vary depending on the website or theme.
+The appearance of a blockquote can vary depending on the website or theme.
 {: .notice}
 
 **Optional Practice:** 
