@@ -168,3 +168,16 @@ blockquote strong,
 .page__content > p:first-child {
   margin-top: 0;
 }
+
+.demo-output blockquote {
+  margin: 1rem 0 0 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.demo-output blockquote p {
+  margin: 0;
+}
