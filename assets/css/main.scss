@@ -109,16 +109,11 @@ blockquote strong,
 
 .demo-output--blockquote > blockquote {
   margin: 0;
-  padding: 0.75rem 1rem;
+  padding: 0 0 0 1rem;
   border: 0;
   border-left: 4px solid #d8dee4;
-  border-radius: 4px;
-  background: #ffffff;
-  box-shadow: none;
-}
-
-.demo-output--blockquote > blockquote p:last-child {
-  margin-bottom: 0;
+  background: transparent;
+  border-radius: 0;
 }
 
 .markdown-guide .page__content pre,
