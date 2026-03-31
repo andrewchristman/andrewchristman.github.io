@@ -138,7 +138,7 @@ Insert an image using the URL above and relevant alt text.
 {: .notice}
 
 ## Ordered and Unordered Lists 
-There are two types of lists: ordered and unordered. Ordered lists have a sequential order (such as 1, 2, 3...), while unordered lists do not. Markdown displays ordered lists using numbers. To make an ordered list, use a number followed by a period before each list item. For example:   
+When making lists, there are two types: ordered and unordered. Ordered lists have a sequential order (such as 1, 2, 3...), while unordered lists do not. Markdown displays ordered lists using numbers. To make an ordered list, use a number followed by a period before each list item. For example:   
 
 ```markdown
 1. List Item 1  
@@ -154,7 +154,7 @@ will show as
 
 <div class="demo-output"> {{ rendered_orderedlist | markdownify }} </div>
 
-Markdown uses bullet points to display an unordered list. To make an unordered list, use an asterisk or hyphen before each list item.  For example:
+Markdown uses bullet points to display unordered lists. To make an unordered list, use an asterisk or hyphen before each list item.  For example:
 
 ```markdown
 * List Item 1
@@ -187,7 +187,7 @@ will show as
 <div class="demo-output"> {{ rendered_unorderedlisthyphens | markdownify }} </div>
 
 **Optional Practice:** 
-Make an ordered list with three items and two unordered lists with three items, one with asterisks and one with hyphens.
+Make an ordered list with three items, an unordered list with three items using asterisks, and an unordered list with three items using hyphens. 
 {: .notice}
 
 ## Code
@@ -206,7 +206,7 @@ will show as
 
 <div class="demo-output"> {{ rendered_code | markdownify }} </div>
 
-To display text in a code block, place triple backticks on the line above and the line below the text. For example:
+To display text in a code block, place triple backticks on the line above the text and the line below the text. For example:
 
 ````markdown
 ``` 
@@ -224,10 +224,10 @@ Code
 
 <div class="demo-output"> {{ rendered_codeblock | markdownify }} </div>
 
-Notice that the code is now displayed in the dark-colored code block inside the lighter-colored display box. 
+Note that the code is now displayed in the darker-colored code block inside the lighter-colored display box. 
 
 **Optional Practice:** 
-Write a code sample, real or invented, and enclose it in single backticks for inline code and triple backticks for a code block. 
+Write a code sample, real or invented, and enclose it first in single backticks for inline code and then in triple backticks for a code block. 
 {: .notice}
 
 ## Blockquotes
@@ -237,9 +237,14 @@ To separate text as a block quote, use a right angle bracket `>` before the text
 ```markdown
 Preceding Text  
 > Block Quote
-```  
+```
 
 will show as  
+
+Preceding Text  
+> Block Quote
+
+
 
 {% capture rendered_blockquote %}
 Preceding Text  
@@ -249,7 +254,7 @@ Preceding Text
 <div class="demo-output"> {{ rendered_blockquote | markdownify }} </div>
 
 **Optional Practice:** 
-Choose a favorite quote, write some commentary on it, and then insert the quote as a blockquote.
+Choose a favorite quote, write some comments about it, and then insert the quote as a blockquote in the comments.
 {: .notice}
 
 ## Applications
