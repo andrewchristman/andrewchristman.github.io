@@ -245,6 +245,15 @@ will show as
 
 Preceding Text  
 > Block Quote
+
+{% endcapture %}
+
+<div class="demo-output"> {{ rendered_blockquote | markdownify }} </div>
+
+{% capture rendered_blockquote %}
+
+Preceding Text  
+> Block Quote
 {% endcapture %}
 
 <div class="demo-rendered">
