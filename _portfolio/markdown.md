@@ -246,7 +246,9 @@ Preceding Text
 > Block Quote
 {% endcapture %}
 
-<div class="demo-output"> {{ rendered_blockquote | markdownify }} </div>
+<div class="demo-rendered">
+  {{ rendered_blockquote | markdownify }}
+</div>
 
 **Optional Practice:** 
 Choose a favorite quote, write some comments about it, and then insert the quote as a blockquote in the comments.
