@@ -86,7 +86,7 @@ _Italic_
 <div class="demo-output"> {{ rendered_italic | markdownify }} </div>
 
 **Note:** 
-Asterisks can often, but not always, be used instead of underscores. For example, `*Italic*` will often show as _Italic_.
+Asterisks can often, but not always, be used instead of underscores. For example, `*Italic*` will often show as italic. 
 {: .notice}
 
 **Optional Practice:** 
