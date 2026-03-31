@@ -6,7 +6,6 @@ $muted-text-color: #4b5563;
 $border-radius: 6px;
 
 @import "minimal-mistakes";
-/* Remove italics from notice/callout boxes */
 .notice,
 .notice--primary,
 .notice--info,
@@ -18,20 +17,8 @@ blockquote.notice--primary,
 blockquote.notice--info,
 blockquote.notice--warning,
 blockquote.notice--success,
-blockquote.notice--danger,
-.notice *,
-.notice--primary *,
-.notice--info *,
-.notice--warning *,
-.notice--success *,
-.notice--danger *,
-blockquote.notice *,
-blockquote.notice--primary *,
-blockquote.notice--info *,
-blockquote.notice--warning *,
-blockquote.notice--success *,
-blockquote.notice--danger * {
-  font-style: normal !important;
+blockquote.notice--danger {
+  font-style: normal;
 }
 
 .masthead__menu-item a,
