@@ -95,6 +95,20 @@ blockquote strong,
   margin-bottom: 0;
 }
 
+.demo-output--blockquote blockquote {
+  margin: 1rem 0 0 0;
+  padding: 0 0 0 1rem;
+  border: 0;
+  border-left: 4px solid #d8dee4;
+  background: transparent;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.demo-output--blockquote blockquote p:last-child {
+  margin-bottom: 0;
+}
+
 .markdown-guide .page__content pre,
 .markdown-guide .page__content .highlight pre {
   white-space: pre-wrap;
