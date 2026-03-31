@@ -95,7 +95,7 @@ Write a sentence with one **bold** word and one _italic_ word.
 
 ## Inline Links
 
-Inline links place the link directly in the line of text (hence the name). To insert an inline link, place the desired link text in brackets and the link URL in parentheses immediately following the brackets. For example:
+Inline links place the link directly in the line of text (hence the name). To insert an inline link, place the desired link text in brackets and place the link URL in parentheses immediately following the brackets. For example:
 
 ```markdown
 [CommonMark](https://spec.commonmark.org/) is a widely accepted formal specification for Markdown.
@@ -109,7 +109,7 @@ will show as
 
 <div class="demo-output"> {{ rendered_inlinelink | markdownify }} </div>
 
-Best practice is to use descriptive text such as `CommonMark` as opposed to `Click Here` when formatting link text. 
+Best practice is to use descriptive text such as `CommonMark` as opposed to generic text such as `Click Here` when formatting link text. 
 
 **Optional Practice:** 
 Make an inline link with descriptive link text and a URL to a Wikipedia page. 
