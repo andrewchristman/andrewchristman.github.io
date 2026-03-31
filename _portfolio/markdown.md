@@ -239,6 +239,8 @@ Preceding Text
 > Block Quote
 ```
 
+will show as
+
 {% capture rendered_blockquote %}
 Preceding Text  
 > Block Quote
