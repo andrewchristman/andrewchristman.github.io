@@ -90,7 +90,7 @@ Asterisks can often, but not always, be used instead of underscores. For example
 {: .notice}
 
 **Optional Practice:** 
-Write a sentence with one **bold** word and one _italic_ word.
+Write a sentence with one **bold** word and one *italic* word.
 {: .notice}
 
 ## Inline Links
