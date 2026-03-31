@@ -95,25 +95,25 @@ blockquote strong,
   margin-bottom: 0;
 }
 
-.demo-output--blockquote {
-  padding: 1rem 1.25rem;
-}
-
-.demo-output--blockquote > p:first-child {
-  margin-top: 0;
-}
-
-.demo-output--blockquote > p {
-  margin-bottom: 1rem;
-}
-
-.demo-output--blockquote > blockquote {
-  margin: 0;
-  padding: 0 0 0 1rem;
+.demo-output blockquote {
+  margin: 1rem 0 0 0;
+  padding: 0;
   border: 0;
-  border-left: 4px solid #d8dee4;
   background: transparent;
   border-radius: 0;
+  box-shadow: none;
+  font-style: normal;
+}
+
+.demo-output blockquote p,
+.demo-output blockquote li,
+.demo-output blockquote em,
+.demo-output blockquote strong {
+  font-style: normal;
+}
+
+.demo-output blockquote p {
+  margin: 0;
 }
 
 .markdown-guide .page__content pre,
@@ -169,15 +169,4 @@ blockquote strong,
   margin-top: 0;
 }
 
-.demo-output blockquote {
-  margin: 1rem 0 0 0;
-  padding: 0;
-  border: 0;
-  background: transparent;
-  border-radius: 0;
-  box-shadow: none;
-}
 
-.demo-output blockquote p {
-  margin: 0;
-}
