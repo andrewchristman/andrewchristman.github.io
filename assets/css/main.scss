@@ -82,6 +82,9 @@ blockquote li,
 blockquote ul,
 blockquote ol,
 blockquote strong,
+blockquote em {
+  font-style: normal;
+}
 
 .demo-output {
   margin: 1rem 0 1.5rem;
