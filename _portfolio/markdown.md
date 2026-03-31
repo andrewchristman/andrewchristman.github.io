@@ -268,16 +268,16 @@ Here are some ways Markdown can be used:
 
 ## Mistakes to Avoid
 
-* Not having a space between the symbol and the text for headings and lists. For example, `#Heading` would be a mistake, while `# Heading` would be correct. 
+* Not having a space between the symbol and the text for headings and lists. For example, `#Heading` would be incorrect, while `# Heading` would be correct. 
 
-* Alternating the order of symbols when combining two or more symbols. For example, `**_Text**_` would be a mistake, while `**_Text_**` would be correct. 
+* Alternating the order of symbols when combining two or more symbols. For example, `**_Text**_` would be incorrect, while `**_Text_**` would be correct. 
 
-* Reversing parentheses and brackets for links. For example, `(Link Text)[URL]` would be incorrect, while `[Link Text](URL)` would be correct. Remember by: **B**rackets for **B**uttons and **P**arentheses for **P**ath. 
+* Reversing brackets and parentheses for links. For example, `(Link Text)[URL]` would be incorrect, while `[Link Text](URL)` would be correct. Remember by: **B**rackets for **B**uttons and **P**arentheses for **P**ath. 
 
 ## Tips
 * Applications vary with respect to supporting Markdown. Use the preview feature, if available, to ensure your Markdown renders correctly. 
 * Some editors will convert plain quotes to curly quotes when copy-pasting or typing, which can break code, commands, and URLs. This can lead to unexpected problems when formatting a document. Make sure plain quotes are preserved when copy-pasting and typing.   
-* If Markdown is rendering a character that you don't want to render, use a backslash `\` to escape it. For example, `\_Italic\_` will show as `_Italic_` (underscores visible).   
+* If Markdown is rendering a character that you don't want to render, use a backslash `\` to escape it. For example, `\_Italic\_` will show as `_Italic_` (underscores visible).  
 * If an image doesn't display, make sure the path and file name are correct (including spaces and case). 
 * If a list doesn't render, add a blank line before the first item.
 * For nested lists, indent by 2-4 spaces. Be consistent, as nesting rules can differ across renderers. 
