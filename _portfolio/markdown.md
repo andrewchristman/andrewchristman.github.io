@@ -134,7 +134,7 @@ will show as
 Alt text describes the image for screen readers and other assistive devices. While you cannot see the alt text visually, it is still present. 
 
 **Optional Practice:** 
-Insert an image using the URL above and your own alt text.
+Insert an image using the URL above and relevant alt text.
 {: .notice}
 
 ## Ordered and Unordered Lists 
