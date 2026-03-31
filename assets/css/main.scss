@@ -169,4 +169,26 @@ blockquote strong,
   margin-top: 0;
 }
 
+.demo-output blockquote {
+  margin: 1rem 0 0 0;
+  padding: 0 0 0 1rem;
+  border: 0;
+  border-left: 4px solid #d8dee4;
+  background: transparent;
+  border-radius: 0;
+  box-shadow: none;
+  font-style: normal;
+}
+
+.demo-output blockquote p {
+  margin: 0;
+  font-style: normal;
+}
+
+.demo-output blockquote em,
+.demo-output blockquote strong,
+.demo-output blockquote li {
+  font-style: normal;
+}
+
 
