@@ -250,6 +250,10 @@ Preceding Text
   {{ rendered_blockquote | markdownify }}
 </div>
 
+**Note:**
+The exact appearance of a blockquote can vary depending on the website or theme.
+{: .notice}
+
 **Optional Practice:** 
 Choose a favorite quote, write some commentary about it, and then insert the quote as a blockquote in the commentary.
 {: .notice}
