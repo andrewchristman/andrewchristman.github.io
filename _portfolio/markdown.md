@@ -21,8 +21,8 @@ sequence: 3
         <li>Reference-style links are excluded as being too complex for the user goal.</li>
         <li>An example of a document featuring multiple different Markdown formatting elements is provided so users can see Markdown applied in practice.</li>
       </ul>
-    <li><strong>Success Criteria:</strong> The user can demonstrate marking up a document with each specified syntax element.</li>
-    <li><strong>Next Iteration:</strong> After evaluating user feedback, revise until 100% of pilot non-technical readers meet the success criteria.</li>
+    <li><strong>Success Criteria:</strong> The user can demonstrate marking up text with each specified syntax element.</li>
+    <li><strong>Next Iteration:</strong> After evaluating user feedback, revise until 100% of pilot non-technical users meet the success criteria.</li>
   </ul>
 </div>
 
@@ -31,7 +31,7 @@ sequence: 3
 Markdown is a simple way to format text for display on the web and related applications. You simply write the text you want and then use symbols such as `**` and `_` to tell the computer how you want to display the text. Markdown and Markdown-like formatting are widely used across various platforms for tasks such as formatting blog posts, writing messages, and taking notes. This quick start guide is meant for non-technical users and will show you how to get started with core Markdown formatting in 15 minutes. If you decide to do the exercises, budget up to 30 minutes.
 
 **Note:** 
-Markdown is best thought of as a family of related formatting languages. Different versions of Markdown are called different **flavors**. There is also **Markdown-like formatting** that shares many features with Markdown but departs from it more substantially. This quick start guide will provide a foundation for both Markdown proper and Markdown-like formatting.
+Markdown is best thought of as a family of related formatting languages. Different versions of Markdown are called different **flavors**. There is also **Markdown-like formatting** that shares many features with Markdown but departs from it more significantly. This quick start guide will provide a foundation for both Markdown proper and Markdown-like formatting.
 {: .notice}
 
 ## Headings
