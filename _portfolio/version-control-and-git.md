@@ -12,7 +12,7 @@ sequence: 2
   <ul>
     <li><strong>Audience:</strong> Non-technical users (spec work).</li>
     <li><strong>User Goal:</strong> To understand the big picture of version control and Git without getting lost in the technical details.</li>
-    <li><strong>Problem:</strong> Version control and Git need to be explained, but Git can be intimidating for non-technical audiences.</li>
+    <li><strong>Problem:</strong> Version control and Git need to be explained, and Git can be intimidating for non-technical audiences.</li>
     <li><strong>Scope:</strong> This conceptual guide explains version control and Git without covering implementation details.</li>
     <li><strong>Key Considerations:</strong></li>
       <ul>
@@ -20,7 +20,7 @@ sequence: 2
         <li>Implementation details such as CLI are omitted to avoid overwhelming the intended audience.</li>
         <li>The value of using Git is explained so that the audience can grasp the practical significance of using Git in addition to understanding what it is.</li>
       </ul>
-    <li><strong>Success Criteria:</strong> The user can define commit, repo, branch, merge and explain the difference between Git and GitHub & GitLab.</li>
+    <li><strong>Success Criteria:</strong> The user can define commit, repository, branch, and merge, and explain the difference between Git and GitHub & GitLab.</li>
     <li><strong>Next Iteration:</strong> After evaluating user feedback, revise until 100% of pilot non-technical readers meet the success criteria.</li>
   </ul>
 </div>
