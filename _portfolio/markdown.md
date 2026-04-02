@@ -251,7 +251,7 @@ Preceding Text
 <div class="demo-output"> {{ rendered_blockquote | markdownify }} </div>
 
 **Note:**
-The appearance of a blockquote can vary depending on the website or theme.
+The appearance of a blockquote can vary depending on the website or application.
 {: .notice}
 
 **Optional Practice:** 
@@ -276,8 +276,8 @@ Here are some ways Markdown can be used:
 
 ## Tips
 * Applications vary with respect to supporting Markdown. Use the preview feature, if available, to ensure your Markdown renders correctly. 
-* Some editors will convert plain quotes to curly quotes when copy-pasting or typing, which can lead to unexpected problems when formatting a document. Make sure plain quotes are preserved when copy-pasting and typing.   
-* If Markdown is rendering a character that you do not want to render, use a backslash `\` to escape it. For example, `\_Italic\_` will show as `_Italic_` (underscores visible). 
+* Some editors will convert plain quotes to curly quotes when copy-pasting or typing, which can lead to unexpected problems when formatting documents. Make sure plain quotes are preserved when copy-pasting and typing.   
+* If Markdown is rendering a character that you don't want to render, use a backslash `\` to escape it. For example, `\_Italic\_` will show as `_Italic_` (underscores visible). 
 * If an image doesn't display, make sure the path and file name are correct, including spaces and case. 
 * If a list doesn't render, add a blank line before the first item.
 * For nested lists, indent by 2-4 spaces. Be consistent, as nesting rules can differ across renderers. 
@@ -308,7 +308,7 @@ Here is an example of text formatted with Markdown and the rendered result:
 
 ## Risks / Blockers
 
-* Some members of the dev team are on vacation, so some details on the quick start may need to wait.
+* Two members of the dev team are on vacation, so some details on the quick start may need to wait.
 
 ## Next Steps
 
@@ -339,7 +339,7 @@ The rendered result:
 
 ## Risks / Blockers
 
-* Some members of the dev team are on vacation, so some details on the quick start may need to wait.
+* Two members of the dev team are on vacation, so some details on the quick start may need to wait.
 
 ## Next Steps
 
@@ -349,22 +349,22 @@ The rendered result:
 <div class="demo-output"> {{ rendered_example | markdownify }} </div>
 
 **Optional Practice:**
-Copy-paste the Markdown text into your editor of choice to see the rendered result. A free editor you can use online is [Dillinger](https://dillinger.io/).
+Copy-paste the Markdown text above into your editor of choice to see the rendered result. A free editor you can use online is [Dillinger](https://dillinger.io/).
 {: .notice}
 
 ## Recommended Resources
 
 ### Practice Now
 
-* [Dillinger](https://dillinger.io/) allows you to quickly write Markdown online and see the results immediately. 
+* [Dillinger](https://dillinger.io/) allows you to quickly write Markdown online and see the results right away. 
   
-* Selecting the **Markdown Editor** on the [Reddit](https://www.reddit.com/) post screen is an easy way to practice. You will first need to navigate to a community and then [create a post/respond to a post](https://support.reddithelp.com/hc/en-us/articles/360060422572-How-do-I-post-and-comment-on-Reddit).
+* Selecting the **Markdown Editor** on the [Reddit](https://www.reddit.com/) post composer is an easy way to practice. You first need to [navigate to a community](https://support.reddithelp.com/hc/en-us/articles/28621027395220-How-to-join-or-leave-a-community) and then [create a post/respond to a post](https://support.reddithelp.com/hc/en-us/articles/360060422572-How-do-I-post-and-comment-on-Reddit).
 
 ### Learn More
 
 * A [Markdown tutorial](https://commonmark.org/help/tutorial/) is available.
 
-* Matt Cone provides a guide to Markdown in both [PDF format](https://www.markdownguide.org/book/) and [online](https://www.markdownguide.org/getting-started/). Physical copies can also be purchased from online retailers like Amazon. 
+* A guide to Markdown by Matt Cone is available in both [PDF format](https://www.markdownguide.org/book/) and [online](https://www.markdownguide.org/getting-started/). Physical copies are also available from [Amazon](https://www.amazon.com/Markdown-Guide-Matt-Cone/dp/B08BW8L1P6/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=). 
 
 ## Final Step
 Learning Markdown takes practice. Use one of the resources above to get started. 
