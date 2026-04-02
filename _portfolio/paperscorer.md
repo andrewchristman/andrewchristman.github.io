@@ -127,7 +127,7 @@ To upload the PDF to PaperScorer, follow these steps:
      alt="Success and completed with errors messages image"
      class="doc-shot--detail">
 
-8. If the result is **Success**, you are ready to grade the sheets immediately. If the result is **Completed with errors**, ou must correct the errors as described in the following section. Once corrected, you are ready to grade the sheets. 
+8. If the result is **Success**, you are ready to grade the sheets immediately. If the result is **Completed with errors**, you must correct the errors as described in the following section. Once corrected, you are ready to grade the sheets. 
 
 ## Correcting Errors
 To correct errors, follow these steps:
