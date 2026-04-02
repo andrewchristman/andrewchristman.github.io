@@ -16,9 +16,9 @@ sequence: 2
     <li><strong>Scope:</strong> This conceptual guide explains version control and Git without covering implementation details.</li>
     <li><strong>Key Considerations:</strong></li>
       <ul>
-        <li>Everyday examples such as emailing to yourself are used to explain version control and Git for the intended audience.</li>
+        <li>Everyday examples such as emailing to yourself are used to help explain version control and Git for the intended audience.</li>
         <li>Implementation details such as CLI are omitted to avoid overwhelming the intended audience.</li>
-        <li>The value of using Git is explained so that the intended audience can understand the practical significance of using Git in addition to understanding what it is.</li>
+        <li>The value of using Git is explained so that users can understand the practical significance of using Git in addition to understanding what it is.</li>
       </ul>
     <li><strong>Success Criteria:</strong> The user can define commit, repository, branch, and merge, and can explain the difference between Git and GitHub & GitLab.</li>
     <li><strong>Next Iteration:</strong> After evaluating user feedback, revise until 100% of pilot non-technical users meet the success criteria.</li>
