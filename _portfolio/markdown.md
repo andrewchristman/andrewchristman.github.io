@@ -21,7 +21,7 @@ sequence: 3
         <li>Reference-style links are excluded as being too complex for the user goal.</li>
         <li>An example of a document featuring multiple different Markdown formatting elements is provided so users can see Markdown used in practice.</li>
       </ul>
-    <li><strong>Success Criteria:</strong> The user can demonstrate marking up text with each specified syntax element.</li>
+    <li><strong>Success Criteria:</strong> The user can demonstrate marking up text with each specified Markdown element.</li>
     <li><strong>Next Iteration:</strong> After evaluating user feedback, revise until 100% of pilot non-technical users meet the success criteria.</li>
   </ul>
 </div>
