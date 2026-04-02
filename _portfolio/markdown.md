@@ -364,7 +364,7 @@ Copy-paste the Markdown text above into your editor of choice to see the rendere
 
 * A [Markdown tutorial](https://commonmark.org/help/tutorial/) is available.
 
-* A guide to Markdown by Matt Cone is available in both [PDF format](https://www.markdownguide.org/book/) and [online](https://www.markdownguide.org/getting-started/). Physical copies are also available from [Amazon](https://www.amazon.com/Markdown-Guide-Matt-Cone/dp/B08BW8L1P6/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=). 
+* A guide to Markdown by Matt Cone is available in both [PDF format](https://www.markdownguide.org/book/) and [online](https://www.markdownguide.org/getting-started/). Physical copies are also available on [Amazon](https://www.amazon.com/Markdown-Guide-Matt-Cone/dp/B08BW8L1P6/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=). 
 
 ## Final Step
 Learning Markdown takes practice. Use one of the resources above to get started. 
