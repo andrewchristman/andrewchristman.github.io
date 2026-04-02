@@ -21,7 +21,7 @@ sequence: 2
         <li>The value of using Git is explained so that the audience can grasp the practical significance of using Git in addition to understanding what it is.</li>
       </ul>
     <li><strong>Success Criteria:</strong> The user can define commit, repository, branch, and merge, and explain the difference between Git and GitHub & GitLab.</li>
-    <li><strong>Next Iteration:</strong> After evaluating user feedback, revise until 100% of pilot non-technical readers meet the success criteria.</li>
+    <li><strong>Next Iteration:</strong> After evaluating user feedback, revise until 100% of pilot non-technical users meet the success criteria.</li>
   </ul>
 </div>
 
