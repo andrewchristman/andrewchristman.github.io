@@ -167,7 +167,7 @@ To correct errors, follow these steps:
 ## Troubleshooting
 
 ### Quick Checks (60 Seconds)
-* Make sure you are logged into the **correct PaperScorer account**. 
+* Make sure you are logged in to the **correct PaperScorer account**. 
 * Open the PDF file locally and make sure **it matches the physical sheets** (not blank or cropped).
 * If the website page appears stuck, wait 1–2 minutes and **refresh the page**. 
 * If the issue persists, switch to a **different browser** or use **incognito/private mode**. 
