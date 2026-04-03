@@ -145,8 +145,8 @@ To correct errors, follow these steps:
 
 3. You will see a breakdown of how many sheets were processed successfully and how many failed.
 
-   <img src="/assets/images/07-success-failure-breakdown.png"
-     alt="Success and failure breakdown"
+   <img src="/assets/images/00-success-error-breakdown.png"
+     alt="Success and error breakdown"
      class="doc-shot">
 
 4. To correct failed sheets, you must first find them. Scroll down and find the sheets that have a red status notification. Click the page number indicating the sheet you want to view. 
