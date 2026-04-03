@@ -147,19 +147,19 @@ To correct errors, follow these steps:
 
    <img src="/assets/images/203-success-failure-breakdown.png"
      alt="Success and error breakdown"
-     class="doc-shot">
+     class="doc-shot--detail">
 
 4. To correct failed sheets, you must first find them. Scroll down and find the sheets that have a red status notification. Click the page number indicating the sheet you want to view. 
 
    <img src="/assets/images/204-red-status-bar.png"
      alt="Red status bar and page number link image"
-     class="doc-shot">
+     class="doc-shot--detail">
    
 5. Once you click the page number indicating the sheet you want to view, note the name of the affected student.
 
    <img src="/assets/images/205-names-affected-students.png"
      alt="Names of affected students image"
-     class="doc-shot">
+     class="doc-shot--detail">
 
 6. Repeat until all affected students have been identified. 
 
