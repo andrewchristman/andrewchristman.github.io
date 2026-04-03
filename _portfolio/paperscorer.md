@@ -211,10 +211,10 @@ Consider escalating if:
 * If a small number of sheets fail to process, it is usually quicker to grade them manually than troubleshoot. 
 
 ## Student Privacy
-* Student answer sheets may contain confidential student information that is protected by FERPA. Make sure to delete the PDF and/or store the PDF/USB drive in accordance with school policy. 
+* Student answer sheets may contain confidential student information that is protected by FERPA. Make sure to delete or store the PDF in accordance with school policy. 
 
 ## Next Steps
-Once the student answer sheets are scanned and uploaded to PaperScorer, you are ready to begin grading. 
+Once the student answer sheets are scanned and successfully uploaded to PaperScorer, you are ready to begin grading. 
 
 
 
