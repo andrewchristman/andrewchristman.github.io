@@ -36,7 +36,7 @@ This how-to guide explains how to scan and upload student answer sheets to Paper
 
 ## Preparation
 First, make sure the student answer sheets are ready to be scanned. 
-* Ensure the student answer sheets are rotated the same way. 
+* Make sure the student answer sheets are rotated the same way as each other. 
 * Check for any folds and unfold any you find. 
 * Check for stray markings, which may affect processing. Either erase the stray markings or proceed and correct errors later. 
 * If sheets are excessively ripped or otherwise damaged, they may need to be pulled out and entered separately. 
