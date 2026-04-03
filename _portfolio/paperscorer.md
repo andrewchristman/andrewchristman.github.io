@@ -98,7 +98,7 @@ This method requires processing sheets individually. For large batches, use anot
 {: .notice--warning}
 
 ## Uploading
-To upload the PDF to PaperScorer, follow these steps:  
+To upload the file to PaperScorer, follow these steps:  
 
 1. Navigate to `https://www.paperscorer.com` in your browser and click **Log In**.
 
@@ -112,7 +112,7 @@ To upload the PDF to PaperScorer, follow these steps:
      alt="PaperScorer Upload and Score button image"
      class="doc-shot--detail">
   
-3. Click **Browse files**.
+3. Click **Browse Files**.
 
    <img src="/assets/images/03-browse-files.png"
      alt="Browse files button image"
@@ -120,14 +120,14 @@ To upload the PDF to PaperScorer, follow these steps:
      
 4. Select the file in the file picker.
 5. Click **Upload**.
-6. After you click **Upload**, you will see **Processing**. Processing may take 5–10 minutes depending on file size.
-7. When processing is complete, you will see either **Success** or **Completed with errors**.
+6. After you click **Upload**, you will see **Processing**. Processing may take an extended period depending on file size.
+7. Once processing is complete, you will see either **Success** or **Completed with errors**.
 
    <img src="/assets/images/04-success-errors-messages.png"
      alt="Success and completed with errors messages image"
      class="doc-shot--detail">
 
-8. If the result is **Success**, you are ready to grade the sheets immediately. If the result is **Completed with errors**, you must correct the errors as described in the following section. Once corrected, you are ready to grade the sheets. 
+8. If the result is **Success**, you are ready to grade the sheets. If the result is **Completed with errors**, you must correct the errors as described in the following section. Once errors are corrected, you are ready to grade the sheets. 
 
 ## Correcting Errors
 To correct errors, follow these steps:
