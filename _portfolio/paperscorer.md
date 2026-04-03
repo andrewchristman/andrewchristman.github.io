@@ -182,7 +182,7 @@ To correct errors, follow these steps:
 
 | What You See | Likely Cause | What to Do |
 |---|---|---|
-| **File upload rejected** | Wrong file format, file too large, internet connection issues | Make sure file is **PDF** (not JPEG, PNG, etc.), **250 MB or smaller**, and the **internet connection is fast enough and stable** (use a speed-check website to check). | 
+| **File greyed out** in the file picker | Wrong file format, file too large | Make sure file is **PDF** (not JPEG, PNG, etc.) and **250 MB or smaller** | 
 | Upload appears **stuck on processing** | Large file | Processing times of **5–10 minutes are normal for large files**. If needed, **upload file again**. |
 | Status shows **Completed with errors** | Paper folds, damaged paper, stray markings | Pull out affected sheets, **correct problems if possible** (for example, unfold sheets), **rescan**. If needed, **grade affected sheets manually**. |
 | **Direct email** from copier/scanner to PaperScorer **does not post anything** | Mistyped email address or processing error due to paper sheet damage/errors | Make sure **email address is typed correctly**. **Check physical sheet for damage/errors, fix** (for example, unfold folds and erase stray markings), and **rescan**. If needed, grade affected sheets **manually**. |
