@@ -131,7 +131,7 @@ To upload the file to PaperScorer, follow these steps:
 
 ## Correcting Errors
 To correct errors, follow these steps:
-1. Click the more options button to the right of the status bar.
+1. Click the more options button to the right of the status notification.
    
    <img src="/assets/images/05-more-options-button.png"
      alt="More options button image"
@@ -143,26 +143,33 @@ To correct errors, follow these steps:
      alt="View scanned pages button image"
      class="doc-shot--detail">
 
-3. You will see a breakdown of how many sheets were scanned successfully and how many failed.
-4. To correct the errors, you must find the sheets that failed. Scroll down in the window and find the scans that have a red status bar. Click the page number you want to view. 
+3. You will see a breakdown of how many sheets were processed successfully and how many failed.
+
+   <img src="/assets/images/07-success-failure-breakdown.png"
+     alt="Success and failure breakdown"
+     class="doc-shot">
+
+4. To correct failed sheets, you must first find them. Scroll down and find the sheets that have a red status notification. Click the page number indicating the sheet you want to view. 
 
    <img src="/assets/images/07-red-status-bar.png"
      alt="Red status bar and page number link image"
      class="doc-shot">
    
-5. Once you have found the failed sheets, note the names of the affected students.
+5. Once you click the page number indicating the sheet you want to view, note the name of the affected student.
 
    <img src="/assets/images/08-names-affected-students.png"
      alt="Names of affected students image"
      class="doc-shot">
 
-6. Pull out the relevant paper sheets from the stack. These paper sheets must be re-scanned.   
+6. Repeat until all affected students have been identified. 
+
+7. Pull out the sheets of the affected students from the stack. These sheets must be re-scanned. 
 
    **Tip:** 
-   For a small number of affected sheets, using the PaperScorer mobile app is quick and easy.
+   For a small number of affected students, using the PaperScorer mobile app is quick and easy.
    {: .notice}
 
-7. If the affected sheets re-scan without issue, you are ready to begin grading. If sheets continue to fail, proceed to troubleshooting in the following section.   
+7. If the sheets of the affected students re-scan without issue, you are ready to begin grading. If the sheets continue to fail, proceed to troubleshooting in the following section.   
 
 ## Troubleshooting
 
