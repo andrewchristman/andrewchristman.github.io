@@ -182,8 +182,9 @@ To correct errors, follow these steps:
 
 | What You See | Likely Cause | What to Do |
 |---|---|---|
-| **File greyed out** in the file picker | Wrong file format, file too large | Make sure file is **PDF** (not JPEG, PNG, etc.) and **250 MB or smaller** | 
-| Upload appears **stuck on processing** | Large file | Processing times of **5–10 minutes are normal for large files**. If needed, **upload file again**. |
+| **File greyed out** in the file picker | Wrong file format | Make sure file is **PDF** (not JPEG, PNG, etc.) |
+| File upload is **rejected with a red banner** | File too large | Make sure file is **250 MB or smaller** | 
+| Upload appears **stuck on processing** | Large file | Processing times of **5–10 minutes plus** are normal for large files. If needed, upload file again. |
 | Status shows **Completed with errors** | Paper folds, damaged paper, stray markings | Pull out affected sheets, **correct problems if possible** (for example, unfold sheets), **rescan**. If needed, **grade affected sheets manually**. |
 | **Direct email** from copier/scanner to PaperScorer **does not post anything** | Mistyped email address or processing error due to paper sheet damage/errors | Make sure **email address is typed correctly**. **Check physical sheet for damage/errors, fix** (for example, unfold folds and erase stray markings), and **rescan**. If needed, grade affected sheets **manually**. |
 | **Mobile app scan fails** | Paper sheet damaged/has errors or glare from overhead lights interferes with scan | **Check physical sheet for damage, fix** (for example, unfold folds and erase stray markings), and **rescan**. Scan in an **environment protected from glare**, such as **under a table or desk**. If needed, grade affected sheets **manually**. |
