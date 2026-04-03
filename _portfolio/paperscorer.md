@@ -204,11 +204,11 @@ Consider escalating if:
 * For larger school issues resulting from PaperScorer or internal IT issues, contact the Dean of Academics at `(000) 000-0000 Ext. 0` or `deanofacademics@example.com`. 
 
 ## Tips
-* Have students use No. 2 pencils when completing student answer sheets. No. 2 pencils minimize the risk of scanning issues. Consider distributing pencils to ensure the correct type is used. 
+* Have students use No. 2 pencils when completing student answer sheets. No. 2 pencils reduce the risk of scanning issues. Consider giving students pencils to make sure the correct type is used. 
 
-* Carrying around a stack of sheets in a bag prior to scanning them increases the risk of scan issues because the paper can become damaged. Consider scanning the sheets shortly after receiving them.
+* Carrying a stack of sheets around prior to scanning them increases the risk of scan issues because the paper can become damaged. Consider scanning the sheets soon after receiving them.
 
-* If a small number of sheets fail to process, it is often quicker to grade them manually rather than troubleshoot. 
+* If a small number of sheets fail to process, it is usually quicker to grade them manually than troubleshoot. 
 
 ## Student Privacy
 * Student answer sheets may contain confidential student information that is protected by FERPA. Make sure to delete the PDF and/or store the PDF/USB drive in accordance with school policy. 
