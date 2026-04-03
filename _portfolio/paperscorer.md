@@ -62,7 +62,7 @@ This scanning method uses a scanner/copier to create a PDF of the sheets. There 
 2. Place the sheets in the feeder on top of the scanner/copier.
 
     **Tip:** 
-    Sheets do not need to be sorted by section. You can enter all class sections as a single stack and the application will sort by section   later.
+    Sheets do not need to be sorted by section. You can enter all class sections as a single stack and the application will sort by section later.
     {: .notice}
    
 3. Select **Scan to USB** in the scanner/copier's user interface. The exact wording and procedure may vary by model. Use the scanner/copier settings in the table above.
@@ -76,10 +76,10 @@ This scanning method uses a scanner/copier to create a PDF of the sheets. There 
     Sheets do not need to be sorted by section. You can enter all class sections as a single stack and the application will sort by section later.
     {: .notice}
    
-3. Select **Email** in the scanner/copier's user interface. Enter your own email address as the recipient email address. The exact wording and procedure may vary by model. Use the scanner/copier settings described above. 
+3. Select **Email** in the scanner/copier's user interface. Enter your own email address as the recipient email address. The exact wording and procedure may vary by model. Use the scanner/copier settings in the table above. 
 4. The scanner/copier will process the sheets and email the file to your email address. 
 5. Once you receive the PDF by email, save the file to a location on your computer.  
-6. You are now ready to upload the file to PaperScorer. See the **Uploading** section below for instructions. 
+6. Once saved, you are ready to upload the file to PaperScorer. Go to the **Uploading** section below for instructions. 
 
 ### Alternatives (Summary Only)
 
