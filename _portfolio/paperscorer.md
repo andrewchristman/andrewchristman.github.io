@@ -36,10 +36,10 @@ This how-to guide explains how to scan and upload student answer sheets to Paper
 
 ## Preparation
 First, make sure the student answer sheets are ready to be scanned. 
-* Ensure the student answer sheets are rotated the same way as each other. 
+* Ensure the student answer sheets are rotated the same way. 
 * Check for any folds and unfold any you find. 
 * Check for stray markings, which may affect processing. Either erase the stray markings or proceed and correct errors later. 
-* If sheets are excessively ripped or otherwise damaged, you may need to pull them out and enter them separately. 
+* If sheets are excessively ripped or otherwise damaged, they may need to be pulled out and entered separately. 
 
 ## Scanning 
 PaperScorer provides three different methods for scanning student answer sheets. Uploading student answer sheets is discussed in the following section. The scanning method described below is recommended for large batches of sheets such as those from a class. The other two methods and their limitations are mentioned briefly at the end of this section for reference.    
