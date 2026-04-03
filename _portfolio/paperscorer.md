@@ -91,7 +91,7 @@ With direct emails, failed pages are not easy to identify in PaperScorer. For la
 {: .notice--warning}
 
 #### Mobile App:
-Open the PaperScorer mobile app and center a single sheet in the camera preview on the screen. The app will then automatically take a photo of the sheet and process the photo automatically.   
+Open the PaperScorer mobile app and center a single sheet in the camera preview on the screen. The app will then automatically take a photo of the sheet and process the file automatically.   
 
 **Caution:** 
 This method requires processing sheets individually. For large batches, use another method. 
