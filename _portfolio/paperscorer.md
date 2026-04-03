@@ -186,8 +186,8 @@ To correct errors, follow these steps:
 | File upload is **rejected with a red banner** | File too large | Make sure file is **250 MB or smaller**. | 
 | Upload appears **stuck on processing** | Large file | Processing times of **5–10 minutes plus** are normal for large files. If needed, upload file again. |
 | Status shows **Completed with errors** | Paper folds, stray markings, damaged paper | Pull out affected sheets, **correct problems if possible** (for example, unfold folds), **rescan** (described in detail above). If needed, grade affected sheets **manually**. |
-| **Direct email** from scanner/copier to `scan@paperscorer.com` **does not post anything** | Mistyped email address or processing error due to sheet damage/errors | Make sure email address is **typed correctly**. **Check** physical sheet for **damage/errors**, **fix** (for example, unfold folds), and **rescan**. If needed, grade affected sheets **manually**. |
-| **Mobile app scan fails** | Paper sheet damaged, glare from overhead lights interferes with scan | **Check** physical sheet for **damage/errors**, **fix** (for example, unfold folds), and **rescan**. Scan in an environment **protected from glare**, such as **under a table or desk**. If needed, grade affected sheets **manually**. |
+| **Direct email** from scanner/copier to `scan@paperscorer.com` **does not post anything** | Mistyped email address or processing error due to paper folds, stray markings, damaged paper | Make sure email address is **typed correctly**. **Check** physical sheet for **damage/errors**, **fix** (for example, unfold folds), and **rescan**. If needed, grade affected sheets **manually**. |
+| **Mobile app scan fails** | Paper folds, stray markings, damaged paper, glare from overhead lights interferes with scan | **Check** physical sheet for **damage/errors**, **fix** (for example, unfold folds), and **rescan**. Scan in an environment **protected from glare**, such as **under a table or desk**. If needed, grade affected sheets **manually**. |
 
 ### When and How to Escalate
 #### When to Escalate
