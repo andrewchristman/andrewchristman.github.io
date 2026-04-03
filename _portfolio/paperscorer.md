@@ -133,31 +133,31 @@ To upload the file to PaperScorer, follow these steps:
 To correct errors, follow these steps:
 1. Click the more options button to the right of the status notification.
    
-   <img src="/assets/images/05-more-options-button.png"
+   <img src="/assets/images/01-more-options-button.png"
      alt="More options button image"
      class="doc-shot--detail">
    
 2. Click **View scanned pages**.
 
-   <img src="/assets/images/06-view-scanned-pages.png"
+   <img src="/assets/images/02-view-scanned-pages.png"
      alt="View scanned pages button image"
      class="doc-shot--detail">
 
 3. You will see a breakdown of how many sheets were processed successfully and how many failed.
 
-   <img src="/assets/images/00-success-error-breakdown.png"
+   <img src="/assets/images/03-success-error-breakdown.png"
      alt="Success and error breakdown"
      class="doc-shot">
 
 4. To correct failed sheets, you must first find them. Scroll down and find the sheets that have a red status notification. Click the page number indicating the sheet you want to view. 
 
-   <img src="/assets/images/07-red-status-bar.png"
+   <img src="/assets/images/04-red-status-bar.png"
      alt="Red status bar and page number link image"
      class="doc-shot">
    
 5. Once you click the page number indicating the sheet you want to view, note the name of the affected student.
 
-   <img src="/assets/images/08-names-affected-students.png"
+   <img src="/assets/images/05-names-affected-students.png"
      alt="Names of affected students image"
      class="doc-shot">
 
