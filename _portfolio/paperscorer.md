@@ -102,19 +102,19 @@ To upload the file to PaperScorer, follow these steps:
 
 1. Navigate to `https://www.paperscorer.com` in your browser and click **Log In**.
 
-   <img src="/assets/images/01_login_page.png"
+   <img src="/assets/images/101_login_page.png"
      alt="PaperScorer Login Page image"
      class="doc-shot">
   
 2. Click **Upload & Score**.
 
-   <img src="/assets/images/02-upload-score.png"
+   <img src="/assets/images/102-upload-score.png"
      alt="PaperScorer Upload and Score button image"
      class="doc-shot--detail">
   
 3. Click **Browse Files**.
 
-   <img src="/assets/images/03-browse-files.png"
+   <img src="/assets/images/103-browse-files.png"
      alt="Browse files button image"
      class="doc-shot--detail">
      
@@ -123,7 +123,7 @@ To upload the file to PaperScorer, follow these steps:
 6. After you click **Upload**, you will see **Processing**. Processing may take an extended period depending on file size.
 7. Once processing is complete, you will see either **Success** or **Completed with errors**.
 
-   <img src="/assets/images/04-success-errors-messages.png"
+   <img src="/assets/images/104-success-errors-messages.png"
      alt="Success and completed with errors messages image"
      class="doc-shot--detail">
 
@@ -133,31 +133,31 @@ To upload the file to PaperScorer, follow these steps:
 To correct errors, follow these steps:
 1. Click the more options button to the right of the status notification.
    
-   <img src="/assets/images/01-more-options-button.png"
+   <img src="/assets/images/201-more-options-button.png"
      alt="More options button image"
      class="doc-shot--detail">
    
 2. Click **View scanned pages**.
 
-   <img src="/assets/images/02-view-scanned-pages.png"
+   <img src="/assets/images/202-view-scanned-pages.png"
      alt="View scanned pages button image"
      class="doc-shot--detail">
 
 3. You will see a breakdown of how many sheets were processed successfully and how many failed.
 
-   <img src="/assets/images/03-success-error-breakdown.png"
+   <img src="/assets/images/203-success-failure-breakdown.png"
      alt="Success and error breakdown"
      class="doc-shot">
 
 4. To correct failed sheets, you must first find them. Scroll down and find the sheets that have a red status notification. Click the page number indicating the sheet you want to view. 
 
-   <img src="/assets/images/04-red-status-bar.png"
+   <img src="/assets/images/204-red-status-bar.png"
      alt="Red status bar and page number link image"
      class="doc-shot">
    
 5. Once you click the page number indicating the sheet you want to view, note the name of the affected student.
 
-   <img src="/assets/images/05-names-affected-students.png"
+   <img src="/assets/images/205-names-affected-students.png"
      alt="Names of affected students image"
      class="doc-shot">
 
