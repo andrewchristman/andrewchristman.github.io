@@ -193,15 +193,15 @@ To correct errors, follow these steps:
 #### When to Escalate
 Consider escalating if:
 * Multiple users encounter the same issue (may be a service issue).
-* Uploads fail across different browsers, different files, or different copiers/scanners. 
+* Uploads fail across different browsers, different files, or different scanners/copiers. 
 * Scanning and uploading a teacher-produced test batch does not succeed. 
 
 #### How to Escalate
 * For PaperScorer issues, contact PaperScorer directly. 
     * [PaperScorer Help Center](https://help.paperscorer.com/)
     * [Contact Us](https://www.paperscorer.com/support)
-* For connection issues or internal IT issues, contact the IT help line at `(000) 000-0000`. 
-* For larger work issues resulting from PaperScorer or internal IT issues, contact the Dean of Academics at `(000) 000-0000 Ext. 0` or `deanofacademics@example.com`. 
+* For internal IT issues, contact the IT help line at `(000) 000-0000`. 
+* For larger school issues resulting from PaperScorer or internal IT issues, contact the Dean of Academics at `(000) 000-0000 Ext. 0` or `deanofacademics@example.com`. 
 
 ## Tips
 * Have students use No. 2 pencils when completing student answer sheets. No. 2 pencils minimize the risk of scanning issues. Consider distributing pencils to ensure the correct type is used. 
