@@ -151,7 +151,7 @@ To correct errors, follow these steps:
 
 4. To correct failed sheets, you must first find them. Scroll down and find the sheets that have a red status notification. Click the page number indicating the sheet you want to view. 
 
-   <img src="/assets/images/204-red-status-bar.png"
+   <img src="/assets/images/204-red-status-bar-click-page-number.png"
      alt="Red status bar and page number link image"
      class="doc-shot--detail">
    
