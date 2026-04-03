@@ -163,7 +163,7 @@ To correct errors, follow these steps:
 
 6. Repeat until all affected students have been identified. 
 
-7. Pull out the sheets of the affected students from the stack. These sheets must be re-scanned. 
+7. Pull out the sheets of affected students from the stack. These sheets must be re-scanned. 
 
    **Tip:** 
    For a small number of affected students, using the PaperScorer mobile app is quick and easy.
@@ -173,10 +173,9 @@ To correct errors, follow these steps:
 
 ## Troubleshooting
 
-### Quick Checks (60 Seconds)
-* Make sure you are logged in to the **correct PaperScorer account**. 
-* Open the PDF file locally and make sure **it matches the physical sheets** (not blank or cropped).
-* If the website page appears stuck, wait 1–2 minutes and **refresh the page**. 
+### Quick Checks (60 Seconds) 
+* Open the PDF file locally and make sure it **matches the physical sheets** (not blank or cropped).
+* If the website appears stuck, wait 1–2 minutes and **refresh the page**. 
 * If the issue persists, switch to a **different browser** or use **incognito/private mode**. 
 
 ### Common Issues
