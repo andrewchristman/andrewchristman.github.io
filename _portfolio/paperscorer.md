@@ -102,7 +102,7 @@ To upload the file to PaperScorer, follow these steps:
 
 1. Navigate to `https://www.paperscorer.com` in your browser and click **Log In**.
 
-   <img src="/assets/images/101_login_page.png"
+   <img src="/assets/images/101-login-page.png"
      alt="PaperScorer Login Page image"
      class="doc-shot">
   
