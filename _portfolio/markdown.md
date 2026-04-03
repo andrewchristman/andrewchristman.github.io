@@ -358,7 +358,7 @@ Copy-paste the Markdown text above into your editor of choice to see the rendere
 
 * [Dillinger](https://dillinger.io/) allows you to quickly write Markdown online and see the results right away. 
   
-* Selecting the **Markdown Editor** on the [Reddit](https://www.reddit.com/) post composer is an easy way to practice. You first need to [navigate to a community](https://support.reddithelp.com/hc/en-us/articles/28621027395220-How-to-join-or-leave-a-community) and then [create a post/respond to a post](https://support.reddithelp.com/hc/en-us/articles/360060422572-How-do-I-post-and-comment-on-Reddit).
+* Selecting the **Markdown Editor** on the [Reddit](https://www.reddit.com/) post composer is an easy way to practice. You first need to [navigate to a community](https://support.reddithelp.com/hc/en-us/articles/28621027395220-How-to-join-or-leave-a-community) and then [create a post/respond to a post](https://support.reddithelp.com/hc/en-us/articles/360060422572-How-do-I-post-and-comment-on-Reddit). Once creating or responding to a post, make sure you (select the Markdown Editor)[https://support.reddithelp.com/hc/en-us/articles/205191185-How-do-I-format-my-comment-or-post].
 
 ### Learn More
 
