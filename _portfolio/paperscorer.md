@@ -14,13 +14,13 @@ excerpt: "Workflow guide with troubleshooting and escalation guidance."
     <li><strong>Audience:</strong> Teachers using PaperScorer for grading (spec work).</li>
     <li><strong>User Goal:</strong> To scan and upload student answer sheets to the PaperScorer application.</li>
     <li><strong>Problem:</strong> The procedure is complex, and there are many failure points.</li>
-    <li><strong>Scope:</strong> This guide covers a recommended method for scanning and uploading batches of sheets in detail and briefly mentions alternatives.</li>
+    <li><strong>Scope:</strong> This guide covers a recommended method for scanning and uploading large batches of sheets in detail and briefly mentions alternatives.</li>
     <li>
     <strong>Key Considerations:</strong>
       <ul>
         <li>Guide is scoped to scanning and uploading assessments, not creating assessments, to avoid overwhelming the user.</li>
         <li>Alternative methods for scanning and uploading are mentioned but not described in detail to avoid overwhelming the user.</li>
-        <li>Error states are discussed in detail to account for variance in how students complete sheets and problems in transitioning from a physical medium to a digital medium.</li>
+        <li>Error states are discussed in detail to account for problems with student marking and the transition from paper to digital.</li>
       </ul>
     </li>
     <li><strong>Success Criteria:</strong> Teachers can scan and upload sheets to PaperScorer in less than 20 minutes while correcting all errors.</li>
