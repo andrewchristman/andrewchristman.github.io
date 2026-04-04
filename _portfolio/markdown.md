@@ -5,7 +5,7 @@ og_image: /assets/images/og-markdown.png
 classes:
   - markdown-guide
 sequence: 3
-excerpt: "Quick-start tutorial introducing core Markdown syntax with rendered examples and guided practice."
+excerpt: "Beginner quick-start tutorial with examples and guided practice."
 ---
 (in progress)
 
