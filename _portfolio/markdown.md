@@ -7,7 +7,6 @@ classes:
 sequence: 2
 excerpt: "Beginner quick-start tutorial with examples and guided practice."
 ---
-(in progress)
 
 <div class="notice">
   <p><strong>Project Brief</strong></p>
