@@ -30,7 +30,7 @@ excerpt: "Workflow guide with troubleshooting and escalation guidance."
 
 ## Sample
 
-This how-to guide explains how to scan and upload student answer sheets to PaperScorer. Meant for non-technical users, this guide shows you how to accomplish this task quickly and efficiently, leaving more time for grading.   
+This how-to guide explains how to scan and upload student answer sheets to PaperScorer. Meant for non-technical users, this guide shows how to accomplish this task quickly and efficiently, leaving more time for grading.   
 
 ## Prerequisites
 * An assessment [created in PaperScorer](https://help.paperscorer.com/article/180-creating-an-assessment) and corresponding [student answer sheets printed out](https://help.paperscorer.com/article/149-printing-an-assessment-for-a-class). 
@@ -39,16 +39,16 @@ This how-to guide explains how to scan and upload student answer sheets to Paper
 
 ## Preparation
 First, make sure the student answer sheets are ready to be scanned. 
-* Make sure the student answer sheets are rotated the same way as each other. 
+* Ensure the student answer sheets are rotated the same way as each other. 
 * Check for any folds and unfold any you find. 
-* Check for stray markings, which may affect processing. Either erase the stray markings or proceed and correct errors later. 
-* If sheets are excessively ripped or otherwise damaged, they may need to be pulled out and entered separately. 
+* Check for stray markings, which may affect processing. Erase the stray markings or proceed and correct errors later. 
+* If sheets are excessively ripped or otherwise damaged, they may need to be pulled out and graded manually. 
 
 ## Scanning 
-PaperScorer provides three different methods for scanning student answer sheets. The scanning method described in detail below is recommended for large batches of sheets such as those from a class. The other two methods and their limitations are mentioned briefly at the end of this section.  
+PaperScorer provides three different methods for scanning student answer sheets. The scanning method described below is recommended for large batches of sheets such as those from a class. The other two methods and their limitations are mentioned briefly at the end of this section.  
 
 ### Recommended Scanning Method for Large Batches  
-This scanning method uses a scanner/copier to create a PDF of the sheets. There are two different versions of this method, which are described below. For both versions, use the scanner/copier settings in the table below. 
+This scanning method uses a scanner/copier to create a PDF of the sheets. There are two different versions of this method, which are described below. For both versions, use the scanner/copier settings provided in the table below. 
 
 | Setting | Value |
 |---|---|
@@ -81,8 +81,8 @@ This scanning method uses a scanner/copier to create a PDF of the sheets. There 
    
 2. Select **Email** in the scanner/copier's user interface. Enter your own email address as the recipient email address. The exact wording and procedure may vary by model. Use the scanner/copier settings in the table above. 
 3. The scanner/copier will process the sheets and email the file to your email address. 
-4. Once you receive the PDF by email, save the file to a location on your computer.  
-5. Once saved, you are ready to upload the file to PaperScorer. Go to the **Uploading** section below for instructions. 
+4. Once you receive the file by email, save it to a location on your computer.  
+5. Once the file is saved, you are ready to upload the file to PaperScorer. Go to the **Uploading** section below for instructions. 
 
 ### Alternatives (Summary Only)
 
@@ -94,10 +94,10 @@ With direct emails, failed pages are not easy to identify in PaperScorer. For la
 {: .notice--warning}
 
 #### Mobile App:
-Open the PaperScorer mobile app and center a single sheet in the camera preview on the screen. The app will then automatically take a photo of the sheet and process the file automatically.   
+Open the PaperScorer mobile app and center a single sheet in the camera viewfinder on the screen. The app will then automatically take a photo of the sheet and process the photo automatically.   
 
 **Caution:** 
-This method requires processing sheets individually. For large batches, use another method. 
+This method requires processing sheets one-by-one. For large batches, use another method. 
 {: .notice--warning}
 
 ## Uploading
