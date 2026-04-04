@@ -302,11 +302,11 @@ Here is an example of text formatted with Markdown and the rendered result:
 
 * **Installation Guide:** 90% complete
 * **Troubleshooting Guide:** Draft ready for review
-* **Open Question:** Who should make the quick start? 
+* **Open Question:** Who should draft the quick start? 
 
 ## Decisions
 
-* Sarah will draft the quick start starting next week. 
+* Sarah will draft the quick start beginning next week. 
 
 ## Risks / Blockers
 
@@ -333,11 +333,11 @@ The rendered result:
 
 * **Installation Guide:** 90% complete
 * **Troubleshooting Guide:** Draft ready for review
-* **Open Question:** Who should make the quick start? 
+* **Open Question:** Who should draft the quick start? 
 
 ## Decisions
 
-* Sarah will draft the quick start starting next week. 
+* Sarah will draft the quick start beginning next week. 
 
 ## Risks / Blockers
 
@@ -345,7 +345,7 @@ The rendered result:
 
 ## Next Steps
 
-* Sarah will check with the dev team and report to the product manager.
+* Sarah will check with the dev team and report to the product manager. 
 {% endcapture %}
 
 <div class="demo-output"> {{ rendered_example | markdownify }} </div>
