@@ -21,7 +21,7 @@ excerpt: "Beginner quick-start tutorial with examples and guided practice."
       <ul>
         <li>A visual approach to showing how syntax is rendered aids user comprehension by avoiding jargon and showing results directly.</li>
         <li>Reference-style links are excluded as being too complex for the user goal.</li>
-        <li>An example document with multiple different Markdown formatting elements shows how Markdown works in practice.</li>
+        <li>An example document with multiple different Markdown formatting elements shows how Markdown is used in practice.</li>
       </ul>
   </li>
     <li><strong>Success Criteria:</strong> The user can demonstrate marking up text with each specified Markdown element.</li>
