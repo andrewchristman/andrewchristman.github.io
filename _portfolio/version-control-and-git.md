@@ -20,7 +20,7 @@ excerpt: "Conceptual explainer for non-technical users."
       <ul>
         <li>Everyday examples such as emailing to yourself are used to help explain version control and Git for the intended audience.</li>
         <li>Implementation details such as CLI are omitted to avoid overwhelming the intended audience.</li>
-        <li>The value of using Git is explained so that users can understand the practical significance of using Git in addition to understanding what it is.</li>
+        <li>The value of using Git is explained so that users can understand the practical significance of Git in addition to understanding what it is.</li>
       </ul>
   </li>
     <li><strong>Success Criteria:</strong> Users can define commit, repository, branch, and merge, and explain the difference between Git and the platforms GitHub and GitLab.</li>
