@@ -24,7 +24,7 @@ excerpt: "Conceptual explainer for non-technical users."
       </ul>
   </li>
     <li><strong>Success Criteria:</strong> The user can define commit, repository, branch, and merge, and explain the difference between Git and GitHub & GitLab.</li>
-    <li><strong>Validation:</strong>Test with first-time users against the success criteria.</li>
+    <li><strong>Validation:</strong> Test with first-time users against the success criteria.</li>
   </ul>
 </div>
 
