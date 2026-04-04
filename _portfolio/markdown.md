@@ -1,7 +1,10 @@
 ---
 layout: single
 title: "Getting Started With Markdown in 15 Minutes"
-og_image: "https://andrewchristman.com/assets/images/og-markdown.png"
+image:
+  path: "https://andrewchristman.com/assets/images/og-paperscorer.png"
+  width: 1200
+  height: 630
 classes:
   - markdown-guide
 sequence: 3
