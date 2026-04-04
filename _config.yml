@@ -5,6 +5,7 @@ url: "https://andrewchristman.com"
 baseurl: ""
 repository: "andrewchristman/andrewchristman.github.io"
 locale: "en-US"
+og_image: /assets/images/og-default.png
 
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 
