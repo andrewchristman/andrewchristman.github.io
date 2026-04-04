@@ -291,8 +291,7 @@ Here are some ways Markdown and Markdown-like formatting can be used:
 * Applications vary with respect to supporting Markdown. Use the preview feature, if available, to ensure your Markdown renders correctly.    
 * If Markdown is rendering a character that you don't want to render, use a backslash `\` to escape it. For example, `\_Italic\_` will show as `_Italic_` (underscores visible). 
 * If an image doesn't display, make sure the path and file name are correct, including spaces and capitalization. 
-* If a list doesn't render, add a blank line before the first item.
-* For nested lists, indent by 2-4 spaces. Be consistent, as nesting rules can differ across renderers. 
+* Try adding a blank line before and after elements such as headings if the elements don't render correctly. 
 
 ## Example
 
