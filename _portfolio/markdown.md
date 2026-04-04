@@ -102,8 +102,6 @@ will show as
 
 <div class="demo-output"> {{ rendered_italic | markdownify }} </div>
 
-
-
 **Optional Practice:** 
 Write a sentence with one **bold** word and one _italic_ word.
 {: .notice}
