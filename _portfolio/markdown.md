@@ -4,7 +4,7 @@ title: "Getting Started With Markdown in 15 Minutes"
 og_image: "https://andrewchristman.com/assets/images/og-markdown.png"
 classes:
   - markdown-guide
-sequence: 3
+sequence: 2
 excerpt: "Beginner quick-start tutorial with examples and guided practice."
 ---
 (in progress)
