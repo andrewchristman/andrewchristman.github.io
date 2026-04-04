@@ -79,10 +79,10 @@ This scanning method uses a scanner/copier to create a PDF of the sheets. There 
     Sheets do not need to be sorted by section. You can enter all class sections as a single stack and the application will sort by section later.
     {: .notice}
    
-3. Select **Email** in the scanner/copier's user interface. Enter your own email address as the recipient email address. The exact wording and procedure may vary by model. Use the scanner/copier settings in the table above. 
-4. The scanner/copier will process the sheets and email the file to your email address. 
-5. Once you receive the PDF by email, save the file to a location on your computer.  
-6. Once saved, you are ready to upload the file to PaperScorer. Go to the **Uploading** section below for instructions. 
+2. Select **Email** in the scanner/copier's user interface. Enter your own email address as the recipient email address. The exact wording and procedure may vary by model. Use the scanner/copier settings in the table above. 
+3. The scanner/copier will process the sheets and email the file to your email address. 
+4. Once you receive the PDF by email, save the file to a location on your computer.  
+5. Once saved, you are ready to upload the file to PaperScorer. Go to the **Uploading** section below for instructions. 
 
 ### Alternatives (Summary Only)
 
@@ -172,7 +172,7 @@ To correct errors, follow these steps:
    For a small number of affected students, using the PaperScorer mobile app is quick and easy.
    {: .notice}
 
-7. If the sheets of the affected students re-scan without issue, you are ready to begin grading. If the sheets continue to fail, proceed to troubleshooting in the following section.   
+8. If the sheets of the affected students re-scan without issue, you are ready to begin grading. If the sheets continue to fail, proceed to troubleshooting in the following section.   
 
 ## Troubleshooting
 
