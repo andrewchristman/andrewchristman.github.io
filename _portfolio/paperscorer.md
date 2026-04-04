@@ -54,7 +54,7 @@ This scanning method uses a scanner/copier to create a PDF of the sheets. There 
 |---|---|
 | File Format | PDF |
 | Max File Size | 250 MB |
-| Color | Black and White (Grayscale) |
+| Color | Yes |
 | Resolution | 300 DPI |
 | Orientation | Portrait |
 | Mode | Single Page/Simplex |
@@ -94,7 +94,7 @@ With direct emails, failed pages are not easy to identify in PaperScorer. For la
 {: .notice--warning}
 
 #### Mobile App:
-Open the PaperScorer mobile app and center a single sheet in the camera viewfinder on the screen. The app will then automatically take a photo of the sheet and process the photo automatically.   
+Open the PaperScorer mobile app and center a single sheet in the camera viewfinder on the screen. The app will then automatically take a photo of the sheet and process the data automatically.   
 
 **Caution:** 
 This method requires processing sheets one-by-one. For large batches, use another method. 
@@ -178,7 +178,7 @@ To correct errors, follow these steps:
 
 ### Quick Checks (60 Seconds) 
 * Open the PDF file locally and make sure it **matches the physical sheets** (not blank or cropped).
-* If the website appears stuck, wait 1–2 minutes and **refresh the page**. 
+* If the website appears stuck, **wait 1–2 minutes** and **refresh the page**. 
 * If the issue persists, switch to a **different browser** or use **incognito/private mode**. 
 
 ### Common Issues
@@ -211,7 +211,7 @@ Consider escalating if:
 
 * Carrying a stack of sheets around prior to scanning them increases the risk of scan issues because the paper can become damaged. Consider scanning sheets soon after receiving them.
 
-* If a small number of sheets fail to process, it is often quicker to grade them manually than troubleshoot the issue. 
+* If a small number of sheets fail to process, it is often quicker to grade manually than troubleshoot. 
 
 ## Student Privacy
 * Student answer sheets may contain confidential student information that is protected by FERPA. Make sure to delete or store the PDF in accordance with school policy. 
