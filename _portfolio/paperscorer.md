@@ -216,7 +216,7 @@ Consider escalating if:
 ## Next Steps
 Once the student answer sheets are scanned and successfully uploaded to PaperScorer, you are ready to begin grading. 
 
-
+{% include post_pagination.html %}
 
 
   
