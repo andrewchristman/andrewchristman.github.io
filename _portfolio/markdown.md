@@ -272,10 +272,10 @@ Choose a favorite quote, write some comments about it, and then insert the quote
 {: .notice}
 
 ## Applications
-Here are some ways Markdown and Markdown-like formatting can be used:
+Here are some ways Markdown can be used:
 * **Reddit:** You can add Markdown formatting directly to text in the post composer when using the Markdown Editor. 
 * **Ghost:** You can use Markdown to format blog posts.
-* **WhatsApp:** You can use Markdown-like formatting to format messages. 
+* **Discord:** You can use Markdown to format messages. 
 * **Obsidian:** You can store notes as Markdown files.
 * **Any Plain-Text Editor:** You can write Markdown in any plain-text editor and then convert into other formats such as PDF with the right tools. 
 
