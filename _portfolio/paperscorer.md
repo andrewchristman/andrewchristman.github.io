@@ -172,7 +172,7 @@ To correct errors, follow these steps:
    For a small number of failed sheets, using the PaperScorer mobile app to re-scan is quick and easy.
    {: .notice}
 
-8. If the failed sheets re-scan without issue, you are ready to begin grading. If the failed sheets continue to fail, proceed to troubleshooting in the following section.   
+8. If the failed sheets re-scan without issue, you are ready to begin grading. If the failed sheets continue to fail, either grade the sheets manually or proceed to troubleshooting in the following section.   
 
 ## Troubleshooting
 
