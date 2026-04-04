@@ -3,7 +3,7 @@ layout: single
 title: "Version Control and Git: A Guide for Non-Technical Users"
 og_image: /assets/images/version-control-and-git.png
 sequence: 2
-excerpt: "Conceptual explainer covering version control and Git for non-technical users, without implementation details."
+excerpt: "Conceptual explainer for non-technical users."
 ---
 
 (in progress)
