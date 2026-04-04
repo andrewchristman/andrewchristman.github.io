@@ -7,4 +7,4 @@ entries_layout: grid
 sort_by: sequence
 ---
 
-My portfolio samples are available below.
+These samples demonstrate help-center documentation, conceptual explanation, and beginner tutorial writing for non-technical audiences.
