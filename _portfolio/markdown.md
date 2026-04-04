@@ -74,7 +74,7 @@ will show as
 
 <div class="demo-output"> {{ rendered_bold | markdownify }} </div> 
 
-To make text italic, use an underscore `_` before and after the text. For example:
+To make text italic, use an underscore `_` or single asterix `*` before and after the text. For example:
 
 ```markdown
 _Italic_
@@ -88,8 +88,21 @@ _Italic_
 
 <div class="demo-output"> {{ rendered_italic | markdownify }} </div>
 
-**Note:** 
-Single asterisks can often, but not always, be used instead of underscores for italic. For example, `*Italic*`.
+and
+
+```markdown
+*Italic*
+```
+
+will show as  
+
+{% capture rendered_italic %}
+*Italic*
+{% endcapture %}
+
+<div class="demo-output"> {{ rendered_italic | markdownify }} </div>
+
+
 
 **Optional Practice:** 
 Write a sentence with one **bold** word and one _italic_ word.
