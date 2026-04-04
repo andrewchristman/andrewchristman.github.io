@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "PaperScorer How-To Guide: Scanning and Uploading Student Answer Sheets"
-og_image: /assets/images/og-paperscorer.png
+og_image: "https://andrewchristman.com/assets/images/og-paperscorer.png"
 sequence: 1
 excerpt: "Workflow guide with troubleshooting and escalation guidance."
 ---
