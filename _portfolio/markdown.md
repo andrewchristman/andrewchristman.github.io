@@ -372,7 +372,5 @@ Copy-paste the Markdown text above into your editor of choice to see the rendere
 ## Final Step
 Learning Markdown takes practice. Use one of the resources above to get started. 
 
-{% include post_pagination.html %}
-
 
 
