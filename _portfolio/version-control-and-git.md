@@ -68,18 +68,18 @@ The following workflow scenario shows what collaborative version control with Gi
 
 ## Key Takeaways
 * Git provides a way to keep track of changes to a project over time.
-* The branching feature of Git allows for collaborative workflows—each team member can work independently on a separate branch, and these branches can then be merged with the main branch to incorporate each member's contributions. 
+* The branching feature of Git allows for collaborative workflows—each team member can work independently on a separate branch, and these branches can then be merged with the main branch to integrate each member's contributions. 
 * Git has technical features that make it effective at its task—it is fast, it can be used offline (though a typical workflow ultimately requires internet), it is distributed, and it handles branching and merging well. 
 
 ## Glossary
 * **Commit:** A snapshot of the entire project state at a specific moment in time.  
-* **Repository (Repo):** The location where commits are stored (like a photo album with time-stamped photos).
+* **Repository (Repo):** The location where commits are stored (like a photo album storing time-stamped photos).
 * **Branch:** One of potentially many parallel versions of a project.  
 * **Merge:** The process of integrating changes on different branches into a single version of the project.  
 * **GitHub and GitLab:** Websites that host Git repositories (like Google Drive hosting a document) and facilitate collaboration.  
 
 ## Getting Started
-* Git can be downloaded [here](https://git-scm.com/install/).
-* The free [_Pro Git_](https://git-scm.com/book/en/v2) book by Scott Chacon and Ben Straub provides detailed instructions on how to use Git. 
+* You can download Git from the [Git website](https://git-scm.com/install/).
+* The free [_Pro Git_](https://git-scm.com/book/en/v2) book by Scott Chacon and Ben Straub provides detailed information about Git and how to use it. 
 * GitHub offers a [getting started guide](https://docs.github.com/en/get-started).
 * GitLab offers a [getting started guide](https://university.gitlab.com/pages/getting-started).
