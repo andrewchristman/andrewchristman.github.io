@@ -10,18 +10,18 @@ feature_row:
     url: /portfolio/paperscorer/
     btn_label: "Read Sample"
     btn_class: "btn--primary"
-
-  - title: "Version Control and Git: A Guide for Non-Technical Users"
-    excerpt: "Conceptual explainer for non-technical users."
-    url: /portfolio/version-control-and-git/
-    btn_label: "Read Sample"
-    btn_class: "btn--primary"
-
+    
   - title: "Getting Started With Markdown in 15 Minutes"
     excerpt: "Beginner quick-start tutorial with examples and guided practice."
     url: /portfolio/markdown/
     btn_label: "Read Sample"
     btn_class: "btn--primary"
+
+  - title: "Version Control and Git: A Guide for Non-Technical Users"
+    excerpt: "Conceptual explainer for non-technical users."
+    url: /portfolio/version-control-and-git/
+    btn_label: "Read Sample"
+    btn_class: "btn--primary" 
 ---
 
 # Technical Writing Portfolio
