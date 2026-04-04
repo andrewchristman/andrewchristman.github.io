@@ -6,8 +6,6 @@ sequence: 3
 excerpt: "Conceptual explainer for non-technical users."
 ---
 
-(in progress)
-
 <div class="notice">
   <p><strong>Project Brief</strong></p>
   <ul>
