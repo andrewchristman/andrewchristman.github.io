@@ -15,12 +15,14 @@ sequence: 3
     <li><strong>User Goal:</strong> To get started using basic Markdown.</li>
     <li><strong>Problem:</strong> Markdown is simple enough to be useful for non-technical users, but the jargon surrounding it can be intimidating.</li>
     <li><strong>Scope:</strong> This guide covers a selection of core Markdown syntax.</li>
-    <li><strong>Key Considerations:</strong></li>
+    <li>
+      <strong>Key Considerations:</strong>
       <ul>
         <li>A visual approach to showing how syntax is rendered aids user comprehension by avoiding jargon and showing results directly.</li>
         <li>Reference-style links are excluded as being too complex for the user goal.</li>
         <li>An example of a document featuring multiple different Markdown formatting elements is provided so users can see Markdown used in practice.</li>
       </ul>
+  </li>
     <li><strong>Success Criteria:</strong> The user can demonstrate marking up text with each specified Markdown element.</li>
     <li><strong>Next Iteration:</strong> After evaluating user feedback, revise until 100% of pilot non-technical users meet the success criteria.</li>
   </ul>
