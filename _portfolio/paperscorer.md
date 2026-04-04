@@ -30,7 +30,7 @@ sequence: 1
 This how-to guide explains how to scan and upload student answer sheets to PaperScorer. Meant for non-technical users, this guide shows you how to accomplish this task quickly and efficiently, leaving more time for grading.   
 
 ## Prerequisites
-* An assessment [created in PaperScorer(https://help.paperscorer.com/article/180-creating-an-assessment] and corresponding [student answer sheets printed out](https://help.paperscorer.com/article/149-printing-an-assessment-for-a-class). 
+* An assessment [created in PaperScorer](https://help.paperscorer.com/article/180-creating-an-assessment] and corresponding [student answer sheets printed out](https://help.paperscorer.com/article/149-printing-an-assessment-for-a-class). 
 * A scanner/copier or a mobile phone with a camera. If using a mobile phone, download the PaperScorer app from the App Store (iOS) or Google Play (Android). A scanner/copier is recommended for large batches of sheets.  
 * If using a scanner/copier, a USB drive is required if the scanner/copier cannot email files directly. 
 
