@@ -19,8 +19,8 @@ excerpt: "Workflow guide with troubleshooting and escalation guidance."
     <strong>Key Considerations:</strong>
       <ul>
         <li>Guide is scoped to scanning and uploading assessments, not creating assessments, to avoid overwhelming the user.</li>
-        <li>Alternative methods for scanning and uploading are mentioned but not described in detail to avoid overwhelming the user.</li>
-        <li>Error states are discussed in detail to account for problems with student marking and the transition from paper to digital.</li>
+        <li>Alternative methods for scanning and uploading student answer sheets are mentioned but not described in detail to avoid overwhelming the user.</li>
+        <li>Error states are discussed to account for problems with student marking and the transition from paper to digital.</li>
       </ul>
     </li>
     <li><strong>Success Criteria:</strong> Teachers can scan and upload sheets to PaperScorer in less than 20 minutes while correcting all errors.</li>
@@ -188,15 +188,15 @@ To correct errors, follow these steps:
 | File is **greyed out** in the file picker | Wrong file format | Make sure file is **PDF** (not JPEG, PNG, etc.). |
 | File upload is **rejected with a red banner** | File too large | Make sure file is **250 MB or smaller**. | 
 | Upload appears **stuck on processing** | Large file | Processing times of **5–10 minutes+** are normal for large files. If needed, upload file again. |
-| Status shows **Completed with errors** | Paper folds, stray markings, damaged paper | Pull out affected sheets, **correct problems if possible** (for example, unfold folds), **rescan** (described in detail above). If needed, grade affected sheets **manually**. |
-| **Direct email** from scanner/copier to `scan@paperscorer.com` **does not post anything** | Mistyped email address or processing error due to paper folds, stray markings, damaged paper | Make sure email address is **typed correctly**. **Check** physical sheet for **damage/errors**, **fix** (for example, unfold folds), and **rescan**. If needed, grade affected sheets **manually**. |
-| **Mobile app scan fails** | Paper folds, stray markings, damaged paper, glare from overhead lights interferes with scan | **Check** physical sheet for **damage/errors**, **fix** (for example, unfold folds), and **rescan**. Scan in an environment **protected from glare**, such as **under a table or desk**. If needed, grade affected sheets **manually**. |
+| Status shows **Completed with errors** | Stray markings, paper folds, damaged paper | Pull out affected sheets, **correct problems if possible** (for example, erase stray markings), **rescan** (described in detail above). If needed, grade affected sheets **manually**. |
+| **Direct email** from scanner/copier to `scan@paperscorer.com` **does not post anything** | Mistyped email address or processing error due to stray markings, paper folds, damaged paper | Make sure email address is **typed correctly**. **Check** physical sheets for **damage/errors**, **fix** (for example, erase stray markings), and **rescan**. If needed, grade affected sheets **manually**. |
+| **Mobile app scan fails** | Stray markings, paper folds, damaged paper, glare from overhead lights interferes with scan | **Check** physical sheets for **damage/errors**, **fix** (for example, erase stray markings), and **rescan**. Scan in an environment **protected from glare**, such as **under a table or desk**. If needed, grade affected sheets **manually**. |
 
 ### When and How to Escalate
 #### When to Escalate
 Consider escalating if:
 * Multiple users encounter the same issue (may be a service issue).
-* Uploads fail across different browsers, different files, or different scanners/copiers. 
+* Uploads fail across different browsers, different files, or different scanners/copiers.
 * Scanning and uploading a teacher-produced test batch does not succeed. 
 
 #### How to Escalate
@@ -204,20 +204,20 @@ Consider escalating if:
     * [PaperScorer Help Center](https://help.paperscorer.com/)
     * [Contact Us](https://www.paperscorer.com/support)
 * For internal IT issues, contact the IT help line at `(000) 000-0000`. 
-* For larger school issues resulting from PaperScorer or internal IT issues, contact the Dean of Academics at `(000) 000-0000 Ext. 0` or `deanofacademics@example.com`. 
+* For larger school issues, contact the Dean of Academics at `(000) 000-0000 Ext. 0` or `deanofacademics@example.com`. 
 
 ## Tips
-* Have students use No. 2 pencils when completing student answer sheets. No. 2 pencils reduce the risk of scanning issues. Consider giving students pencils to make sure the correct type is used. 
+* Have students use No. 2 pencils when completing student answer sheets. No. 2 pencils reduce the risk of scanning issues. Consider giving students pencils to make sure they use the correct type. 
 
-* Carrying a stack of sheets around prior to scanning them increases the risk of scan issues because the paper can become damaged. Consider scanning the sheets soon after receiving them.
+* Carrying a stack of sheets around prior to scanning them increases the risk of scan issues because the paper can become damaged. Consider scanning sheets soon after receiving them.
 
-* If a small number of sheets fail to process, it is usually quicker to grade them manually than troubleshoot. 
+* If a small number of sheets fail to process, it is often quicker to grade them manually than troubleshoot the issue. 
 
 ## Student Privacy
 * Student answer sheets may contain confidential student information that is protected by FERPA. Make sure to delete or store the PDF in accordance with school policy. 
 
 ## Next Steps
-Once the student answer sheets are scanned and successfully uploaded to PaperScorer, you are ready to begin grading. 
+Once the student answer sheets are scanned and uploaded successfully to PaperScorer, you are ready to begin grading. 
 
 
 
