@@ -123,7 +123,7 @@ To upload the file to PaperScorer, follow these steps:
      
 4. Select the file in the file picker.
 5. Click **Upload**.
-6. After you click **Upload**, you will see **Processing**. Processing may take an extended period depending on file size.
+6. After you click **Upload**, you will see **Processing**. Processing may take 5–10 minutes+ depending on file size.
 7. Once processing is complete, you will see either **Success** or **Completed with errors**.
 
    <img src="/assets/images/104-success-errors-messages.png"
@@ -152,27 +152,27 @@ To correct errors, follow these steps:
      alt="Success and error breakdown"
      class="doc-shot--detail">
 
-4. To correct failed sheets, you must first find them. Scroll down and find the sheets that have a red status notification. Click the page number indicating the sheet you want to view. 
+4. To correct failed sheets, you must first identify them. Scroll down and find the sheets that have a red status notification. Click the page number indicating the sheet you want to view. 
 
    <img src="/assets/images/204-red-status-bar-click-page-number.png"
      alt="Red status bar and page number link image"
      class="doc-shot--detail">
    
-5. Once you click the page number indicating the sheet you want to view, note the name of the affected student.
+5. Once you click the page number, note the name of the affected student.
 
    <img src="/assets/images/205-names-affected-students.png"
      alt="Names of affected students image"
      class="doc-shot--detail">
 
-6. Repeat until all affected students have been identified. 
+6. Repeat until all failed sheets have been identified.  
 
-7. Pull out the sheets of affected students from the stack. These sheets must be re-scanned. 
+7. Pull out the failed sheets from the paper stack. These failed sheets must be re-scanned. 
 
    **Tip:** 
-   For a small number of affected students, using the PaperScorer mobile app is quick and easy.
+   For a small number of failed sheets, using the PaperScorer mobile app to re-scan is quick and easy.
    {: .notice}
 
-8. If the sheets of the affected students re-scan without issue, you are ready to begin grading. If the sheets continue to fail, proceed to troubleshooting in the following section.   
+8. If the failed sheets re-scan without issue, you are ready to begin grading. If the failed sheets continue to fail, proceed to troubleshooting in the following section.   
 
 ## Troubleshooting
 
