@@ -13,7 +13,7 @@ excerpt: "Conceptual explainer for non-technical users."
   <ul>
     <li><strong>Audience:</strong> Non-technical users (spec work).</li>
     <li><strong>User Goal:</strong> To understand the big picture of version control and Git without getting lost in the technical details.</li>
-    <li><strong>Problem:</strong> Version control and Git need to be explained, and Git can be intimidating for non-technical audiences.</li>
+    <li><strong>Problem:</strong> Version control and Git need to be explained, but Git can be intimidating for non-technical users.</li>
     <li><strong>Scope:</strong> This conceptual guide explains version control and Git without covering implementation details.</li>
     <li>
       <strong>Key Considerations:</strong>
@@ -23,7 +23,7 @@ excerpt: "Conceptual explainer for non-technical users."
         <li>The value of using Git is explained so that users can understand the practical significance of using Git in addition to understanding what it is.</li>
       </ul>
   </li>
-    <li><strong>Success Criteria:</strong> The user can define commit, repository, branch, and merge, and explain the difference between Git and GitHub & GitLab.</li>
+    <li><strong>Success Criteria:</strong> Users can define commit, repository, branch, and merge, and explain the difference between Git and GitHub/GitLab.</li>
     <li><strong>Validation:</strong> Test with first-time users against the success criteria.</li>
   </ul>
 </div>
