@@ -24,7 +24,7 @@ excerpt: "Workflow guide with troubleshooting and escalation guidance."
       </ul>
     </li>
     <li><strong>Success Criteria:</strong> Teachers can scan and upload sheets to PaperScorer in less than 20 minutes while correcting all errors.</li>
-    <li><strong>Next Iteration:</strong> After evaluating user feedback, revise until 100% of pilot teachers meet the success criteria.</li>
+    <li><strong>Validation:</strong>Test with first-time users against the success criteria.</li>
   </ul>
 </div>
 
