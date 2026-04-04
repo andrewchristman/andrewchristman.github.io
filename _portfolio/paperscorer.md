@@ -3,7 +3,7 @@ layout: single
 title: "PaperScorer How-To Guide: Scanning and Uploading Student Answer Sheets"
 og_image: /assets/images/og-paperscorer.png
 sequence: 1
-excerpt: "How-to guide with troubleshooting table and escalation guidance for a teacher-facing scanning workflow."
+excerpt: "Workflow guide with troubleshooting and escalation guidance."
 ---
 
 (in progress)
