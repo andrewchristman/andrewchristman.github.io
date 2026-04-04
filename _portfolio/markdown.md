@@ -156,7 +156,7 @@ will show as
 
 <div class="demo-output"> {{ rendered_orderedlist | markdownify }} </div>
 
-Markdown uses bullet points to display unordered lists. To make an unordered list, use an asterisk or hyphen before each list item.  For example:
+Markdown uses bullet points to display unordered lists. To make an unordered list, use an asterisk or hyphen before each list item. For example:
 
 ```markdown
 * List Item 1
