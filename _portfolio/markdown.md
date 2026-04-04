@@ -272,7 +272,7 @@ Here are some ways Markdown and Markdown-like formatting can be used:
 
 * Not having a space between the symbol and the text for headings and lists. For example, `#Heading` would be incorrect, while `# Heading` would be correct. 
 
-* Alternating the order of symbols when combining two or more symbols. For example, `**_Text**_` would be incorrect, while `**_Text_**` would be correct. 
+* Forgetting to close formatting marks. For example, `[link text](URL` would be incorrect, while `[link text](URL)` would be correct. 
 
 * Reversing brackets and parentheses for links. For example, `(Link Text)[URL]` would be incorrect, while `[Link Text](URL)` would be correct. Remember by: **B**rackets for **B**uttons and **P**arentheses for **P**ath. 
 
