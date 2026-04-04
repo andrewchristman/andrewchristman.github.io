@@ -20,7 +20,7 @@ excerpt: "Workflow guide with troubleshooting and escalation guidance."
       <ul>
         <li>Guide is scoped to scanning and uploading assessments, not creating assessments, to avoid overwhelming the user.</li>
         <li>Alternative methods for scanning and uploading student answer sheets are mentioned but not described in detail to avoid overwhelming the user.</li>
-        <li>Guide takes into account problems with student marking and the transition from paper to digital.</li>
+        <li>Guide distinguishes between problems teachers can resolve themselves and problems that require escalation.</li>
       </ul>
     </li>
     <li><strong>Success Criteria:</strong> Teachers can scan and upload sheets to PaperScorer in less than 20 minutes while correcting all errors.</li>
