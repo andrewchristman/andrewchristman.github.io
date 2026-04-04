@@ -1,7 +1,10 @@
 ---
 layout: single
 title: "Version Control and Git: A Guide for Non-Technical Users"
-og_image: "https://andrewchristman.com/assets/images/og-version-control-and-git.png"
+image:
+  path: "https://andrewchristman.com/assets/images/og-version-control-and-git.png"
+  width: 1200
+  height: 630
 sequence: 2
 excerpt: "Conceptual explainer for non-technical users."
 ---
