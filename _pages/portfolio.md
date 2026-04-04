@@ -7,4 +7,6 @@ entries_layout: grid
 sort_by: sequence
 ---
 
+(in progress) 
+
 These samples demonstrate task-based documentation, conceptual explanation, and beginner tutorial writing for non-technical audiences.
