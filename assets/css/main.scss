@@ -90,6 +90,14 @@ blockquote em {
   background: #f8fafc;
 }
 
+.demo-output p code,
+.demo-output li code {
+  padding: 0.1em 0.35em;
+  border: 1px solid #d8dee4;
+  border-radius: 4px;
+  background: #eef2f7;
+}
+
 .demo-output > :last-child {
   margin-bottom: 0;
 }
