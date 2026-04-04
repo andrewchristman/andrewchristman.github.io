@@ -185,7 +185,7 @@ To correct errors, follow these steps:
 
 | What You See | Likely Cause | What to Do |
 |---|---|---|
-| File is **greyed out** in the file picker | Wrong file format | Make sure file is **PDF** (not JPEG, PNG, etc.). |
+| File is **grayed out** in the file picker | Wrong file format | Make sure file is **PDF** (not JPEG, PNG, etc.). |
 | File upload is **rejected with a red banner** | File too large | Make sure file is **250 MB or smaller**. | 
 | Upload appears **stuck on processing** | Large file | Processing times of **5–10 minutes+** are normal for large files. If needed, upload file again. |
 | Status shows **Completed with errors** | Stray markings, paper folds, damaged paper | Pull out affected sheets, **correct problems if possible** (for example, erase stray markings), **rescan** (described in detail above). If needed, grade affected sheets **manually**. |
