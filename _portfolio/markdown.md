@@ -25,7 +25,7 @@ excerpt: "Beginner quick-start tutorial with examples and guided practice."
       </ul>
   </li>
     <li><strong>Success Criteria:</strong> The user can demonstrate marking up text with each specified Markdown element.</li>
-    <li><strong>Validation:</strong>Test with first-time users against the success criteria.</li>
+    <li><strong>Validation:</strong> Test with first-time users against the success criteria.</li>
   </ul>
 </div>
 
