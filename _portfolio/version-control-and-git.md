@@ -51,20 +51,20 @@ Git is not the same as **GitHub** and **GitLab**. Git is software that accomplis
 {: .notice}
 
 ## Why Use Git? 
-Git is not the only type of version control, but it has several key advantages: 
+Git is not the only form of version control, but it has several key advantages: 
 
 * Git **works quickly**. Git operates on a local computer, so there is no need to wait for data to be retrieved over the internet. In work environments, this translates to efficiency gains.
 * Git **does not require an internet connection** to make commits. This means you can store snapshots while on an airplane or while the internet is down. In work environments, this translates to flexibility and resilience in the face of unexpected disruptions.   
 
     **Note:**
-    While Git does not require an internet connection to make commits, in a typical workflow, an internet connection is ultimately required to sync local work with the central repository. However, a user can still continue local work without an internet connection temporarily.
+    While Git does not require an internet connection to make commits, an internet connection is ultimately required in a typical workflow to sync local work with the central repository. However, a user can still continue local work without an internet connection temporarily.
     {: .notice}
 
-* Git is **distributed**. Other forms of version control often synchronize different computers with a single location to store data without storing a full copy on the local computer. With Git, however, each computer using Git has a full local copy of the central repository. This means that if the central repository on a site like GitHub/GitLab is compromised, any computer that has an up-to-date sync with the central repository can be used as a backup. 
-* Git **handles branching and merging well**. This means Git accomplishes more than just version control—it also makes version control in collaborative environments practical. While in some cases, Git cannot merge different branches and requires a human to intervene, even then, Git provides a way for humans to resolve the conflict. 
+* Git is **distributed**. Other forms of version control sometimes synchronize different computers with a single location that stores data without storing a full copy of the data on the local computer. With Git, however, each computer using Git has a full local copy of the central repository. This means that if the central repository on a site like GitHub/GitLab is compromised, any computer that has an up-to-date sync with the central repository can be used as backup. 
+* Git **handles branching and merging well**. This means Git accomplishes more than just version control—it also makes version control in collaborative environments practical. 
 
 ## Git in Action 
-The following workflow scenario shows what collaborative version control with Git can look like. An outdoor adventure software company maintains an online help center for its consumer topo navigation app. A recent app software update requires updating the online how-to guide in three different areas. Technical writers working for the company each take on one of the areas to complete. The writers make a copy of the central Git repository on their local computers. They then make a branch to work on their assigned update independently. Once complete, the writers push their changes to the central repository for review. The documentation manager approves the changes, and the changes are incorporated into the how-to guide by merging the branches into the main branch. By merging the branches into the main branch, the company can easily incorporate the contributions of multiple technical writers working independently. This workflow results in better documentation for consumers and improved customer satisfaction.    
+The following workflow scenario shows what collaborative version control with Git can look like. An outdoor adventure software company maintains an online help center for its consumer topo navigation app. A recent app update requires updating the how-to guide in three different areas. Technical writers working for the company each take on one of the areas to complete. The writers make a copy of the central Git repository on their local computers. They then make branches to work on their assigned areas independently. Once complete, the writers push their changes to the central repository for review. The docs lead approves the changes, and the changes are then incorporated into the how-to guide by merging the branches into the main branch. By merging the branches into the main branch, the company can easily incorporate the contributions of multiple technical writers working independently. This workflow results in better documentation for consumers and improved customer satisfaction.    
 
 ## Key Takeaways
 * Git provides a way to keep track of changes to a project over time.
