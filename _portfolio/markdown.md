@@ -89,8 +89,7 @@ _Italic_
 <div class="demo-output"> {{ rendered_italic | markdownify }} </div>
 
 **Note:** 
-Asterisks can often, but not always, be used instead of underscores. For example, `*Italic*` will often show as italic. 
-{: .notice}
+Single asterisks can often, but not always, be used instead of underscores for italic. For example, `*Italic*`.
 
 **Optional Practice:** 
 Write a sentence with one **bold** word and one _italic_ word.
@@ -101,18 +100,18 @@ Write a sentence with one **bold** word and one _italic_ word.
 Inline links place the link directly in the line of text (hence the name). To insert an inline link, place the desired link text in brackets and place the link URL in parentheses immediately following the brackets. For example:
 
 ```markdown
-[CommonMark](https://spec.commonmark.org/) is a widely accepted formal specification for Markdown.
+[CommonMark](https://spec.commonmark.org/) is a formal specification for Markdown.
 ```
 
 will show as 
 
 {% capture rendered_inlinelink %}
-[CommonMark](https://spec.commonmark.org/) is a widely accepted formal specification for Markdown.
+[CommonMark](https://spec.commonmark.org/) is a formal specification for Markdown.
 {% endcapture %}
 
 <div class="demo-output"> {{ rendered_inlinelink | markdownify }} </div>
 
-Best practice is to use descriptive text such as `CommonMark` as opposed to generic text such as `Click Here` when formatting link text. 
+Best practice is to use descriptive text such as `CommonMark` rather than generic text such as `Click Here` when formatting link text. 
 
 **Optional Practice:** 
 Make an inline link with descriptive link text and a URL to a Wikipedia page. 
@@ -120,7 +119,7 @@ Make an inline link with descriptive link text and a URL to a Wikipedia page.
 
 ## Images
 
-To insert an image, add an exclamation mark followed by alt text in brackets and then the URL in parentheses. For example:
+To insert an image, add an exclamation mark followed by alt text in brackets and then the image URL in parentheses. For example:
 
 ```markdown
 ![View from the South Rim of the Grand Canyon](https://upload.wikimedia.org/wikipedia/commons/f/f0/Grand_Canyon_National_Park_-_HCP_-_September_29%2C_2022_-_058_-_Southern_Rim.jpg)
@@ -141,7 +140,7 @@ Insert an image using the URL above and relevant alt text.
 {: .notice}
 
 ## Ordered and Unordered Lists 
-When making lists, there are two types: ordered and unordered. Ordered lists have a sequential order (such as 1, 2, 3...), while unordered lists do not. Markdown displays ordered lists using numbers. To make an ordered list, use a number followed by a period before each list item. For example:   
+There are two types of lists: ordered and unordered. Ordered lists have a sequential order (such as 1, 2, 3...), while unordered lists do not. Markdown displays ordered lists using numbers. To make an ordered list, use a number followed by a period before each list item. For example:   
 
 ```markdown
 1. List Item 1  
@@ -190,7 +189,7 @@ will show as
 <div class="demo-output"> {{ rendered_unorderedlisthyphens | markdownify }} </div>
 
 **Optional Practice:** 
-Make an ordered list with three items, an unordered list with three items using asterisks, and an unordered list with three items using hyphens. 
+Make three lists: an ordered list with three items, an unordered list with three items using asterisks, and an unordered list with three items using hyphens. 
 {: .notice}
 
 ## Code
