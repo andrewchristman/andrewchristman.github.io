@@ -234,11 +234,11 @@ Write a code sample, real or invented, and enclose it first in single backticks 
 
 ## Blockquotes
 
-To separate text as a block quote, use a right angle bracket `>` before the text. For example:
+To format text as a blockquote, use a right angle bracket `>` before the text. For example:
 
 ```markdown
 Preceding Text  
-> Block Quote
+> Blockquote
 ```
 
 will show as
@@ -246,7 +246,7 @@ will show as
 {% capture rendered_blockquote %}
 
 Preceding Text  
-> Block Quote
+> Blockquote
 
 {% endcapture %}
 
@@ -257,11 +257,11 @@ The appearance of a blockquote can vary depending on the website or application.
 {: .notice}
 
 **Optional Practice:** 
-Choose a favorite quote, write some commentary about it, and then insert the quote as a blockquote in the commentary.
+Choose a favorite quote, write some comments about it, and then insert the quote as a blockquote inside the comments.
 {: .notice}
 
 ## Applications
-Here are some ways Markdown can be used:
+Here are some ways Markdown and Markdown-like formatting can be used:
 * **Reddit:** You can add Markdown formatting directly to text in the comment box before posting when using the Markdown Editor. 
 * **Ghost:** You can use Markdown to format blog posts.
 * **WhatsApp & Discord:** You can use Markdown-like formatting to format messages. 
