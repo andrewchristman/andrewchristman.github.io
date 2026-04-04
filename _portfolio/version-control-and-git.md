@@ -47,7 +47,7 @@ Git is software that accomplishes version control. Git takes a snapshot of the e
 Git does not have to be used in collaborative environments. However, Git is designed to make version control in collaborative environments practical. With Git, you set up a single main version of the project. Users can then make **branches** of the main version. These branches are separate lines of work that begin with the main version and then depart from it. Once the changes on these branches are deemed satisfactory, they can be **merged** into the main version of the project (called the main branch). Merging is when the changes on different branches are integrated into a single version. The end result is that the main version (the main branch) is updated to include the changes on the other branches. Team members in collaborative environments can thus work independently of each other on their own branches, and once their work is deemed satisfactory, their work can be merged into the main version.  After merging, the branches can be deleted. GitHub and GitLab workflows also typically include a way for team members to request review and approval of their changes prior to merging them. 
 
 **Note:** 
-Git is not the same as **GitHub** and **GitLab**. Git is software that accomplishes version control, while GitHub and GitLab are websites that host Git repositories and facilitate collaboration. In a typical workflow, a team maintains the central repository for a project on GitHub/GitLab, and team members sync their work on their local machines to and from the central repository, subject to review and approval. Think of GitHub and GitLab as being like a Google Drive that hosts a shared document.
+Git is not the same as **GitHub** and **GitLab**. Git is software that accomplishes version control, while GitHub and GitLab are platforms that host Git repositories and facilitate collaboration. In a typical workflow, a team maintains the central repository for a project on GitHub/GitLab, and team members sync their work on their local machines to and from the central repository, subject to review and approval. Think of GitHub and GitLab as being like a Google Drive that hosts a shared document.
 {: .notice}
 
 ## Why Use Git? 
@@ -76,7 +76,7 @@ The following workflow scenario shows what collaborative version control with Gi
 * **Repository (Repo):** The location where commits are stored (like a photo album storing time-stamped photos).
 * **Branch:** One of potentially many parallel versions of a project.  
 * **Merge:** The process of integrating changes on different branches into a single version of the project.  
-* **GitHub and GitLab:** Websites that host Git repositories (like Google Drive hosting a document) and facilitate collaboration.  
+* **GitHub and GitLab:** Platforms that host Git repositories (like Google Drive hosting a document) and facilitate collaboration.  
 
 ## Getting Started
 * You can download Git from the [Git website](https://git-scm.com/install/).
