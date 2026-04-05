@@ -44,10 +44,10 @@ First, make sure the student answer sheets are ready to be scanned.
 * Check for stray markings, which may affect processing. Erase the stray markings or proceed and correct errors later. 
 * If sheets are excessively ripped or otherwise damaged, they may need to be pulled out and graded manually. 
 
-## Scanning 
+## Scanning
 PaperScorer provides three different methods for scanning student answer sheets. The scanning method described below is recommended for large batches of sheets such as those from a class. The other two methods and their limitations are mentioned briefly at the end of this section.  
 
-### Recommended Scanning Method for Large Batches  
+### Recommended Scanning Method for Large Batches
 This scanning method uses a scanner/copier to create a PDF of the sheets. There are two different versions of this method, which are described below. For both versions, use the scanner/copier settings provided in the table below. 
 
 | Setting | Value |
@@ -86,7 +86,7 @@ This scanning method uses a scanner/copier to create a PDF of the sheets. There 
 
 ### Alternatives (Summary Only)
 
-#### Direct Email 
+#### Direct Email
 Scan the sheets as described above, but instead of using a USB drive or emailing to yourself, email the file directly to `scan@paperscorer.com`. PaperScorer will then process the file automatically.
 
 **Caution:** 
@@ -176,7 +176,7 @@ To correct errors, follow these steps:
 
 ## Troubleshooting
 
-### Quick Checks (60 Seconds) 
+### Quick Checks (60 Seconds)
 * Open the PDF file locally and make sure it **matches the physical sheets** (not blank or cropped).
 * If the website appears stuck, **wait 1–2 minutes** and **refresh the page**. 
 * If the issue persists, switch to a **different browser** or use **incognito/private mode**. 
