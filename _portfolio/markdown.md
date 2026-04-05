@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Getting Started With Markdown in 15 Minutes"
+title: "Getting Started with Markdown in 15 Minutes"
 og_image: "https://andrewchristman.com/assets/images/og-markdown.png"
 classes:
   - markdown-guide
@@ -30,7 +30,7 @@ excerpt: "Beginner quick-start tutorial with examples and guided practice."
 
 ## Sample
 
-Markdown is a simple way to format text for display on the web and related applications. You simply write the text you want and then use symbols such as `*` and `_` to tell the computer how you want to display the text. Markdown is widely used across various platforms for tasks such as formatting blog posts, writing messages, and taking notes. This quick start guide is meant for non-technical users and will show you how to get started with core Markdown formatting in 15 minutes. If you decide to do the exercises, budget up to 30 minutes.
+Markdown is a simple way to format text for display on the web and related applications. You simply write the text you want and then use symbols such as `*` and `_` to tell the computer how you want to display the text. Markdown is widely used across various platforms for tasks such as formatting blog posts, writing messages, and taking notes. This quick-start guide is meant for non-technical users and will show you how to get started with core Markdown formatting in 15 minutes. If you decide to do the exercises, budget up to 30 minutes.
 
 **Note:** 
 Markdown comes in different versions, which are called **flavors**. For example, GitHub uses **GitHub Flavored Markdown**. In some cases, you may need or want to take into account the flavor being used. This guide covers core Markdown formatting without examining different flavors.    
