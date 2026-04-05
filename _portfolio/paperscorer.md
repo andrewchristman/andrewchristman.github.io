@@ -168,9 +168,9 @@ To correct errors, follow these steps:
 
 7. Pull out the failed sheets from the paper stack. These failed sheets must be rescanned. 
 
-   **Tip:** 
-   For a small number of failed sheets, using the PaperScorer mobile app to rescan is quick and easy.
-   {: .notice}
+    **Tip:** 
+    For a small number of failed sheets, using the PaperScorer mobile app to rescan is quick and easy.
+    {: .notice}
 
 8. If the failed sheets rescan without issue, you are ready to begin grading. If the failed sheets continue to fail, either grade the sheets manually or try to correct the sheets by erasing any stray markings and unfolding any folds you find. In some cases, manual grading may be necessary. 
 
@@ -193,6 +193,7 @@ To correct errors, follow these steps:
 | **Mobile app scan fails** | Stray markings, paper folds, damaged paper, glare from overhead lights interferes with scan | **Check** physical sheets for **damage/errors**, **fix** (for example, erase stray markings), and **rescan**. Scan in an environment **protected from glare**, such as **under a table or desk**. If needed, grade affected sheets **manually**. |
 
 ### When and How to Escalate
+
 #### When to Escalate
 Consider escalating if:
 * Multiple users encounter the same issue (may be a service issue).
