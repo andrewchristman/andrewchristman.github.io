@@ -121,7 +121,7 @@ will show as
 
 <div class="demo-output"> {{ rendered_inlinelink | markdownify }} </div>
 
-Best practice is to use descriptive text such as `CommonMark` rather than generic text such as `Click Here` when formatting link text. 
+Best practice is to use descriptive text such as `CommonMark` rather than generic text such as `Click here` when formatting link text. 
 
 **Optional Practice:** 
 Make an inline link with descriptive link text and a URL to a Wikipedia page. 
