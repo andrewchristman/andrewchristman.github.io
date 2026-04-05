@@ -123,7 +123,7 @@ To upload the file to PaperScorer, follow these steps:
      
 4. Select the file in the file picker.
 5. Click **Upload**.
-6. After you click **Upload**, you will see **Processing**. Processing may take 5–10 minutes+ depending on file size.
+6. After you click **Upload**, you will see **Processing**. Processing may take 5–10 minutes or more depending on file size.
 7. Once processing is complete, you will see either **Success** or **Completed with errors**.
 
    <img src="/assets/images/104-success-errors-messages.png"
@@ -187,7 +187,7 @@ To correct errors, follow these steps:
 |---|---|---|
 | File is **grayed out** in the file picker | Wrong file format | Make sure file is **PDF** (not JPEG, PNG, etc.). |
 | File upload is **rejected with a red banner** | File too large | Make sure file is **250 MB or smaller**. | 
-| Upload appears **stuck on processing** | Large file | Processing times of **5–10 minutes+** are normal for large files. If needed, upload file again. |
+| Upload appears **stuck on processing** | Large file | Processing times of **5–10 minutes or more** are normal for large files. If needed, upload file again. |
 | Status shows **Completed with errors** | Stray markings, paper folds, damaged paper | Pull out affected sheets, **correct problems if possible** (for example, erase stray markings), **rescan** (described in detail above). If needed, grade affected sheets **manually**. |
 | **Direct email** from scanner/copier to `scan@paperscorer.com` **does not post anything** | Mistyped email address or processing error due to stray markings, paper folds, damaged paper | Make sure email address is **typed correctly**. **Check** physical sheets for **damage/errors**, **fix** (for example, erase stray markings), and **rescan**. If needed, grade affected sheets **manually**. |
 | **Mobile app scan fails** | Stray markings, paper folds, damaged paper, glare from overhead lights interferes with scan | **Check** physical sheets for **damage/errors**, **fix** (for example, erase stray markings), and **rescan**. Scan in an environment **protected from glare**, such as **under a table or desk**. If needed, grade affected sheets **manually**. |
