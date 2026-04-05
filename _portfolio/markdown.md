@@ -276,7 +276,7 @@ Here are some ways Markdown can be used:
 * **Ghost:** You can use Markdown to format blog posts.
 * **Discord:** You can use Markdown to format messages. 
 * **Obsidian:** You can store notes as Markdown files.
-* **Any Plain-Text Editor:** You can write Markdown in any plain-text editor and then convert into other formats such as PDF with the right tools. 
+* **Any Plain-Text Editor:** You can write Markdown in any plain-text editor and then convert it to other formats, such as PDF, with the right tools. 
 
 ## Mistakes to Avoid
 
