@@ -58,7 +58,7 @@ Git is not the only form of version control, but it has several key advantages:
     While Git does not require an internet connection to make commits, an internet connection is ultimately required in a typical workflow to sync local work with the central repository. However, a user can still continue local work without an internet connection temporarily.
     {: .notice}
 
-* Git is **distributed**. Other forms of version control sometimes synchronize different computers with a single location that stores data without storing a full copy of the data on the local computer. With Git, however, each computer using Git has a full local copy of the central repository. This means that if the central repository on a platform like GitHub or GitLab is compromised, any computer that has an up-to-date sync with the central repository can be used as backup. 
+* Git is **distributed**. Other forms of version control sometimes synchronize different computers with a single location that stores data without storing a full copy of the data on the local computer. With Git, however, each computer using Git has a full local copy of the central repository. This means that if the central repository on a platform like GitHub or GitLab is compromised, any computer that has an up-to-date sync with the central repository can be used as a backup. 
 * Git **handles branching and merging well**. This means Git accomplishes more than just version control—it also makes version control in collaborative environments practical. 
 
 ## Git in Action 
