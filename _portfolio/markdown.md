@@ -149,7 +149,7 @@ Alt text describes the image for screen readers and other assistive devices. Whi
 Insert an image using the URL above and relevant alt text.
 {: .notice}
 
-## Ordered and Unordered Lists 
+## Ordered and Unordered Lists
 There are two types of lists: ordered and unordered. Ordered lists have a sequential order (such as 1, 2, 3...), while unordered lists do not. Markdown displays ordered lists using numbers. To make an ordered list, use a number followed by a period before each list item. For example:   
 
 ```markdown
