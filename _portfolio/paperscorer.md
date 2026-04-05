@@ -166,13 +166,13 @@ To correct errors, follow these steps:
 
 6. Repeat until all failed sheets have been identified.  
 
-7. Pull out the failed sheets from the paper stack. These failed sheets must be re-scanned. 
+7. Pull out the failed sheets from the paper stack. These failed sheets must be rescanned. 
 
    **Tip:** 
-   For a small number of failed sheets, using the PaperScorer mobile app to re-scan is quick and easy.
+   For a small number of failed sheets, using the PaperScorer mobile app to rescan is quick and easy.
    {: .notice}
 
-8. If the failed sheets re-scan without issue, you are ready to begin grading. If the failed sheets continue to fail, either grade the sheets manually or try to correct the sheets by erasing any stray markings and unfolding any folds you find. In some cases, manual grading may be necessary. 
+8. If the failed sheets rescan without issue, you are ready to begin grading. If the failed sheets continue to fail, either grade the sheets manually or try to correct the sheets by erasing any stray markings and unfolding any folds you find. In some cases, manual grading may be necessary. 
 
 ## Troubleshooting
 
