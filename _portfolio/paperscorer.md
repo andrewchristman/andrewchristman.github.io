@@ -56,7 +56,7 @@ This scanning method uses a scanner/copier to create a PDF of the sheets. There 
 | Max File Size | 250 MB |
 | Color | Grayscale |
 | Resolution | 300 DPI |
-| Orientation | Any (consistency speeds processing slightly) |
+| Orientation | Any (consistency makes processing marginally faster) |
 | Mode | Single Page/Simplex |
 
 
