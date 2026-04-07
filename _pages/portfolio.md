@@ -9,4 +9,4 @@ show_excerpts: true
 
 (in progress) 
 
-These samples demonstrate task-based documentation, conceptual explanation, and beginner tutorial writing for non-technical audiences.
+These samples demonstrate task-based documentation, beginner tutorial writing, and conceptual explanation for non-technical audiences.
