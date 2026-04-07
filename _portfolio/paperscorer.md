@@ -52,11 +52,11 @@ This scanning method uses a scanner/copier to create a PDF of the sheets. There 
 
 | Setting | Value |
 |---|---|
-| File Format | PDF |
+| File Format | PDF or JPEG (use PDF for large batches) |
 | Max File Size | 250 MB |
-| Color | Yes |
+| Color | Grayscale |
 | Resolution | 300 DPI |
-| Orientation | Portrait |
+| Orientation | Any (consistency speeds processing slightly) |
 | Mode | Single Page/Simplex |
 
 
