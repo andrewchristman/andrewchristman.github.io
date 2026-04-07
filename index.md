@@ -26,8 +26,6 @@ feature_row:
 
 # Technical Writing Portfolio
 
-(in progress)
-
 I create clear, structured documentation that helps users complete tasks with less friction, shaped by a background in philosophy and teaching.  
 
 [View Resume](/resume/){: .btn .btn--primary}
