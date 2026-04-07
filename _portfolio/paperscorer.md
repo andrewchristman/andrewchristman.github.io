@@ -88,7 +88,7 @@ This scanning method uses a scanner/copier to create a PDF or JPEG of the sheets
 Scan the sheets as described above, but instead of using a USB drive or emailing to yourself, email the file directly to `scan@paperscorer.com`. PaperScorer will then process the file automatically.
 
 **Caution:** 
-With direct emails, failed pages are not easy to identify in PaperScorer. For large batches, use another method. (Note: waiting for verification from PaperScorer)
+With direct emails, failed pages are not easy to identify in PaperScorer. For large batches, use another method. (Note: Waiting for verification from PaperScorer)
 {: .notice--warning}
 
 #### Mobile App
