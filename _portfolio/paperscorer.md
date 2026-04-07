@@ -48,7 +48,7 @@ First, make sure the student answer sheets are ready to be scanned.
 PaperScorer provides three different methods for scanning student answer sheets. The scanning method described below is recommended for large batches of sheets such as those from a class. The other two methods and their limitations are mentioned briefly at the end of this section.  
 
 ### Recommended Scanning Method for Large Batches
-This scanning method uses a scanner/copier to create a PDF of the sheets. There are two different versions of this method, which are described below. For both versions, use the scanner/copier settings provided in the table below. 
+This scanning method uses a scanner/copier to create a PDF or JPEG of the sheets. There are two different versions of this method, which are described below. For both versions, use the scanner/copier settings provided in the table below. 
 
 | Setting | Value |
 |---|---|
@@ -177,7 +177,7 @@ To correct errors, follow these steps:
 ## Troubleshooting
 
 ### Quick Checks (60 Seconds)
-* Open the PDF file locally and make sure it **matches the physical sheets** (not blank or cropped).
+* Open the file locally and make sure it **matches the physical sheets** (not blank or cropped).
 * If the website appears stuck, **wait 1–2 minutes** and **refresh the page**. 
 * If the issue persists, switch to a **different browser** or use **incognito/private mode**. 
 
@@ -185,7 +185,7 @@ To correct errors, follow these steps:
 
 | What You See | Likely Cause | What to Do |
 |---|---|---|
-| File is **grayed out** in the file picker | Wrong file format | Make sure file is **PDF** (not JPEG, PNG, etc.). |
+| File is **grayed out** in the file picker | Wrong file format | Make sure file is **PDF** or **JPEG** |
 | File upload is **rejected with a red banner** | File too large | Make sure file is **250 MB or smaller**. | 
 | Upload appears **stuck on processing** | Large file | Processing times of **5–10 minutes or more** are normal for large files. If needed, upload file again. |
 | Status shows **Completed with errors** | Stray markings, paper folds, damaged paper | Pull out affected sheets, **correct problems if possible** (for example, erase stray markings), **rescan** (described in detail above). If needed, grade affected sheets **manually**. |
@@ -215,7 +215,7 @@ Consider escalating if:
 * If a small number of sheets fail to process, it is often quicker to grade manually than troubleshoot. 
 
 ## Student Privacy
-* Student answer sheets may contain confidential student information that is protected by FERPA. Make sure to delete or store the PDF in accordance with school policy. 
+* Student answer sheets may contain confidential student information that is protected by FERPA. Make sure to delete or store the file in accordance with school policy. 
 
 ## Next Steps
 Once the student answer sheets are scanned and uploaded successfully to PaperScorer, you are ready to begin grading. 
