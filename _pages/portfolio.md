@@ -5,6 +5,7 @@ permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
 sort_by: sequence
+show_excerpts: true
 ---
 
 (in progress) 
