@@ -81,7 +81,7 @@ This scanning method uses a scanner/copier to create a PDF or JPEG of the sheets
 3. The scanner/copier will process the sheets and email the file to your email address. 
 4. Once you receive the file by email, you have two options:
     - Save the file to a location on your computer. Once the file is saved to your computer, you are ready to upload the file to PaperScorer. Go to the **Uploading** section below for next steps.
-    - Forward the email with the attachment included to `scan@paperscorer.com`. PaperScorer will automatically process the attachment. Make sure you forward the email from the email address associated with your PaperScorer account. Go to the **Uploading** section below for next steps, but skip steps 3–5.
+    - Forward the email with the attachment included to `scan@paperscorer.com`. PaperScorer will automatically process the attachment. Make sure you forward the email from the email address associated with your PaperScorer account. Go to the **Uploading** section below for next steps, but skip steps 3–6.
 
 **Caution:**
 PaperScorer does not currently support emailing the file directly from the scanner/copier to PaperScorer. 
