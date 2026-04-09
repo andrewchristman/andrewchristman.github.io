@@ -17,7 +17,7 @@ excerpt: "Workflow guide with troubleshooting and escalation guidance."
     <strong>Key Considerations:</strong>
       <ul>
         <li>Guide is scoped to scanning and uploading assessments, not creating assessments, to avoid overwhelming the user.</li>
-        <li>Alternative methods for scanning and uploading student answer sheets are mentioned but not described in detail to avoid overwhelming the user.</li>
+        <li>An alternative method for scanning and uploading student answer sheets is mentioned but not described in detail to avoid overwhelming the user.</li>
         <li>Guide distinguishes between problems teachers can resolve themselves and problems that warrant escalation.</li>
       </ul>
     </li>
