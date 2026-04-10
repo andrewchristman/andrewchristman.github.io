@@ -43,7 +43,7 @@ First, make sure the student answer sheets are ready to be scanned.
 * If sheets are excessively ripped or otherwise damaged, they may need to be pulled out and graded manually. 
 
 ## Scanning
-PaperScorer provides two different methods for scanning student answer sheets. The scanning method described below is recommended for large batches of sheets such as those from a class. The other method and its limitation is mentioned briefly at the end of this section.  
+PaperScorer provides two different methods for scanning student answer sheets. The scanning method described below is recommended for large batches of sheets such as those from a class. The other method and its limitation are mentioned briefly at the end of this section.  
 
 ### Recommended Scanning Method for Large Batches
 This scanning method uses a scanner/copier to create a PDF or JPEG of the sheets. There are two different versions of this method, which are described below. For both versions, use the scanner/copier settings provided in the following table. 
@@ -101,7 +101,7 @@ To upload the file to PaperScorer, follow these steps:
 1. Navigate to `https://www.paperscorer.com` in your browser and click **Log In**.
 
    <img src="/assets/images/101-login-page.png"
-     alt="PaperScorer Log In Page"
+     alt="PaperScorer Login Page"
      class="doc-shot">
   
 2. Click **Upload & Score**.

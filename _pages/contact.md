@@ -5,7 +5,7 @@ layout: single
 author_profile: false
 ---
 
-You can contact me here:
+You can reach me here:
 
 [andrewchristmantw@gmail.com](mailto:andrewchristmantw@gmail.com)
 
