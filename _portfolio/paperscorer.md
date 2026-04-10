@@ -92,7 +92,7 @@ PaperScorer does not currently support emailing the file directly from the scann
 Open the PaperScorer mobile app and center a single sheet in the camera viewfinder on the screen. The app will then automatically take a photo of the sheet and upload the data.   
 
 **Caution:** 
-This method requires processing sheets one-by-one. For large batches, use the method described above. 
+This method requires processing sheets one by one. For large batches, use the method described above. 
 {: .notice--warning}
 
 ## Uploading
