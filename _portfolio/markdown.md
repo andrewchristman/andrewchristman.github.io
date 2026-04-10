@@ -236,7 +236,7 @@ Code
 
 <div class="demo-output"> {{ rendered_codeblock | markdownify }} </div>
 
-Note that the code is now displayed in the darker-colored code block inside the lighter-colored display box. 
+Note that the text is now displayed in the darker-colored code block inside the lighter-colored display box. 
 
 **Optional Practice:** 
 Write a code sample, real or invented, and enclose it first in single backticks for inline code and then in triple backticks for a code block. 
