@@ -184,7 +184,7 @@ To correct errors, follow these steps:
 | File upload is **rejected with a red banner** | File too large | Make sure file is **250 MB or smaller**. | 
 | Upload appears **stuck on processing** | Large file | Processing times of **5–10 minutes or more** are normal for large files. If needed, upload file again. |
 | Status shows **Completed with errors** | Stray markings, paper folds, damaged paper | Pull out affected sheets, **correct problems if possible** (for example, erase stray markings), **rescan** (described in detail above). If needed, grade affected sheets **manually**. |
-| **Direct email** from scanner/copier to `scan@paperscorer.com` **does not post anything** | Email must come from email address associated with PaperScorer account | Use the scanner/copier to **email the file to the email address associated with your PaperScorer account** and then **forward** the email from there to `scan@paperscorer.com` |
+| **Direct email** from scanner/copier to `scan@paperscorer.com` **does not post anything** | Email must come from email address associated with PaperScorer account | Use the scanner/copier to **email the file to the email address associated with your PaperScorer account** and then **forward** the email to `scan@paperscorer.com` |
 | **Mobile app scan fails** | Stray markings, paper folds, damaged paper, glare from overhead lights interferes with scan | **Check** physical sheets for **damage/errors**, **fix** (for example, erase stray markings), and **rescan**. Scan in an environment **protected from glare**, such as **under a table or desk**. If needed, grade affected sheets **manually**. |
 
 ### When and How to Escalate
