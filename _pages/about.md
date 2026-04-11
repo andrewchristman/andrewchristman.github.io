@@ -5,7 +5,7 @@ layout: single
 author_profile: false
 ---
 
-I create documentation that is clear and user-focused.
+I create documentation that is clear and user-focused, shaped by a background in philosophy and teaching.
 
 My academic training in analytic philosophy honed my skills in nuanced reading, logical analysis, and precise communication. Clarity and rigor are the guiding values of analytic philosophy, and I bring these values to the work I do. 
 
