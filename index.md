@@ -24,7 +24,7 @@ feature_row:
     btn_class: "btn--primary" 
 ---
 
-# Technical Writing Portfolio
+# Documentation Portfolio
 
 I create clear, structured documentation that helps users complete tasks with less friction. 
 

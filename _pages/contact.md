@@ -7,12 +7,14 @@ author_profile: false
 
 You can reach me here:
 
-[andrewchristmantw@gmail.com](mailto:andrewchristmantw@gmail.com)
+[apchristman@outlook.com](mailto:apchristman@outlook.com)
 
 [LinkedIn](https://linkedin.com/in/andrew-christman)
 
 [GitHub](https://github.com/andrewchristman)
 
-[Resume](/assets/files/resume.pdf) 
+[Technical Writing Resume](/assets/files/andrew-christman-technical-writing-resume.pdf)
+
+[Product Support Resume](/assets/files/andrew-christman-product-support-resume.pdf) 
 
 
