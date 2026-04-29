@@ -8,6 +8,9 @@ locale: "en-US"
 
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 
+fathom:
+  site_id: AGEYEWUU
+
 plugins:
   - jekyll-include-cache
 
