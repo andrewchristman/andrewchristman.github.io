@@ -129,7 +129,7 @@ To upload the file to PaperScorer, follow these steps:
 
 ## Correcting Errors
 To correct errors, follow these steps:
-1. Click the more options button to the right of the status notification.
+1. Click the **More options** button to the right of the status notification.
    
    <img src="/assets/images/201-more-options-button.png"
      alt="More Options Button"
@@ -180,11 +180,11 @@ To correct errors, follow these steps:
 
 | What You See | Likely Cause | What to Do |
 |---|---|---|
-| File is **grayed out** in the file picker | Wrong file format | Make sure file is **PDF** or **JPEG** |
+| File is **grayed out** in the file picker | Wrong file format | Make sure file is **PDF** or **JPEG**. |
 | File upload is **rejected with a red banner** | File too large | Make sure file is **250 MB or smaller**. | 
 | Upload appears **stuck on processing** | Large file | Processing times of **5–10 minutes or more** are normal for large files. If needed, upload file again. |
 | Status shows **Completed with errors** | Stray markings, paper folds, damaged paper | Pull out affected sheets, **correct problems if possible** (for example, erase stray markings), **rescan** (described in detail above). If needed, grade affected sheets **manually**. |
-| **Direct email** from scanner/copier to `scan@paperscorer.com` **does not post anything** | Email must come from email address associated with PaperScorer account | Use the scanner/copier to **email the file to the email address associated with your PaperScorer account** and then **forward** the email to `scan@paperscorer.com` |
+| **Direct email** from scanner/copier to `scan@paperscorer.com` **does not post anything** | Email must come from email address associated with PaperScorer account | Use the scanner/copier to **email the file to the email address associated with your PaperScorer account** and then **forward** the email to `scan@paperscorer.com`. |
 | **Mobile app scan fails** | Stray markings, paper folds, damaged paper, glare from overhead lights interferes with scan | **Check** physical sheets for **damage/errors**, **fix** (for example, erase stray markings), and **rescan**. Scan in an environment **protected from glare**, such as **under a table or desk**. If needed, grade affected sheets **manually**. |
 
 ### When and How to Escalate
@@ -199,7 +199,7 @@ Consider escalating if:
 * For PaperScorer issues, contact PaperScorer directly. 
     * [PaperScorer Help Center](https://help.paperscorer.com/)
     * [Contact Us](https://www.paperscorer.com/support)
-* For internal IT issues, contact the IT help line at `(000) 000-0000`. 
+* For internal IT issues, contact the IT helpline at `(000) 000-0000`. 
 * For larger school issues, contact the Dean of Academics at `(000) 000-0000 Ext. 0` or `deanofacademics@example.com`. 
 
 ## Tips

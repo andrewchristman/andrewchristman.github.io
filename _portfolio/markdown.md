@@ -150,7 +150,7 @@ Insert an image using the URL above and relevant alt text.
 {: .notice}
 
 ## Ordered and Unordered Lists
-There are two types of lists: ordered and unordered. Ordered lists have a sequential order (such as 1, 2, 3...), while unordered lists do not. Markdown displays ordered lists using numbers. To make an ordered list, use a number followed by a period before each list item. For example:   
+There are two types of lists: ordered and unordered. Ordered lists have a sequential order (such as 1, 2, 3, ...), while unordered lists do not. Markdown displays ordered lists using numbers. To make an ordered list, use a number followed by a period before each list item. For example:   
 
 ```markdown
 1. List Item 1  
@@ -374,7 +374,7 @@ Copy-paste the Markdown text above into your editor of choice to see the rendere
 
 * A [Markdown tutorial](https://commonmark.org/help/tutorial/) is available.
 
-* A guide to Markdown by Matt Cone is available in both [PDF format](https://www.markdownguide.org/book/) and [online](https://www.markdownguide.org/getting-started/). Physical copies are also available on [Amazon](https://www.amazon.com/Markdown-Guide-Matt-Cone/dp/B08BW8L1P6/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=). 
+* A guide to Markdown by Matt Cone is available both in [PDF format](https://www.markdownguide.org/book/) and [online](https://www.markdownguide.org/getting-started/). Physical copies are also available on [Amazon](https://www.amazon.com/Markdown-Guide-Matt-Cone/dp/B08BW8L1P6/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=). 
 
 ## Final Step
 Learning Markdown takes practice. Use one of the resources above to get started. 
