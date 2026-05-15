@@ -186,3 +186,14 @@ blockquote em {
   margin-bottom: 0;
 }
 
+.resume-button {
+  width: 100%;
+  max-width: 34rem;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .resume-button {
+    max-width: none;
+  }
+}
