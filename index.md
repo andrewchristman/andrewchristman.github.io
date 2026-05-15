@@ -28,6 +28,6 @@ feature_row:
 
 I create clear, structured documentation that helps users complete tasks with less friction. 
 
-[View Resume](/resume/){: .btn .btn--primary}
+[View Resume](/resume/){: .btn .btn--primary .home-resume-button}
 
 {% include feature_row %}
