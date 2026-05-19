@@ -78,6 +78,6 @@ The following workflow scenario shows what collaborative version control with Gi
 
 ## Getting Started
 * You can download Git from the [Git website](https://git-scm.com/install/).
-* The free book [_Pro Git_](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub provides detailed information about Git and how to use it. 
+* The free book [_Pro Git_](https://git-scm.com/book/en/v2) provides detailed information about Git and how to use it. 
 * GitHub offers a [getting started guide](https://docs.github.com/en/get-started).
 * GitLab offers a [getting started guide](https://university.gitlab.com/pages/getting-started).
