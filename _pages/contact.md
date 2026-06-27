@@ -13,8 +13,6 @@ You can reach me here:
 
 [GitHub](https://github.com/andrewchristman)
 
-[Technical Writing Resume](/assets/files/andrew-christman-technical-writing-resume.pdf)
-
-[EdTech Client Enablement and Documentation Resume](/assets/files/andrew-christman-edtech-client-enablement-documentation-resume.pdf) 
+[Resume](/assets/files/andrew-christman-resume.pdf)
 
 
